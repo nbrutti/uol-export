@@ -1,0 +1,1521 @@
+Country,League,Season,Date,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Brazil,Serie A,2015,09/05/15,Chapecoense-SC,Coritiba,2,1,H,2.21,3.24,3.77,2.32,3.3,3.8,2.12,3.15,3.5
+Brazil,Serie A,2015,09/05/15,Palmeiras,Atletico-MG,2,2,D,1.72,3.72,5.76,1.72,4.1,6.5,1.65,3.52,5.35
+Brazil,Serie A,2015,10/05/15,Fluminense,Joinville,1,0,H,1.62,3.89,6.69,1.67,4.01,6.73,1.57,3.72,5.96
+Brazil,Serie A,2015,10/05/15,Gremio,Ponte Preta,3,3,D,1.64,3.71,6.64,1.65,4.1,7.1,1.57,3.63,6.16
+Brazil,Serie A,2015,10/05/15,Atletico-PR,Internacional,3,0,H,2.19,3.31,3.74,2.31,3.36,3.74,2.16,3.18,3.37
+Brazil,Serie A,2015,10/05/15,Cruzeiro,Corinthians,0,1,A,2.84,3.24,2.74,2.95,3.3,2.83,2.76,3.09,2.57
+Brazil,Serie A,2015,10/05/15,Sao Paulo,Flamengo RJ,2,1,H,2.23,3.38,3.6,2.25,3.5,3.66,2.12,3.23,3.39
+Brazil,Serie A,2015,10/05/15,Sport Recife,Figueirense,4,1,H,1.71,3.66,5.91,1.85,3.78,5.91,1.71,3.46,4.97
+Brazil,Serie A,2015,10/05/15,Avai,Santos,1,1,D,3.82,3.47,2.11,3.92,3.49,2.22,3.43,3.27,2.09
+Brazil,Serie A,2015,10/05/15,Vasco,Goias,0,0,D,1.66,3.72,6.46,1.75,3.85,6.46,1.65,3.53,5.44
+Brazil,Serie A,2015,16/05/15,Coritiba,Gremio,2,0,H,2.6,3.18,3.06,2.79,3.25,3.11,2.54,3.02,2.87
+Brazil,Serie A,2015,16/05/15,Goias,Atletico-PR,2,0,H,2.3,3.21,3.6,2.31,3.3,3.64,2.23,3.1,3.3
+Brazil,Serie A,2015,17/05/15,Corinthians,Chapecoense-SC,1,0,H,1.71,3.68,5.95,1.72,4.1,7.3,1.6,3.59,5.93
+Brazil,Serie A,2015,17/05/15,Figueirense,Vasco,0,0,D,2.58,3.18,3.08,2.7,3.25,3.08,2.5,3.08,2.87
+Brazil,Serie A,2015,17/05/15,Atletico-MG,Fluminense,4,1,H,2.04,3.43,4.1,2.2,3.65,4.25,1.99,3.3,3.72
+Brazil,Serie A,2015,17/05/15,Flamengo RJ,Sport Recife,2,2,D,1.68,3.89,5.7,1.68,4,6.5,1.62,3.66,5.47
+Brazil,Serie A,2015,17/05/15,Santos,Cruzeiro,1,0,H,1.88,3.57,4.7,1.91,3.6,4.73,1.82,3.4,4.3
+Brazil,Serie A,2015,17/05/15,Internacional,Avai,1,0,H,1.76,3.9,5.01,1.8,4,6.78,1.65,3.68,5.26
+Brazil,Serie A,2015,17/05/15,Joinville,Palmeiras,0,0,D,3.3,3.21,2.43,3.33,3.5,2.5,3.09,3.11,2.33
+Brazil,Serie A,2015,17/05/15,Ponte Preta,Sao Paulo,1,0,H,3.11,3.25,2.53,3.4,3.34,2.53,2.99,3.14,2.37
+Brazil,Serie A,2015,23/05/15,Sao Paulo,Joinville,3,0,H,1.48,4.21,8.78,1.48,4.4,9.4,1.43,4,8.07
+Brazil,Serie A,2015,23/05/15,Vasco,Internacional,1,1,D,1.89,3.46,4.81,1.9,3.7,5.4,1.8,3.37,4.56
+Brazil,Serie A,2015,24/05/15,Gremio,Figueirense,1,0,H,1.53,4.1,7.9,1.56,4.11,8.22,1.5,3.79,7.08
+Brazil,Serie A,2015,24/05/15,Palmeiras,Goias,0,1,A,1.63,3.91,6.64,1.63,4.1,7.5,1.53,3.76,6.54
+Brazil,Serie A,2015,24/05/15,Atletico-PR,Atletico-MG,1,0,H,3.68,3.35,2.2,3.72,3.5,2.3,3.34,3.25,2.14
+Brazil,Serie A,2015,24/05/15,Avai,Flamengo RJ,2,1,H,2.96,3.16,2.73,2.96,3.2,2.9,2.64,3.06,2.71
+Brazil,Serie A,2015,24/05/15,Chapecoense-SC,Santos,1,0,H,2.81,3.17,2.83,2.81,3.4,2.86,2.63,3.1,2.69
+Brazil,Serie A,2015,24/05/15,Fluminense,Corinthians,0,0,D,2.77,3.17,2.87,2.82,3.25,3,2.6,3.05,2.76
+Brazil,Serie A,2015,24/05/15,Cruzeiro,Ponte Preta,1,1,D,2.39,3.34,3.25,2.39,3.6,3.8,2.22,3.21,3.21
+Brazil,Serie A,2015,24/05/15,Sport Recife,Coritiba,1,0,H,1.82,3.57,5.1,2,3.68,5.1,1.82,3.38,4.41
+Brazil,Serie A,2015,30/05/15,Coritiba,Avai,1,2,A,1.69,3.74,5.95,1.75,3.8,5.95,1.69,3.52,5.13
+Brazil,Serie A,2015,30/05/15,Ponte Preta,Chapecoense-SC,3,1,H,1.9,3.58,4.53,1.92,3.7,5,1.82,3.4,4.35
+Brazil,Serie A,2015,31/05/15,Joinville,Atletico-PR,1,2,A,2.41,3.26,3.3,2.47,3.35,3.3,2.33,3.08,3.11
+Brazil,Serie A,2015,31/05/15,Santos,Sport Recife,2,2,D,1.53,4.32,7.2,1.57,4.33,7.5,1.52,3.91,6.33
+Brazil,Serie A,2015,31/05/15,Atletico-MG,Vasco,3,0,H,1.42,4.79,8.92,1.5,4.79,9.2,1.41,4.24,7.79
+Brazil,Serie A,2015,31/05/15,Corinthians,Palmeiras,0,2,A,2.11,3.26,4.1,2.2,3.4,4.2,2.05,3.17,3.71
+Brazil,Serie A,2015,31/05/15,Goias,Gremio,1,1,D,2.92,3.1,2.77,2.92,3.2,2.87,2.72,2.97,2.69
+Brazil,Serie A,2015,31/05/15,Internacional,Sao Paulo,0,0,D,2.48,3.34,3.09,2.6,3.35,3.2,2.35,3.17,3.03
+Brazil,Serie A,2015,31/05/15,Figueirense,Cruzeiro,2,1,H,3.02,3.22,2.61,3.1,3.25,2.62,2.91,3.08,2.47
+Brazil,Serie A,2015,31/05/15,Flamengo RJ,Fluminense,2,3,A,2.4,3.33,3.25,2.5,3.37,3.26,2.35,3.15,3.03
+Brazil,Serie A,2015,03/06/15,Atletico-PR,Figueirense,1,0,H,1.65,3.66,6.83,1.75,3.95,7.3,1.64,3.48,5.73
+Brazil,Serie A,2015,03/06/15,Chapecoense-SC,Joinville,2,0,H,1.65,3.73,6.65,1.7,3.78,6.65,1.65,3.52,5.46
+Brazil,Serie A,2015,03/06/15,Vasco,Ponte Preta,0,3,A,2.44,3.28,3.25,2.65,3.4,3.3,2.41,3.11,2.98
+Brazil,Serie A,2015,04/06/15,Sao Paulo,Santos,3,2,H,1.9,3.64,4.45,1.95,3.8,4.85,1.86,3.38,4.16
+Brazil,Serie A,2015,04/06/15,Avai,Atletico-MG,1,4,A,3.95,3.61,2.03,4.55,3.65,2.06,3.73,3.35,1.97
+Brazil,Serie A,2015,04/06/15,Cruzeiro,Flamengo RJ,1,0,H,1.93,3.55,4.49,1.94,3.85,4.85,1.83,3.41,4.26
+Brazil,Serie A,2015,04/06/15,Gremio,Corinthians,3,1,H,2.19,3.15,4.01,2.25,3.4,4.01,2.11,3.06,3.66
+Brazil,Serie A,2015,04/06/15,Fluminense,Coritiba,2,0,H,1.83,3.52,5.15,1.85,3.9,5.6,1.74,3.43,4.85
+Brazil,Serie A,2015,05/06/15,Palmeiras,Internacional,1,1,D,1.88,3.61,4.68,1.95,3.85,4.7,1.87,3.38,4.1
+Brazil,Serie A,2015,05/06/15,Sport Recife,Goias,1,0,H,1.76,3.53,5.71,1.92,3.6,5.71,1.75,3.38,4.81
+Brazil,Serie A,2015,06/06/15,Atletico-MG,Cruzeiro,1,3,A,1.69,3.97,5.46,1.69,4,6.2,1.63,3.7,5.22
+Brazil,Serie A,2015,06/06/15,Flamengo RJ,Chapecoense-SC,1,0,H,1.82,3.56,5.14,1.83,3.7,5.3,1.74,3.43,4.79
+Brazil,Serie A,2015,06/06/15,Santos,Ponte Preta,2,2,D,1.98,3.47,4.27,1.99,3.6,4.4,1.92,3.31,4.02
+Brazil,Serie A,2015,07/06/15,Atletico-PR,Vasco,2,0,H,1.67,3.85,5.99,1.73,3.95,6.6,1.64,3.57,5.51
+Brazil,Serie A,2015,07/06/15,Joinville,Corinthians,0,1,A,4.41,3.21,2.05,4.41,3.3,2.18,3.84,3.09,2.04
+Brazil,Serie A,2015,07/06/15,Sao Paulo,Gremio,2,0,H,1.81,3.45,5.44,1.83,3.68,5.44,1.77,3.37,4.76
+Brazil,Serie A,2015,07/06/15,Internacional,Coritiba,2,0,H,1.67,3.85,6.05,1.67,3.85,6.5,1.6,3.63,5.74
+Brazil,Serie A,2015,07/06/15,Figueirense,Palmeiras,2,1,H,3.42,3.32,2.32,3.5,3.32,2.35,3.22,3.11,2.26
+Brazil,Serie A,2015,07/06/15,Fluminense,Sport Recife,0,0,D,1.7,3.79,5.73,1.75,3.79,6.2,1.68,3.53,5.11
+Brazil,Serie A,2015,07/06/15,Goias,Avai,0,1,A,1.82,3.53,5.23,1.84,3.53,5.6,1.78,3.32,4.74
+Brazil,Serie A,2015,10/06/15,Atletico-MG,Santos,2,2,D,1.53,4.58,6.61,1.56,4.65,7.5,1.5,4.23,6.04
+Brazil,Serie A,2015,13/06/15,Chapecoense-SC,Sao Paulo,0,1,A,2.7,3.12,2.99,2.85,3.2,2.99,2.62,3.01,2.76
+Brazil,Serie A,2015,13/06/15,Corinthians,Internacional,2,1,H,1.71,3.66,5.92,1.88,3.66,5.92,1.75,3.37,4.94
+Brazil,Serie A,2015,13/06/15,Coritiba,Flamengo RJ,0,1,A,2.76,3.2,2.85,2.83,3.2,3,2.6,3.04,2.75
+Brazil,Serie A,2015,14/06/15,Sport Recife,Joinville,2,1,H,1.62,3.94,6.49,1.7,3.94,6.95,1.58,3.66,5.92
+Brazil,Serie A,2015,14/06/15,Vasco,Cruzeiro,1,3,A,3.22,3.22,2.48,3.3,3.4,2.7,2.92,3.07,2.46
+Brazil,Serie A,2015,14/06/15,Ponte Preta,Goias,0,0,D,1.6,3.91,7,1.65,4.25,7,1.58,3.7,5.84
+Brazil,Serie A,2015,14/06/15,Avai,Figueirense,1,1,D,2.13,3.33,3.91,2.2,3.33,4,2.06,3.17,3.65
+Brazil,Serie A,2015,14/06/15,Gremio,Atletico-PR,2,1,H,1.69,3.72,6.09,1.8,3.72,6.09,1.68,3.49,5.22
+Brazil,Serie A,2015,14/06/15,Palmeiras,Fluminense,2,1,H,1.85,3.54,4.99,1.99,3.6,5.11,1.78,3.37,4.63
+Brazil,Serie A,2015,19/06/15,Figueirense,Internacional,0,0,D,2.88,3.21,2.73,3,3.25,2.74,2.82,3.04,2.56
+Brazil,Serie A,2015,20/06/15,Flamengo RJ,Atletico-MG,0,2,A,2.56,3.44,2.91,2.7,3.44,2.93,2.52,3.22,2.71
+Brazil,Serie A,2015,20/06/15,Santos,Corinthians,1,0,H,2.28,3.3,3.53,2.45,3.35,3.53,2.28,3.13,3.19
+Brazil,Serie A,2015,20/06/15,Sport Recife,Vasco,2,1,H,1.79,3.74,5,1.81,3.86,6.1,1.71,3.49,4.96
+Brazil,Serie A,2015,21/06/15,Gremio,Palmeiras,1,0,H,2.02,3.45,4.15,2.1,3.45,4.18,2.02,3.22,3.75
+Brazil,Serie A,2015,21/06/15,Cruzeiro,Chapecoense-SC,0,1,A,1.62,3.92,6.53,1.64,4.1,6.58,1.57,3.68,6.14
+Brazil,Serie A,2015,21/06/15,Atletico-PR,Coritiba,2,2,D,1.96,3.4,4.52,1.99,3.55,5.1,1.9,3.24,4.19
+Brazil,Serie A,2015,21/06/15,Joinville,Goias,2,1,H,2.39,3.12,3.49,2.42,3.25,3.6,2.26,3.01,3.3
+Brazil,Serie A,2015,21/06/15,Sao Paulo,Avai,1,1,D,1.53,4.53,6.69,1.53,4.55,8,1.47,4.1,6.64
+Brazil,Serie A,2015,24/06/15,Fluminense,Ponte Preta,2,0,H,2.03,3.42,4.16,2.3,3.5,4.27,2.05,3.22,3.67
+Brazil,Serie A,2015,27/06/15,Avai,Gremio,1,2,A,3.5,3.22,2.34,3.5,3.25,2.55,3.15,3.06,2.32
+Brazil,Serie A,2015,27/06/15,Chapecoense-SC,Sport Recife,1,1,D,2.04,3.39,4.19,2.06,3.4,4.5,1.94,3.23,3.98
+Brazil,Serie A,2015,28/06/15,Corinthians,Figueirense,2,1,H,1.53,4.14,7.8,1.55,4.25,8.8,1.49,3.79,7.25
+Brazil,Serie A,2015,28/06/15,Atletico-MG,Joinville,1,0,H,1.23,6.52,16.59,1.25,6.9,16.85,1.22,5.81,12.55
+Brazil,Serie A,2015,28/06/15,Coritiba,Cruzeiro,1,0,H,2.78,3.27,2.78,2.95,3.3,2.78,2.74,3.11,2.57
+Brazil,Serie A,2015,28/06/15,Goias,Fluminense,1,2,A,2.41,3.2,3.36,2.53,3.34,3.4,2.3,3.06,3.19
+Brazil,Serie A,2015,28/06/15,Palmeiras,Sao Paulo,4,0,H,2.17,3.38,3.74,2.36,3.4,3.74,2.16,3.18,3.41
+Brazil,Serie A,2015,28/06/15,Ponte Preta,Atletico-PR,2,1,H,1.92,3.58,4.45,1.92,3.65,4.9,1.84,3.43,4.23
+Brazil,Serie A,2015,28/06/15,Internacional,Santos,1,0,H,2.14,3.41,3.77,2.15,3.41,4.45,2.04,3.25,3.65
+Brazil,Serie A,2015,28/06/15,Vasco,Flamengo RJ,1,0,H,3.95,3.28,2.14,4.2,3.4,2.23,3.66,3.21,2.05
+Brazil,Serie A,2015,01/07/15,Sport Recife,Internacional,3,0,H,2.03,3.41,4.18,2.05,3.75,4.7,1.96,3.29,3.87
+Brazil,Serie A,2015,01/07/15,Vasco,Avai,1,0,H,1.85,3.59,4.82,2.07,3.7,4.82,1.88,3.38,4.09
+Brazil,Serie A,2015,02/07/15,Atletico-MG,Coritiba,2,0,H,1.36,5.15,10.15,1.36,5.5,11,1.33,4.82,8.74
+Brazil,Serie A,2015,02/07/15,Palmeiras,Chapecoense-SC,2,0,H,1.58,3.98,7,1.67,4.06,7,1.55,3.77,6.16
+Brazil,Serie A,2015,02/07/15,Atletico-PR,Sao Paulo,2,1,H,2.27,3.37,3.46,2.5,3.4,3.46,2.29,3.14,3.15
+Brazil,Serie A,2015,02/07/15,Gremio,Cruzeiro,1,0,H,2.02,3.41,4.22,2.02,3.44,5.3,1.89,3.3,4.14
+Brazil,Serie A,2015,02/07/15,Joinville,Flamengo RJ,0,1,A,3.48,3.15,2.38,3.56,3.35,2.55,3.15,3.05,2.34
+Brazil,Serie A,2015,02/07/15,Corinthians,Ponte Preta,2,0,H,1.79,3.58,5.3,1.82,3.58,6,1.76,3.37,4.82
+Brazil,Serie A,2015,02/07/15,Figueirense,Goias,3,1,H,2.21,3.15,3.91,2.24,3.4,4,2.14,3.05,3.6
+Brazil,Serie A,2015,03/07/15,Fluminense,Santos,2,1,H,2.22,3.45,3.52,2.3,3.45,3.9,2.17,3.26,3.31
+Brazil,Serie A,2015,04/07/15,Coritiba,Joinville,0,0,D,1.68,3.59,6.48,1.7,3.7,6.9,1.64,3.49,5.67
+Brazil,Serie A,2015,05/07/15,Chapecoense-SC,Vasco,1,0,H,1.79,3.47,5.65,1.95,3.5,5.68,1.8,3.28,4.72
+Brazil,Serie A,2015,05/07/15,Cruzeiro,Atletico-PR,2,0,H,1.74,3.67,5.42,1.76,3.67,5.69,1.68,3.52,5.15
+Brazil,Serie A,2015,05/07/15,Avai,Sport Recife,2,2,D,2.32,3.34,3.39,2.5,3.35,3.39,2.29,3.17,3.09
+Brazil,Serie A,2015,05/07/15,Goias,Corinthians,0,0,D,3.11,3.08,2.64,3.25,3.2,2.64,3.02,2.92,2.5
+Brazil,Serie A,2015,05/07/15,Santos,Gremio,1,3,A,2.2,3.44,3.58,2.25,3.44,3.85,2.15,3.21,3.36
+Brazil,Serie A,2015,05/07/15,Sao Paulo,Fluminense,0,0,D,1.71,3.81,5.63,1.75,3.81,5.63,1.7,3.56,4.88
+Brazil,Serie A,2015,05/07/15,Flamengo RJ,Figueirense,1,2,A,1.59,4.01,6.75,1.61,4.03,7.7,1.55,3.69,6.42
+Brazil,Serie A,2015,05/07/15,Internacional,Atletico-MG,1,3,A,2.42,3.53,3.04,2.6,3.53,3.13,2.41,3.29,2.83
+Brazil,Serie A,2015,05/07/15,Ponte Preta,Palmeiras,0,2,A,4.06,3.54,2.02,4.33,3.64,2.15,3.88,3.33,1.94
+Brazil,Serie A,2015,08/07/15,Chapecoense-SC,Gremio,1,0,H,2.83,3.06,2.86,3.02,3.1,2.86,2.73,2.93,2.74
+Brazil,Serie A,2015,08/07/15,Coritiba,Ponte Preta,0,0,D,2.27,3.28,3.56,2.44,3.3,3.75,2.18,3.14,3.37
+Brazil,Serie A,2015,08/07/15,Goias,Santos,4,1,H,2.56,3.26,3.06,2.71,3.26,3.26,2.48,3.02,2.93
+Brazil,Serie A,2015,09/07/15,Figueirense,Joinville,0,2,A,1.79,3.46,5.66,1.8,3.76,5.66,1.75,3.34,4.86
+Brazil,Serie A,2015,09/07/15,Palmeiras,Avai,3,0,H,1.38,4.93,9.63,1.42,4.96,11,1.37,4.4,8.54
+Brazil,Serie A,2015,09/07/15,Atletico-MG,Sport Recife,2,1,H,1.39,5.01,9.41,1.45,5.01,9.41,1.39,4.43,7.72
+Brazil,Serie A,2015,09/07/15,Internacional,Flamengo RJ,1,2,A,2.02,3.48,4.14,2.02,3.48,4.5,1.96,3.29,3.88
+Brazil,Serie A,2015,09/07/15,Vasco,Sao Paulo,0,4,A,4.02,3.34,2.1,4.33,3.45,2.1,3.92,3.2,1.98
+Brazil,Serie A,2015,09/07/15,Corinthians,Atletico-PR,2,0,H,1.57,3.9,7.51,1.6,4.2,8,1.54,3.71,6.62
+Brazil,Serie A,2015,10/07/15,Fluminense,Cruzeiro,1,0,H,2.79,3.24,2.79,2.79,3.24,3,2.59,3.12,2.73
+Brazil,Serie A,2015,11/07/15,Gremio,Vasco,2,0,H,1.41,4.46,10.6,1.44,4.75,12,1.39,4.17,8.81
+Brazil,Serie A,2015,11/07/15,Santos,Figueirense,3,0,H,1.55,4.13,7.19,1.6,4.33,7.19,1.54,3.83,6.22
+Brazil,Serie A,2015,12/07/15,Ponte Preta,Atletico-MG,0,2,A,2.87,3.39,2.62,3.1,3.55,2.63,2.81,3.25,2.44
+Brazil,Serie A,2015,12/07/15,Sao Paulo,Coritiba,3,1,H,1.57,3.9,7.53,1.57,4.1,7.6,1.51,3.82,6.69
+Brazil,Serie A,2015,12/07/15,Atletico-PR,Fluminense,1,2,A,1.96,3.53,4.31,2.05,3.53,4.31,1.97,3.28,3.82
+Brazil,Serie A,2015,12/07/15,Cruzeiro,Goias,1,0,H,1.61,3.97,6.51,1.61,4,8.2,1.54,3.74,6.35
+Brazil,Serie A,2015,12/07/15,Flamengo RJ,Corinthians,0,3,A,2.5,3.15,3.26,2.6,3.2,3.33,2.42,2.98,3.08
+Brazil,Serie A,2015,12/07/15,Joinville,Internacional,0,2,A,2.36,3.17,3.51,2.38,3.3,3.7,2.26,3.07,3.26
+Brazil,Serie A,2015,12/07/15,Avai,Chapecoense-SC,2,1,H,2.74,3,3.06,2.8,3.2,3.1,2.54,2.95,2.91
+Brazil,Serie A,2015,12/07/15,Sport Recife,Palmeiras,2,2,D,2.52,3.31,3.07,2.55,3.31,3.25,2.42,3.21,2.87
+Brazil,Serie A,2015,18/07/15,Flamengo RJ,Gremio,1,0,H,2.37,3.15,3.5,2.51,3.2,3.5,2.28,3.02,3.29
+Brazil,Serie A,2015,18/07/15,Internacional,Goias,2,1,H,2.02,3.34,4.33,2.02,3.46,4.9,1.92,3.25,4.07
+Brazil,Serie A,2015,19/07/15,Corinthians,Atletico-MG,1,0,H,2.46,3.38,3.11,2.6,3.38,3.2,2.38,3.15,2.97
+Brazil,Serie A,2015,19/07/15,Atletico-PR,Chapecoense-SC,1,0,H,2.13,3.23,4.05,2.18,3.3,4.15,2.01,3.18,3.82
+Brazil,Serie A,2015,19/07/15,Figueirense,Coritiba,0,0,D,2.23,3.28,3.67,2.23,3.52,4.25,2.07,3.15,3.62
+Brazil,Serie A,2015,19/07/15,Fluminense,Vasco,1,2,A,1.68,3.85,5.91,1.8,3.92,6,1.68,3.53,5.11
+Brazil,Serie A,2015,19/07/15,Palmeiras,Santos,1,0,H,1.76,3.82,5.14,1.85,3.82,5.5,1.72,3.54,4.77
+Brazil,Serie A,2015,19/07/15,Sport Recife,Sao Paulo,2,0,H,2.42,3.42,3.13,2.45,3.42,3.2,2.34,3.21,2.99
+Brazil,Serie A,2015,19/07/15,Cruzeiro,Avai,1,1,D,1.46,4.71,7.82,1.46,4.75,9,1.41,4.27,7.6
+Brazil,Serie A,2015,19/07/15,Joinville,Ponte Preta,1,1,D,2.95,3.14,2.69,2.95,3.25,2.9,2.7,3.04,2.66
+Brazil,Serie A,2015,25/07/15,Avai,Atletico-PR,1,2,A,2.32,3.38,3.34,2.37,3.38,3.42,2.26,3.19,3.14
+Brazil,Serie A,2015,25/07/15,Gremio,Sport Recife,1,1,D,1.6,4.05,6.59,1.62,4.1,6.75,1.56,3.82,6.07
+Brazil,Serie A,2015,26/07/15,Atletico-MG,Figueirense,1,0,H,1.3,5.81,12.33,1.31,5.81,13.02,1.27,5.21,10.87
+Brazil,Serie A,2015,26/07/15,Chapecoense-SC,Fluminense,2,1,H,2.23,3.25,3.73,2.27,3.3,3.73,2.15,3.15,3.43
+Brazil,Serie A,2015,26/07/15,Santos,Joinville,2,0,H,1.61,4.04,6.45,1.61,4.1,8,1.55,3.78,6.14
+Brazil,Serie A,2015,26/07/15,Coritiba,Corinthians,1,1,D,2.88,3.12,2.79,3.02,3.2,2.79,2.84,3,2.59
+Brazil,Serie A,2015,26/07/15,Goias,Flamengo RJ,0,1,A,2.61,3.11,3.11,2.65,3.2,3.18,2.53,3.04,2.88
+Brazil,Serie A,2015,26/07/15,Ponte Preta,Internacional,0,0,D,2.3,3.26,3.53,2.3,3.31,3.9,2.13,3.18,3.48
+Brazil,Serie A,2015,26/07/15,Sao Paulo,Cruzeiro,1,0,H,2.04,3.47,4.15,2.1,3.47,4.15,2,3.28,3.78
+Brazil,Serie A,2015,26/07/15,Vasco,Palmeiras,1,4,A,3.11,3.33,2.48,3.24,3.45,2.51,2.96,3.12,2.4
+Brazil,Serie A,2015,30/07/15,Atletico-MG,Sao Paulo,3,1,H,1.64,4.02,5.99,1.75,4.02,5.99,1.65,3.65,5.17
+Brazil,Serie A,2015,30/07/15,Corinthians,Vasco,3,0,H,1.39,4.69,10.46,1.45,4.9,11,1.38,4.32,8.67
+Brazil,Serie A,2015,01/08/15,Fluminense,Gremio,1,0,H,2.2,3.17,3.83,2.3,3.34,3.83,2.15,3.11,3.49
+Brazil,Serie A,2015,02/08/15,Coritiba,Goias,1,1,D,2.03,3.27,4.4,2.03,3.4,4.7,1.93,3.19,4.14
+Brazil,Serie A,2015,02/08/15,Palmeiras,Atletico-PR,0,1,A,1.52,4.3,7.51,1.55,4.46,8.2,1.49,3.99,6.73
+Brazil,Serie A,2015,02/08/15,Figueirense,Ponte Preta,3,1,H,2.29,3.28,3.52,2.29,3.3,3.7,2.19,3.13,3.37
+Brazil,Serie A,2015,02/08/15,Flamengo RJ,Santos,2,2,D,2.02,3.44,4.18,2.04,3.44,4.65,1.91,3.34,4.01
+Brazil,Serie A,2015,02/08/15,Internacional,Chapecoense-SC,0,0,D,1.67,3.67,6.5,1.7,3.71,6.5,1.64,3.49,5.65
+Brazil,Serie A,2015,02/08/15,Joinville,Avai,2,0,H,2.55,3.24,3.09,2.55,3.25,3.26,2.39,3.09,3.02
+Brazil,Serie A,2015,02/08/15,Sport Recife,Cruzeiro,0,0,D,2.23,3.37,3.58,2.3,3.37,3.82,2.18,3.2,3.3
+Brazil,Serie A,2015,08/08/15,Avai,Fluminense,1,0,H,2.43,3.36,3.17,2.65,3.36,3.17,2.44,3.16,2.87
+Brazil,Serie A,2015,09/08/15,Santos,Coritiba,3,0,H,1.54,4.3,6.92,1.57,4.32,8,1.51,3.93,6.35
+Brazil,Serie A,2015,09/08/15,Atletico-PR,Sport Recife,1,1,D,1.79,3.65,5.2,1.91,3.7,5.5,1.79,3.41,4.52
+Brazil,Serie A,2015,09/08/15,Vasco,Joinville,0,0,D,1.89,3.43,4.86,1.91,3.5,4.98,1.84,3.26,4.46
+Brazil,Serie A,2015,09/08/15,Cruzeiro,Palmeiras,2,1,H,2.09,3.33,4.06,2.2,3.5,4.15,2.04,3.19,3.7
+Brazil,Serie A,2015,09/08/15,Goias,Atletico-MG,0,0,D,3.12,3.27,2.51,3.18,3.35,2.51,2.95,3.15,2.39
+Brazil,Serie A,2015,09/08/15,Ponte Preta,Flamengo RJ,1,0,H,2.66,3.29,2.89,2.8,3.29,2.89,2.58,3.1,2.75
+Brazil,Serie A,2015,09/08/15,Sao Paulo,Corinthians,1,1,D,2.42,3.1,3.45,2.57,3.2,3.45,2.32,3,3.22
+Brazil,Serie A,2015,09/08/15,Chapecoense-SC,Figueirense,2,2,D,1.93,3.22,5.1,1.95,3.48,5.1,1.86,3.2,4.45
+Brazil,Serie A,2015,09/08/15,Gremio,Internacional,5,0,H,1.77,3.67,5.33,1.95,3.67,5.33,1.81,3.36,4.47
+Brazil,Serie A,2015,12/08/15,Coritiba,Palmeiras,2,1,H,3.12,3.21,2.54,3.15,3.3,2.58,2.91,3.11,2.45
+Brazil,Serie A,2015,12/08/15,Flamengo RJ,Atletico-PR,3,2,H,1.85,3.61,4.82,1.91,3.68,4.82,1.83,3.43,4.27
+Brazil,Serie A,2015,13/08/15,Goias,Chapecoense-SC,0,0,D,1.83,3.44,5.31,2,3.44,5.31,1.8,3.25,4.78
+Brazil,Serie A,2015,13/08/15,Santos,Vasco,1,0,H,1.41,4.92,8.85,1.45,4.95,8.9,1.39,4.44,7.78
+Brazil,Serie A,2015,13/08/15,Corinthians,Sport Recife,4,3,H,1.57,4.06,6.98,1.57,4.2,7,1.53,3.83,6.29
+Brazil,Serie A,2015,13/08/15,Figueirense,Sao Paulo,0,2,A,3.01,3.35,2.53,3.2,3.37,2.56,2.93,3.14,2.41
+Brazil,Serie A,2015,13/08/15,Internacional,Fluminense,1,0,H,2.12,3.35,3.94,2.15,3.47,4.15,2.02,3.24,3.67
+Brazil,Serie A,2015,13/08/15,Ponte Preta,Avai,2,0,H,1.63,3.97,6.24,1.75,3.98,6.27,1.63,3.62,5.43
+Brazil,Serie A,2015,14/08/15,Atletico-MG,Gremio,0,2,A,1.77,3.55,5.61,1.8,3.68,5.7,1.73,3.44,4.91
+Brazil,Serie A,2015,14/08/15,Joinville,Cruzeiro,3,0,H,3.48,3.15,2.38,3.8,3.3,2.4,3.32,3.02,2.26
+Brazil,Serie A,2015,15/08/15,Atletico-PR,Santos,0,0,D,2.45,3.32,3.16,2.53,3.33,3.18,2.35,3.18,2.99
+Brazil,Serie A,2015,15/08/15,Vasco,Coritiba,0,1,A,2.27,3.31,3.56,2.27,3.36,3.69,2.18,3.15,3.37
+Brazil,Serie A,2015,16/08/15,Sao Paulo,Goias,0,3,A,1.66,3.75,6.4,1.67,4,6.5,1.6,3.64,5.75
+Brazil,Serie A,2015,16/08/15,Palmeiras,Flamengo RJ,4,2,H,2.04,3.44,4.09,2.04,3.55,4.18,1.96,3.3,3.8
+Brazil,Serie A,2015,16/08/15,Avai,Corinthians,1,2,A,3.31,3.23,2.42,3.33,3.3,2.52,3.1,3.09,2.34
+Brazil,Serie A,2015,16/08/15,Cruzeiro,Internacional,0,0,D,1.69,3.72,6.11,1.82,3.72,6.11,1.73,3.42,4.96
+Brazil,Serie A,2015,16/08/15,Fluminense,Figueirense,2,1,H,1.7,3.77,5.81,1.76,3.8,7,1.66,3.53,5.36
+Brazil,Serie A,2015,16/08/15,Sport Recife,Ponte Preta,1,1,D,1.85,3.72,4.64,1.87,3.72,4.85,1.81,3.46,4.32
+Brazil,Serie A,2015,16/08/15,Chapecoense-SC,Atletico-MG,2,1,H,3.31,3.37,2.35,3.31,3.39,2.39,3.16,3.18,2.26
+Brazil,Serie A,2015,16/08/15,Gremio,Joinville,2,1,H,1.43,4.52,9.43,1.43,4.9,9.8,1.39,4.28,8.39
+Brazil,Serie A,2015,22/08/15,Goias,Vasco,3,0,H,1.65,3.78,6.43,1.75,3.78,6.43,1.66,3.56,5.28
+Brazil,Serie A,2015,22/08/15,Santos,Avai,5,2,H,1.42,4.77,8.92,1.44,4.8,9,1.4,4.38,7.95
+Brazil,Serie A,2015,23/08/15,Figueirense,Sport Recife,2,1,H,2.3,3.37,3.42,2.3,3.4,4.15,2.13,3.22,3.41
+Brazil,Serie A,2015,23/08/15,Coritiba,Chapecoense-SC,1,0,H,2.04,3.32,4.27,2.05,3.45,5.2,1.92,3.21,4.19
+Brazil,Serie A,2015,23/08/15,Ponte Preta,Gremio,0,0,D,2.7,3.23,2.9,2.7,3.25,3.04,2.52,3.09,2.84
+Brazil,Serie A,2015,23/08/15,Corinthians,Cruzeiro,3,0,H,2.08,3.3,4.14,2.11,3.4,4.5,1.98,3.22,3.91
+Brazil,Serie A,2015,23/08/15,Flamengo RJ,Sao Paulo,2,1,H,1.96,3.6,4.23,2.07,3.6,4.33,1.95,3.34,3.85
+Brazil,Serie A,2015,23/08/15,Internacional,Atletico-PR,2,0,H,1.94,3.44,4.45,1.97,3.65,4.85,1.88,3.3,4.22
+Brazil,Serie A,2015,23/08/15,Joinville,Fluminense,2,1,H,2.62,3.19,2.99,2.7,3.2,2.99,2.55,3.06,2.82
+Brazil,Serie A,2015,23/08/15,Atletico-MG,Palmeiras,2,1,H,1.6,4.11,6.33,1.8,4.12,6.36,1.61,3.78,5.39
+Brazil,Serie A,2015,29/08/15,Vasco,Figueirense,0,1,A,2.08,3.24,4.24,2.2,3.4,4.33,2.04,3.15,3.8
+Brazil,Serie A,2015,30/08/15,Sao Paulo,Ponte Preta,3,0,H,1.78,3.68,5.26,1.85,3.68,5.4,1.75,3.47,4.74
+Brazil,Serie A,2015,30/08/15,Avai,Internacional,3,0,H,3.07,3.19,2.59,3.07,3.32,2.7,2.84,3.13,2.49
+Brazil,Serie A,2015,30/08/15,Gremio,Coritiba,0,0,D,1.56,4.07,7.27,1.57,4.2,7.73,1.52,3.8,6.72
+Brazil,Serie A,2015,30/08/15,Chapecoense-SC,Corinthians,1,3,A,2.58,3.03,3.25,2.68,3.2,3.25,2.5,2.95,2.99
+Brazil,Serie A,2015,30/08/15,Fluminense,Atletico-MG,1,2,A,2.89,3.34,2.62,2.95,3.4,2.72,2.73,3.23,2.51
+Brazil,Serie A,2015,30/08/15,Palmeiras,Joinville,3,2,H,1.44,4.45,9.34,1.5,4.56,9.34,1.42,4.16,7.67
+Brazil,Serie A,2015,30/08/15,Sport Recife,Flamengo RJ,0,1,A,2.21,3.45,3.55,2.3,3.45,3.56,2.16,3.3,3.26
+Brazil,Serie A,2015,30/08/15,Atletico-PR,Goias,3,0,H,2.04,3.29,4.33,2.1,3.52,4.4,1.97,3.23,3.92
+Brazil,Serie A,2015,30/08/15,Cruzeiro,Santos,0,1,A,2.16,3.29,3.87,2.16,3.44,4.2,2.05,3.24,3.64
+Brazil,Serie A,2015,02/09/15,Internacional,Vasco,6,0,H,1.56,4.12,7.03,1.57,4.12,8,1.51,3.84,6.64
+Brazil,Serie A,2015,02/09/15,Joinville,Sao Paulo,0,0,D,3.05,3.25,2.57,3.05,3.54,2.6,2.85,3.18,2.44
+Brazil,Serie A,2015,02/09/15,Ponte Preta,Cruzeiro,1,2,A,2.4,3.28,3.3,2.4,3.28,3.45,2.3,3.11,3.13
+Brazil,Serie A,2015,03/09/15,Atletico-MG,Atletico-PR,0,1,A,1.39,5.02,9.53,1.5,5.06,9.57,1.4,4.41,7.72
+Brazil,Serie A,2015,03/09/15,Flamengo RJ,Avai,3,0,H,1.6,4.07,6.58,1.7,4.07,6.9,1.59,3.72,5.79
+Brazil,Serie A,2015,03/09/15,Corinthians,Fluminense,2,0,H,1.82,3.53,5.2,1.82,3.74,5.6,1.76,3.36,4.8
+Brazil,Serie A,2015,03/09/15,Coritiba,Sport Recife,0,0,D,1.96,3.49,4.36,2.05,3.49,4.36,1.96,3.28,3.85
+Brazil,Serie A,2015,03/09/15,Goias,Palmeiras,1,0,H,2.39,3.25,3.35,2.5,3.42,3.35,2.33,3.11,3.09
+Brazil,Serie A,2015,03/09/15,Santos,Chapecoense-SC,3,1,H,1.51,4.29,7.84,1.51,4.45,8,1.48,3.96,6.98
+Brazil,Serie A,2015,04/09/15,Figueirense,Gremio,0,2,A,2.58,3.16,3.11,2.78,3.2,3.11,2.54,2.99,2.91
+Brazil,Serie A,2015,05/09/15,Sao Paulo,Internacional,2,0,H,2.28,3.48,3.35,2.4,3.5,3.55,2.2,3.26,3.24
+Brazil,Serie A,2015,05/09/15,Vasco,Atletico-MG,1,2,A,5.17,3.95,1.73,5.32,3.96,1.75,4.76,3.65,1.7
+Brazil,Serie A,2015,06/09/15,Atletico-PR,Joinville,0,0,D,1.6,3.95,6.92,1.6,4.4,8.2,1.53,3.77,6.53
+Brazil,Serie A,2015,06/09/15,Chapecoense-SC,Ponte Preta,0,0,D,2.04,3.24,4.41,2.04,3.5,4.5,1.96,3.22,4.01
+Brazil,Serie A,2015,06/09/15,Cruzeiro,Figueirense,5,1,H,1.55,4.02,7.69,1.57,4.05,7.69,1.51,3.82,6.89
+Brazil,Serie A,2015,06/09/15,Avai,Coritiba,0,2,A,2.19,3.29,3.78,2.25,3.32,3.9,2.13,3.15,3.52
+Brazil,Serie A,2015,06/09/15,Fluminense,Flamengo RJ,1,3,A,3.59,3.3,2.25,3.6,3.4,2.44,3.27,3.15,2.22
+Brazil,Serie A,2015,06/09/15,Gremio,Goias,2,1,H,1.8,3.49,5.46,1.82,3.7,6,1.74,3.36,5.06
+Brazil,Serie A,2015,06/09/15,Palmeiras,Corinthians,3,3,D,2.24,3.33,3.59,2.25,3.36,3.7,2.16,3.2,3.36
+Brazil,Serie A,2015,06/09/15,Sport Recife,Santos,1,1,D,2.24,3.48,3.43,2.35,3.48,3.52,2.18,3.28,3.24
+Brazil,Serie A,2015,09/09/15,Atletico-MG,Avai,2,0,H,1.24,6.57,14.5,1.3,6.57,14.5,1.26,5.58,10.76
+Brazil,Serie A,2015,09/09/15,Internacional,Palmeiras,1,0,H,1.8,3.7,5.01,1.9,3.71,5.1,1.79,3.48,4.48
+Brazil,Serie A,2015,09/09/15,Ponte Preta,Vasco,0,1,A,1.69,3.69,6.15,1.87,3.75,6.15,1.71,3.48,5.02
+Brazil,Serie A,2015,10/09/15,Figueirense,Atletico-PR,1,1,D,2.61,3.24,3,2.7,3.26,3.03,2.51,3.06,2.89
+Brazil,Serie A,2015,10/09/15,Corinthians,Gremio,1,1,D,1.94,3.34,4.76,1.94,3.6,4.76,1.89,3.24,4.28
+Brazil,Serie A,2015,10/09/15,Coritiba,Fluminense,1,1,D,2.22,3.27,3.71,2.3,3.28,3.76,2.18,3.12,3.42
+Brazil,Serie A,2015,10/09/15,Santos,Sao Paulo,3,0,H,2.14,3.46,3.72,2.2,3.46,3.73,2.11,3.23,3.48
+Brazil,Serie A,2015,10/09/15,Goias,Sport Recife,1,0,H,1.91,3.42,4.79,2,3.48,4.83,1.89,3.25,4.23
+Brazil,Serie A,2015,11/09/15,Flamengo RJ,Cruzeiro,2,0,H,2.04,3.34,4.25,2.05,3.45,4.25,2,3.21,3.84
+Brazil,Serie A,2015,11/09/15,Joinville,Chapecoense-SC,0,0,D,2.43,3.11,3.45,2.45,3.2,3.45,2.35,3,3.19
+Brazil,Serie A,2015,12/09/15,Coritiba,Internacional,0,1,A,2.48,3.25,3.18,2.48,3.31,3.4,2.35,3.08,3.11
+Brazil,Serie A,2015,13/09/15,Palmeiras,Figueirense,2,0,H,1.48,4.52,7.85,1.5,4.65,8,1.45,4.23,6.96
+Brazil,Serie A,2015,13/09/15,Corinthians,Joinville,3,0,H,1.38,4.65,11.5,1.45,5,12.5,1.36,4.37,9.66
+Brazil,Serie A,2015,13/09/15,Ponte Preta,Santos,3,1,H,3.05,3.29,2.54,3.35,3.33,2.54,2.98,3.16,2.38
+Brazil,Serie A,2015,13/09/15,Chapecoense-SC,Flamengo RJ,1,3,A,2.64,3.04,3.16,2.84,3.15,3.16,2.66,2.93,2.83
+Brazil,Serie A,2015,13/09/15,Cruzeiro,Atletico-MG,1,1,D,2.68,3.27,2.89,2.72,3.28,2.92,2.59,3.12,2.73
+Brazil,Serie A,2015,13/09/15,Gremio,Sao Paulo,1,2,A,1.97,3.51,4.28,2.01,3.62,4.7,1.88,3.37,4.1
+Brazil,Serie A,2015,13/09/15,Vasco,Atletico-PR,2,0,H,2.33,3.25,3.47,2.51,3.31,3.47,2.3,3.11,3.16
+Brazil,Serie A,2015,13/09/15,Avai,Goias,2,1,H,2.2,3.23,3.84,2.3,3.28,3.85,2.16,3.09,3.5
+Brazil,Serie A,2015,13/09/15,Sport Recife,Fluminense,1,0,H,2.12,3.39,3.88,2.2,3.46,3.88,2.08,3.3,3.46
+Brazil,Serie A,2015,16/09/15,Fluminense,Palmeiras,1,4,A,2.34,3.35,3.34,2.37,3.38,3.6,2.26,3.18,3.16
+Brazil,Serie A,2015,16/09/15,Goias,Ponte Preta,1,2,A,1.86,3.6,4.73,1.9,3.72,5.2,1.8,3.44,4.46
+Brazil,Serie A,2015,16/09/15,Joinville,Sport Recife,1,1,D,2.79,3.11,2.92,2.79,3.24,3.01,2.59,3.01,2.81
+Brazil,Serie A,2015,17/09/15,Atletico-PR,Gremio,1,2,A,2.8,3.22,2.8,2.8,3.25,2.88,2.61,3.08,2.73
+Brazil,Serie A,2015,17/09/15,Figueirense,Avai,0,1,A,2.18,3.26,3.84,2.2,3.3,3.92,2.12,3.13,3.55
+Brazil,Serie A,2015,17/09/15,Cruzeiro,Vasco,2,2,D,1.41,4.77,9.34,1.45,4.78,9.9,1.39,4.39,8.12
+Brazil,Serie A,2015,17/09/15,Internacional,Corinthians,2,1,H,2.4,3.23,3.33,2.43,3.3,3.56,2.29,3.08,3.2
+Brazil,Serie A,2015,17/09/15,Santos,Atletico-MG,4,0,H,2.14,3.6,3.56,2.25,3.63,3.58,2.13,3.39,3.25
+Brazil,Serie A,2015,17/09/15,Sao Paulo,Chapecoense-SC,0,0,D,1.48,4.39,8.28,1.53,4.4,9.2,1.45,4.05,7.53
+Brazil,Serie A,2015,18/09/15,Flamengo RJ,Coritiba,0,2,A,1.63,3.82,6.6,1.64,3.95,7.4,1.56,3.69,6.09
+Brazil,Serie A,2015,19/09/15,Internacional,Figueirense,1,1,D,1.79,3.6,5.28,1.85,4,7.5,1.67,3.51,5.38
+Brazil,Serie A,2015,19/09/15,Palmeiras,Gremio,3,2,H,1.96,3.53,4.31,2.05,3.53,4.33,1.94,3.31,3.93
+Brazil,Serie A,2015,20/09/15,Ponte Preta,Fluminense,3,1,H,2.54,3.31,3.04,2.65,3.32,3.1,2.43,3.13,2.91
+Brazil,Serie A,2015,20/09/15,Corinthians,Santos,2,0,H,2.25,3.31,3.59,2.25,3.39,3.75,2.16,3.23,3.32
+Brazil,Serie A,2015,20/09/15,Goias,Joinville,3,0,H,1.64,3.84,6.49,1.65,3.94,7,1.58,3.66,6.01
+Brazil,Serie A,2015,20/09/15,Atletico-MG,Flamengo RJ,4,1,H,1.73,3.97,5.15,1.76,3.97,5.3,1.7,3.63,4.72
+Brazil,Serie A,2015,20/09/15,Avai,Sao Paulo,2,1,H,2.57,3.25,3.06,2.7,3.3,3.08,2.52,3.13,2.8
+Brazil,Serie A,2015,20/09/15,Vasco,Sport Recife,2,1,H,2.17,3.39,3.72,2.3,3.39,3.77,2.12,3.2,3.44
+Brazil,Serie A,2015,20/09/15,Chapecoense-SC,Cruzeiro,0,2,A,2.86,3.07,2.87,2.86,3.22,3.1,2.65,2.95,2.8
+Brazil,Serie A,2015,20/09/15,Coritiba,Atletico-PR,2,0,H,2.77,3.12,2.92,2.77,3.2,3.04,2.6,2.98,2.82
+Brazil,Serie A,2015,26/09/15,Fluminense,Goias,2,0,H,1.92,3.49,4.62,2,3.58,4.62,1.87,3.34,4.17
+Brazil,Serie A,2015,27/09/15,Gremio,Avai,3,1,H,1.49,4.24,8.38,1.55,4.45,9,1.47,3.99,7.19
+Brazil,Serie A,2015,27/09/15,Atletico-PR,Ponte Preta,1,2,A,1.93,3.48,4.57,2.15,3.5,4.58,1.91,3.31,4.06
+Brazil,Serie A,2015,27/09/15,Santos,Internacional,3,1,H,1.75,3.67,5.5,1.83,3.75,5.51,1.72,3.51,4.83
+Brazil,Serie A,2015,27/09/15,Figueirense,Corinthians,1,3,A,3.34,3.24,2.4,3.36,3.4,2.4,3.12,3.13,2.31
+Brazil,Serie A,2015,27/09/15,Flamengo RJ,Vasco,1,2,A,1.79,3.74,5.01,1.82,3.8,5.75,1.73,3.51,4.84
+Brazil,Serie A,2015,27/09/15,Joinville,Atletico-MG,2,2,D,4.95,3.69,1.81,4.95,3.72,2,4.38,3.47,1.8
+Brazil,Serie A,2015,27/09/15,Sao Paulo,Palmeiras,1,1,D,2.12,3.6,3.64,2.38,3.6,3.7,2.13,3.31,3.32
+Brazil,Serie A,2015,27/09/15,Cruzeiro,Coritiba,2,0,H,1.5,4.31,8.06,1.5,4.34,9.1,1.46,3.99,7.47
+Brazil,Serie A,2015,27/09/15,Sport Recife,Chapecoense-SC,3,0,H,1.83,3.47,5.27,1.85,3.5,5.4,1.8,3.31,4.68
+Brazil,Serie A,2015,03/10/15,Coritiba,Atletico-MG,0,3,A,3.19,3.41,2.39,3.21,3.49,2.39,3.06,3.27,2.26
+Brazil,Serie A,2015,03/10/15,Internacional,Sport Recife,2,1,H,1.73,3.88,5.3,1.75,3.88,5.75,1.68,3.6,5
+Brazil,Serie A,2015,04/10/15,Sao Paulo,Atletico-PR,1,0,H,1.8,3.62,5.14,1.84,3.68,5.5,1.75,3.46,4.73
+Brazil,Serie A,2015,04/10/15,Avai,Vasco,1,1,D,1.96,3.41,4.5,2.15,3.41,4.5,2.02,3.25,3.71
+Brazil,Serie A,2015,04/10/15,Flamengo RJ,Joinville,2,0,H,1.43,4.63,9.03,1.44,4.63,9.5,1.4,4.28,8.09
+Brazil,Serie A,2015,04/10/15,Cruzeiro,Gremio,0,0,D,2.19,3.29,3.78,2.19,3.44,4.05,2.06,3.19,3.67
+Brazil,Serie A,2015,04/10/15,Goias,Figueirense,2,3,A,1.62,3.78,7.03,1.73,3.82,7.03,1.63,3.53,5.7
+Brazil,Serie A,2015,04/10/15,Ponte Preta,Corinthians,2,2,D,3.39,3.18,2.41,3.39,3.25,2.5,3.06,3.11,2.35
+Brazil,Serie A,2015,04/10/15,Santos,Fluminense,3,1,H,1.53,4.23,7.47,1.6,4.31,7.7,1.51,3.92,6.42
+Brazil,Serie A,2015,04/10/15,Chapecoense-SC,Palmeiras,5,1,H,2.84,3.15,2.82,2.92,3.22,2.82,2.73,3.04,2.64
+Brazil,Serie A,2015,14/10/15,Atletico-MG,Internacional,2,1,H,1.46,4.87,7.47,1.51,5,7.9,1.46,4.29,6.61
+Brazil,Serie A,2015,14/10/15,Sport Recife,Avai,3,0,H,1.81,3.67,4.99,1.84,3.8,5.6,1.77,3.49,4.56
+Brazil,Serie A,2015,15/10/15,Figueirense,Flamengo RJ,3,0,H,3.04,3.32,2.52,3.18,3.32,2.63,2.93,3.13,2.44
+Brazil,Serie A,2015,15/10/15,Joinville,Coritiba,3,1,H,2.69,3.09,3.04,2.71,3.2,3.04,2.55,3.01,2.87
+Brazil,Serie A,2015,15/10/15,Palmeiras,Ponte Preta,0,1,A,1.61,4.22,6.02,1.62,4.35,6.6,1.58,3.93,5.51
+Brazil,Serie A,2015,15/10/15,Atletico-PR,Cruzeiro,2,2,D,2.37,3.3,3.34,2.4,3.3,3.35,2.31,3.12,3.14
+Brazil,Serie A,2015,15/10/15,Fluminense,Sao Paulo,2,0,H,2.42,3.36,3.18,2.45,3.42,3.3,2.33,3.2,3.02
+Brazil,Serie A,2015,15/10/15,Corinthians,Goias,3,0,H,1.68,3.79,6,1.71,4.4,8.8,1.59,3.7,5.87
+Brazil,Serie A,2015,15/10/15,Vasco,Chapecoense-SC,1,1,D,2.22,3.29,3.69,2.24,3.42,4.25,2.12,3.16,3.52
+Brazil,Serie A,2015,16/10/15,Gremio,Santos,1,0,H,2.02,3.54,4.03,2.05,3.54,4.45,1.99,3.31,3.74
+Brazil,Serie A,2015,17/10/15,Avai,Palmeiras,1,3,A,2.63,3.35,2.88,2.68,3.4,2.88,2.54,3.15,2.76
+Brazil,Serie A,2015,18/10/15,Joinville,Figueirense,1,0,H,2.44,3.24,3.27,2.55,3.25,3.27,2.36,3.09,3.08
+Brazil,Serie A,2015,18/10/15,Cruzeiro,Fluminense,2,0,H,1.71,3.65,5.95,1.8,3.73,5.95,1.71,3.49,4.97
+Brazil,Serie A,2015,18/10/15,Ponte Preta,Coritiba,3,0,H,1.86,3.53,4.88,1.86,3.72,5.7,1.77,3.39,4.72
+Brazil,Serie A,2015,18/10/15,Atletico-PR,Corinthians,1,4,A,3.04,3.29,2.55,3.09,3.37,2.6,2.88,3.13,2.46
+Brazil,Serie A,2015,18/10/15,Flamengo RJ,Internacional,0,1,A,1.9,3.56,4.6,1.9,3.61,5.2,1.79,3.46,4.43
+Brazil,Serie A,2015,18/10/15,Sao Paulo,Vasco,2,2,D,1.51,4.29,7.81,1.57,4.29,7.81,1.49,3.97,6.8
+Brazil,Serie A,2015,18/10/15,Gremio,Chapecoense-SC,2,3,A,1.54,4.15,7.49,1.55,4.35,7.7,1.5,3.89,6.84
+Brazil,Serie A,2015,18/10/15,Santos,Goias,3,1,H,1.56,4.15,6.95,1.57,4.4,7.9,1.5,3.93,6.7
+Brazil,Serie A,2015,18/10/15,Sport Recife,Atletico-MG,4,1,H,3.22,3.48,2.34,3.22,3.49,2.44,3,3.28,2.3
+Brazil,Serie A,2015,24/10/15,Fluminense,Atletico-PR,0,1,A,2.02,3.38,4.26,2.03,3.44,4.6,1.95,3.28,3.94
+Brazil,Serie A,2015,24/10/15,Figueirense,Santos,0,0,D,2.81,3.37,2.69,3.14,3.37,2.69,2.76,3.19,2.51
+Brazil,Serie A,2015,24/10/15,Internacional,Joinville,1,0,H,1.48,4.56,7.75,1.48,4.65,8.5,1.44,4.15,7.42
+Brazil,Serie A,2015,25/10/15,Palmeiras,Sport Recife,0,2,A,1.74,3.88,5.24,1.84,3.88,5.24,1.74,3.6,4.56
+Brazil,Serie A,2015,25/10/15,Chapecoense-SC,Avai,0,0,D,2,3.31,4.45,2,3.5,4.6,1.88,3.3,4.21
+Brazil,Serie A,2015,25/10/15,Corinthians,Flamengo RJ,1,0,H,1.69,3.91,5.6,1.74,3.91,6.3,1.68,3.6,5.12
+Brazil,Serie A,2015,25/10/15,Coritiba,Sao Paulo,1,2,A,2.62,3.32,2.93,2.75,3.32,3,2.52,3.14,2.79
+Brazil,Serie A,2015,25/10/15,Vasco,Gremio,0,0,D,2.54,3.3,3.04,2.8,3.4,3.1,2.47,3.14,2.88
+Brazil,Serie A,2015,25/10/15,Goias,Cruzeiro,0,1,A,2.47,3.21,3.24,2.7,3.25,3.3,2.4,3.07,3.03
+Brazil,Serie A,2015,25/10/15,Atletico-MG,Ponte Preta,2,1,H,1.4,5.2,8.59,1.5,5.3,9.7,1.37,4.67,7.92
+Brazil,Serie A,2015,31/10/15,Sao Paulo,Sport Recife,3,0,H,1.48,4.44,8.01,1.6,4.65,8.5,1.46,4.12,7.15
+Brazil,Serie A,2015,31/10/15,Avai,Cruzeiro,1,1,D,2.88,3.1,2.81,3.04,3.2,2.81,2.76,3.06,2.61
+Brazil,Serie A,2015,31/10/15,Ponte Preta,Joinville,1,0,H,1.56,3.98,7.47,1.65,3.98,7.6,1.57,3.68,6.2
+Brazil,Serie A,2015,31/10/15,Coritiba,Figueirense,1,1,D,2.13,3.21,4.09,2.15,3.32,4.1,2.07,3.12,3.73
+Brazil,Serie A,2015,01/11/15,Atletico-MG,Corinthians,0,3,A,1.85,3.77,4.52,1.9,3.84,4.6,1.82,3.54,4.18
+Brazil,Serie A,2015,01/11/15,Chapecoense-SC,Atletico-PR,0,0,D,1.96,3.3,4.7,1.99,3.37,4.7,1.92,3.2,4.18
+Brazil,Serie A,2015,01/11/15,Gremio,Flamengo RJ,2,0,H,1.72,3.72,5.65,1.73,3.8,6.1,1.68,3.52,5.24
+Brazil,Serie A,2015,01/11/15,Santos,Palmeiras,2,1,H,1.79,4,4.59,1.9,4.03,4.9,1.76,3.63,4.34
+Brazil,Serie A,2015,01/11/15,Vasco,Fluminense,0,1,A,2.34,3.37,3.33,2.45,3.37,3.55,2.28,3.12,3.18
+Brazil,Serie A,2015,01/11/15,Goias,Internacional,2,1,H,2.2,3.4,3.63,2.4,3.46,3.63,2.21,3.18,3.29
+Brazil,Serie A,2015,07/11/15,Internacional,Ponte Preta,1,0,H,1.57,4.03,7.07,1.6,4.1,7.07,1.55,3.79,6.11
+Brazil,Serie A,2015,07/11/15,Atletico-PR,Avai,2,1,H,1.93,3.52,4.49,1.95,3.58,5,1.84,3.38,4.29
+Brazil,Serie A,2015,07/11/15,Corinthians,Coritiba,2,1,H,1.34,5.24,11.38,1.38,5.4,12.5,1.33,4.66,9.63
+Brazil,Serie A,2015,07/11/15,Fluminense,Chapecoense-SC,2,3,A,2.06,3.34,4.17,2.07,3.4,4.55,1.98,3.17,3.96
+Brazil,Serie A,2015,08/11/15,Cruzeiro,Sao Paulo,2,1,H,2,3.45,4.26,2.15,3.5,4.26,2.02,3.25,3.72
+Brazil,Serie A,2015,08/11/15,Figueirense,Atletico-MG,0,1,A,3.01,3.36,2.5,3.15,3.41,2.5,2.93,3.22,2.38
+Brazil,Serie A,2015,08/11/15,Flamengo RJ,Goias,4,1,H,1.59,4.02,6.79,1.65,4.02,7.9,1.57,3.77,5.97
+Brazil,Serie A,2015,08/11/15,Palmeiras,Vasco,0,2,A,1.57,4.35,6.27,1.6,4.35,6.5,1.54,3.98,5.84
+Brazil,Serie A,2015,08/11/15,Joinville,Santos,0,0,D,4.38,3.61,1.93,4.45,3.65,1.95,4.01,3.42,1.89
+Brazil,Serie A,2015,08/11/15,Sport Recife,Gremio,1,0,H,2.49,3.26,3.16,2.49,3.31,3.21,2.35,3.16,3.04
+Brazil,Serie A,2015,15/11/15,Cruzeiro,Sport Recife,3,0,H,1.5,4.53,7.28,1.53,4.53,7.6,1.48,4.08,6.73
+Brazil,Serie A,2015,18/11/15,Goias,Coritiba,1,3,A,2,3.45,4.27,2.03,3.45,4.35,1.96,3.28,3.91
+Brazil,Serie A,2015,18/11/15,Atletico-PR,Palmeiras,3,3,D,2.38,3.47,3.16,2.41,3.47,3.28,2.29,3.26,3.06
+Brazil,Serie A,2015,18/11/15,Avai,Joinville,2,1,H,1.98,3.47,4.32,2.1,3.5,4.37,1.95,3.27,3.98
+Brazil,Serie A,2015,18/11/15,Ponte Preta,Figueirense,0,1,A,2.04,3.42,4.14,2.05,3.58,4.4,1.95,3.31,3.91
+Brazil,Serie A,2015,19/11/15,Chapecoense-SC,Internacional,1,0,H,2.59,3.14,3.12,2.59,3.2,3.3,2.43,3.03,3.03
+Brazil,Serie A,2015,19/11/15,Gremio,Fluminense,1,0,H,1.53,4.08,8,1.6,4.2,8,1.51,3.86,6.76
+Brazil,Serie A,2015,20/11/15,Santos,Flamengo RJ,0,0,D,1.7,3.93,5.49,1.72,4,5.75,1.65,3.73,5.11
+Brazil,Serie A,2015,20/11/15,Sao Paulo,Atletico-MG,4,2,H,2.08,3.79,3.57,2.08,3.79,3.9,2.01,3.48,3.51
+Brazil,Serie A,2015,20/11/15,Vasco,Corinthians,1,1,D,2.89,3.21,2.72,2.92,3.4,2.75,2.76,3.1,2.59
+Brazil,Serie A,2015,21/11/15,Palmeiras,Cruzeiro,1,1,D,3.3,3.6,2.25,3.4,3.6,2.4,3.15,3.3,2.22
+Brazil,Serie A,2015,22/11/15,Atletico-MG,Goias,2,2,D,1.5,4.79,6.75,1.57,5,7.16,1.48,4.33,6.23
+Brazil,Serie A,2015,22/11/15,Corinthians,Sao Paulo,6,1,H,2.6,3.32,2.95,2.62,3.36,3.05,2.46,3.2,2.82
+Brazil,Serie A,2015,22/11/15,Figueirense,Chapecoense-SC,0,0,D,1.85,3.54,4.96,1.9,3.7,4.96,1.81,3.39,4.48
+Brazil,Serie A,2015,22/11/15,Internacional,Gremio,1,0,H,2.63,3.25,2.97,2.81,3.25,2.97,2.6,3.08,2.74
+Brazil,Serie A,2015,22/11/15,Joinville,Vasco,1,2,A,2.77,3.47,2.66,2.79,3.55,2.7,2.67,3.26,2.56
+Brazil,Serie A,2015,22/11/15,Flamengo RJ,Ponte Preta,1,1,D,1.74,3.84,5.29,1.86,3.84,5.29,1.74,3.54,4.67
+Brazil,Serie A,2015,22/11/15,Coritiba,Santos,1,0,H,2.74,3.34,2.78,2.9,3.5,2.78,2.65,3.22,2.6
+Brazil,Serie A,2015,22/11/15,Fluminense,Avai,3,1,H,2.14,3.24,4.02,2.14,3.4,4.35,2.07,3.18,3.65
+Brazil,Serie A,2015,22/11/15,Sport Recife,Atletico-PR,0,0,D,1.79,3.71,5.11,1.79,3.84,5.5,1.72,3.58,4.75
+Brazil,Serie A,2015,28/11/15,Sao Paulo,Figueirense,3,2,H,1.56,4.2,6.93,1.56,4.45,8.44,1.49,4.01,6.63
+Brazil,Serie A,2015,28/11/15,Fluminense,Internacional,1,1,D,3.46,3.5,2.22,3.62,3.5,2.26,3.27,3.26,2.18
+Brazil,Serie A,2015,28/11/15,Avai,Ponte Preta,1,0,H,1.72,3.78,5.56,1.91,3.86,5.7,1.72,3.57,4.82
+Brazil,Serie A,2015,29/11/15,Cruzeiro,Joinville,3,0,H,1.31,5.76,11.16,1.34,5.76,13.02,1.28,5.15,10.35
+Brazil,Serie A,2015,29/11/15,Gremio,Atletico-MG,2,1,H,2.19,3.48,3.55,2.19,3.51,3.75,2.09,3.33,3.39
+Brazil,Serie A,2015,29/11/15,Sport Recife,Corinthians,2,0,H,2.37,3.5,3.15,2.47,3.5,3.4,2.29,3.29,3.03
+Brazil,Serie A,2015,29/11/15,Chapecoense-SC,Goias,1,3,A,2.09,3.4,3.95,2.15,3.55,4.15,2.01,3.31,3.67
+Brazil,Serie A,2015,29/11/15,Palmeiras,Coritiba,0,2,A,2.9,3.31,2.61,2.96,3.4,2.79,2.75,3.2,2.54
+Brazil,Serie A,2015,29/11/15,Vasco,Santos,1,0,H,1.69,3.75,5.98,1.7,4.09,6.25,1.63,3.66,5.44
+Brazil,Serie A,2015,29/11/15,Atletico-PR,Flamengo RJ,3,0,H,2.54,3.48,2.91,2.54,3.52,3.15,2.38,3.26,2.91
+Brazil,Serie A,2015,06/12/15,Atletico-MG,Chapecoense-SC,3,0,H,1.31,5.67,12.06,1.35,5.89,12.06,1.29,5.18,9.93
+Brazil,Serie A,2015,06/12/15,Corinthians,Avai,1,1,D,1.65,4.4,5.17,1.73,4.61,6,1.62,3.94,4.99
+Brazil,Serie A,2015,06/12/15,Coritiba,Vasco,0,0,D,2.39,3.37,3.23,2.6,3.38,3.25,2.39,3.18,2.95
+Brazil,Serie A,2015,06/12/15,Figueirense,Fluminense,1,0,H,1.35,5.01,11.67,1.37,5.2,11.67,1.33,4.74,9.18
+Brazil,Serie A,2015,06/12/15,Flamengo RJ,Palmeiras,1,2,A,1.56,4.31,6.6,1.65,4.45,6.6,1.54,4.02,5.8
+Brazil,Serie A,2015,06/12/15,Goias,Sao Paulo,0,1,A,2.73,3.37,2.76,2.92,3.7,2.76,2.62,3.36,2.57
+Brazil,Serie A,2015,06/12/15,Internacional,Cruzeiro,2,0,H,1.85,3.63,4.68,1.86,3.8,5,1.77,3.56,4.42
+Brazil,Serie A,2015,06/12/15,Joinville,Gremio,0,2,A,4.76,3.73,1.83,4.76,3.73,1.89,4.36,3.48,1.81
+Brazil,Serie A,2015,06/12/15,Ponte Preta,Sport Recife,0,1,A,2.57,3.49,2.87,2.65,3.52,2.92,2.47,3.28,2.75
+Brazil,Serie A,2015,06/12/15,Santos,Atletico-PR,5,1,H,1.7,4.09,5.2,1.71,4.11,5.5,1.66,3.72,4.97
+Brazil,Serie A,2016,14/05/16,Flamengo RJ,Sport Recife,1,0,H,1.6,4.15,6.33,1.7,4.15,6.8,1.58,3.8,5.7
+Brazil,Serie A,2016,14/05/16,Palmeiras,Atletico-PR,4,0,H,1.81,3.72,4.94,1.81,3.8,5.75,1.74,3.52,4.72
+Brazil,Serie A,2016,14/05/16,Atletico-MG,Santos,1,0,H,3.17,3.25,2.49,3.17,3.25,2.65,2.84,3.14,2.47
+Brazil,Serie A,2016,15/05/16,Coritiba,Cruzeiro,1,0,H,2.68,3.25,2.91,3,3.4,2.91,2.69,3.09,2.66
+Brazil,Serie A,2016,15/05/16,Botafogo RJ,Sao Paulo,0,1,A,1.95,3.46,4.45,1.98,3.75,4.75,1.9,3.3,4.11
+Brazil,Serie A,2016,15/05/16,Santa Cruz,Vitoria,4,1,H,1.83,3.62,4.9,2,3.66,4.9,1.9,3.31,4.05
+Brazil,Serie A,2016,15/05/16,America MG,Fluminense,0,1,A,2.63,3.33,2.91,2.7,3.33,3,2.49,3.16,2.8
+Brazil,Serie A,2016,15/05/16,Corinthians,Gremio,0,0,D,1.85,3.44,5.2,1.87,3.55,5.4,1.8,3.3,4.67
+Brazil,Serie A,2016,15/05/16,Figueirense,Ponte Preta,0,0,D,2.33,3.19,3.53,2.46,3.2,3.53,2.3,3.08,3.21
+Brazil,Serie A,2016,15/05/16,Internacional,Chapecoense-SC,0,0,D,1.67,3.7,6.41,1.67,3.76,6.63,1.63,3.53,5.78
+Brazil,Serie A,2016,21/05/16,Ponte Preta,Palmeiras,2,1,H,2.64,3.25,2.95,3.25,3.25,2.95,2.71,3.08,2.63
+Brazil,Serie A,2016,21/05/16,Fluminense,Santa Cruz,2,2,D,1.63,3.9,5.2,1.67,3.99,6.7,1.62,3.66,5.53
+Brazil,Serie A,2016,22/05/16,Cruzeiro,Figueirense,2,2,D,1.41,4.48,10.69,1.5,4.5,10.69,1.4,4.12,8.77
+Brazil,Serie A,2016,22/05/16,Atletico-PR,Atletico-MG,1,1,D,2.27,3.45,3.4,2.38,3.45,3.55,2.23,3.17,3.24
+Brazil,Serie A,2016,22/05/16,Santos,Coritiba,2,1,H,1.57,4.03,7.06,1.58,4.15,8,1.52,3.81,6.59
+Brazil,Serie A,2016,22/05/16,Chapecoense-SC,America MG,3,1,H,1.66,3.78,6.31,1.8,3.8,6.31,1.64,3.55,5.58
+Brazil,Serie A,2016,22/05/16,Gremio,Flamengo RJ,1,0,H,2.17,3.39,3.71,2.17,3.6,4.4,2.03,3.23,3.69
+Brazil,Serie A,2016,22/05/16,Sao Paulo,Internacional,1,2,A,2,3.39,4.34,2.1,3.39,4.6,1.97,3.22,3.91
+Brazil,Serie A,2016,22/05/16,Vitoria,Corinthians,3,2,H,2.88,3.28,2.44,3.6,3.28,2.51,3.01,3.09,2.38
+Brazil,Serie A,2016,22/05/16,Sport Recife,Botafogo RJ,1,1,D,1.88,3.61,4.67,1.9,3.74,4.75,1.83,3.42,4.28
+Brazil,Serie A,2016,25/05/16,Botafogo RJ,Atletico-PR,2,1,H,2.21,3.38,3.62,2.26,3.38,3.71,2.17,3.19,3.34
+Brazil,Serie A,2016,25/05/16,Figueirense,Santos,2,2,D,2.53,3.16,3.19,2.55,3.3,3.22,2.41,3.09,2.97
+Brazil,Serie A,2016,26/05/16,America MG,Vitoria,1,1,D,2.18,3.44,3.62,2.26,3.55,3.62,2.14,3.32,3.28
+Brazil,Serie A,2016,26/05/16,Flamengo RJ,Chapecoense-SC,2,2,D,1.68,3.75,6.11,1.7,3.8,6.18,1.65,3.55,5.41
+Brazil,Serie A,2016,26/05/16,Coritiba,Sao Paulo,1,1,D,2.27,3.25,3.61,2.32,3.25,3.66,2.2,3.11,3.36
+Brazil,Serie A,2016,26/05/16,Palmeiras,Fluminense,2,0,H,1.95,3.56,4.31,1.98,3.6,4.4,1.91,3.4,3.94
+Brazil,Serie A,2016,26/05/16,Santa Cruz,Cruzeiro,4,1,H,2.54,3.31,3.03,2.54,3.38,3.11,2.39,3.21,2.91
+Brazil,Serie A,2016,26/05/16,Corinthians,Ponte Preta,3,0,H,1.6,4.12,6.46,1.6,4.35,7.9,1.52,3.9,6.17
+Brazil,Serie A,2016,26/05/16,Internacional,Sport Recife,1,0,H,1.6,3.92,6.83,1.6,4.18,7.48,1.54,3.74,6.45
+Brazil,Serie A,2016,27/05/16,Atletico-MG,Gremio,0,3,A,2.39,3.27,3.34,2.49,3.32,3.44,2.31,3.15,3.11
+Brazil,Serie A,2016,28/05/16,Cruzeiro,America MG,1,1,D,1.57,4.08,7.02,1.6,4.3,7.02,1.55,3.8,6.15
+Brazil,Serie A,2016,28/05/16,Atletico-PR,Figueirense,2,1,H,1.75,3.75,5.4,1.75,3.9,5.8,1.69,3.56,5.04
+Brazil,Serie A,2016,29/05/16,Chapecoense-SC,Santa Cruz,1,1,D,2,3.46,4.22,2.11,3.55,4.37,1.93,3.29,3.89
+Brazil,Serie A,2016,29/05/16,Ponte Preta,Flamengo RJ,1,2,A,2.55,3.24,3.08,2.55,3.28,3.18,2.41,3.11,2.95
+Brazil,Serie A,2016,29/05/16,Sport Recife,Corinthians,0,2,A,2.99,3.19,2.65,3.06,3.28,2.65,2.83,3.06,2.53
+Brazil,Serie A,2016,29/05/16,Fluminense,Botafogo RJ,1,0,H,2.05,3.53,3.95,2.15,3.53,4.09,2,3.33,3.64
+Brazil,Serie A,2016,29/05/16,Sao Paulo,Palmeiras,1,0,H,2.26,3.3,3.56,2.29,3.36,3.56,2.19,3.15,3.32
+Brazil,Serie A,2016,29/05/16,Vitoria,Atletico-MG,1,1,D,2.41,3.3,3.26,2.45,3.5,3.26,2.33,3.21,2.99
+Brazil,Serie A,2016,29/05/16,Gremio,Coritiba,2,0,H,1.6,3.99,6.74,1.62,3.99,6.92,1.57,3.69,6.06
+Brazil,Serie A,2016,29/05/16,Santos,Internacional,0,1,A,2.22,3.33,3.65,2.26,3.44,3.7,2.18,3.14,3.38
+Brazil,Serie A,2016,01/06/16,Internacional,Atletico-PR,1,0,H,1.57,4,7.14,1.59,4,7.59,1.53,3.77,6.54
+Brazil,Serie A,2016,02/06/16,Corinthians,Santos,1,0,H,1.57,3.93,7.48,1.65,3.93,7.48,1.58,3.64,6.11
+Brazil,Serie A,2016,02/06/16,Coritiba,Chapecoense-SC,3,4,A,2.33,3.11,3.21,2.47,3.18,3.5,2.31,2.99,3.26
+Brazil,Serie A,2016,02/06/16,Santa Cruz,Sport Recife,0,1,A,2.14,3.34,3.86,2.17,3.5,4.1,2.05,3.22,3.6
+Brazil,Serie A,2016,02/06/16,Atletico-MG,Fluminense,1,1,D,1.92,3.52,4.55,2.05,3.52,4.55,1.91,3.38,3.95
+Brazil,Serie A,2016,02/06/16,Botafogo RJ,Cruzeiro,0,1,A,5.11,3.55,1.83,5.2,3.62,2.05,4.36,3.37,1.82
+Brazil,Serie A,2016,02/06/16,Figueirense,Sao Paulo,1,0,H,2.69,3.15,2.98,2.76,3.22,2.98,2.62,3.03,2.77
+Brazil,Serie A,2016,02/06/16,America MG,Ponte Preta,1,2,A,2.34,3.25,3.06,2.43,3.29,3.35,2.33,3.1,3.12
+Brazil,Serie A,2016,03/06/16,Flamengo RJ,Vitoria,1,0,H,1.46,4.58,8.35,1.57,4.65,8.5,1.45,4.17,7.03
+Brazil,Serie A,2016,03/06/16,Palmeiras,Gremio,4,3,H,2,3.45,4.26,2.25,3.52,4.26,2.01,3.27,3.75
+Brazil,Serie A,2016,04/06/16,Atletico-PR,Santa Cruz,1,0,H,1.55,4.17,7.07,1.7,4.28,7.11,1.54,3.88,6.08
+Brazil,Serie A,2016,05/06/16,Chapecoense-SC,Fluminense,0,0,D,2.63,3.31,2.92,2.64,3.31,2.97,2.52,3.09,2.82
+Brazil,Serie A,2016,05/06/16,Corinthians,Coritiba,2,1,H,1.47,4.34,8.55,1.47,4.45,9.6,1.42,4.1,7.87
+Brazil,Serie A,2016,05/06/16,America MG,Figueirense,1,0,H,2.3,3.29,3.49,2.3,3.3,3.7,2.18,3.16,3.36
+Brazil,Serie A,2016,05/06/16,Santos,Botafogo RJ,3,0,H,1.78,3.66,5.3,1.79,3.7,5.5,1.73,3.46,4.84
+Brazil,Serie A,2016,05/06/16,Flamengo RJ,Palmeiras,1,2,A,2.49,3.34,3.08,2.5,3.35,3.2,2.4,3.2,2.9
+Brazil,Serie A,2016,05/06/16,Gremio,Ponte Preta,1,0,H,1.51,4.11,8.5,1.6,4.33,8.5,1.49,3.88,6.85
+Brazil,Serie A,2016,05/06/16,Sport Recife,Atletico-MG,4,4,D,2.23,3.44,3.5,2.3,3.48,3.6,2.17,3.26,3.24
+Brazil,Serie A,2016,05/06/16,Vitoria,Internacional,1,0,H,2.96,3.32,2.59,3.18,3.32,2.6,2.92,3.08,2.45
+Brazil,Serie A,2016,05/06/16,Cruzeiro,Sao Paulo,0,1,A,1.79,3.52,4.57,1.83,3.74,5.6,1.73,3.37,4.98
+Brazil,Serie A,2016,11/06/16,Internacional,America MG,3,1,H,1.47,4.39,8.68,1.5,4.39,8.75,1.46,4.01,7.2
+Brazil,Serie A,2016,11/06/16,Ponte Preta,Chapecoense-SC,2,1,H,2.15,3.37,3.79,2.15,3.37,4.1,2.06,3.16,3.67
+Brazil,Serie A,2016,11/06/16,Fluminense,Gremio,1,1,D,2.26,3.13,3.81,2.3,3.22,3.81,2.16,3.06,3.54
+Brazil,Serie A,2016,12/06/16,Sao Paulo,Atletico-PR,1,2,A,1.76,3.65,5.44,1.81,3.75,5.44,1.74,3.48,4.75
+Brazil,Serie A,2016,12/06/16,Botafogo RJ,Vitoria,1,1,D,1.93,3.58,4.4,2.08,3.59,4.55,1.9,3.38,4.04
+Brazil,Serie A,2016,12/06/16,Coritiba,Sport Recife,3,2,H,1.96,3.46,4.43,2,3.48,4.6,1.92,3.28,4.11
+Brazil,Serie A,2016,12/06/16,Atletico-MG,Cruzeiro,2,3,A,2.01,3.55,4.06,2.05,3.56,4.2,1.97,3.36,3.75
+Brazil,Serie A,2016,12/06/16,Figueirense,Flamengo RJ,1,0,H,2.85,3.23,2.75,2.96,3.3,2.89,2.74,3.07,2.61
+Brazil,Serie A,2016,12/06/16,Palmeiras,Corinthians,1,0,H,2.32,3.2,3.56,2.33,3.21,3.56,2.23,3.11,3.29
+Brazil,Serie A,2016,12/06/16,Santa Cruz,Santos,0,2,A,2.67,3.17,2.98,2.67,3.2,3.5,2.41,3.04,3.05
+Brazil,Serie A,2016,15/06/16,Chapecoense-SC,Gremio,3,3,D,3,3.15,2.67,3,3.18,2.76,2.8,2.99,2.62
+Brazil,Serie A,2016,15/06/16,Ponte Preta,Atletico-PR,3,2,H,2.08,3.42,3.98,2.08,3.57,4.2,1.98,3.27,3.81
+Brazil,Serie A,2016,15/06/16,Sao Paulo,Vitoria,2,0,H,1.44,4.61,8.63,1.44,4.96,9.19,1.4,4.35,7.9
+Brazil,Serie A,2016,16/06/16,Botafogo RJ,America MG,3,1,H,1.83,3.59,4.97,1.88,3.59,5,1.8,3.37,4.55
+Brazil,Serie A,2016,16/06/16,Santa Cruz,Figueirense,1,0,H,1.92,3.5,4.61,1.93,3.57,4.85,1.86,3.33,4.31
+Brazil,Serie A,2016,16/06/16,Santos,Sport Recife,2,0,H,1.57,4.23,6.61,1.57,4.36,7.2,1.52,3.97,6.18
+Brazil,Serie A,2016,16/06/16,Coritiba,Palmeiras,2,2,D,3.05,3.36,2.51,3.22,3.41,2.52,2.96,3.18,2.39
+Brazil,Serie A,2016,16/06/16,Cruzeiro,Flamengo RJ,0,1,A,2.16,3.25,3.93,2.19,3.4,4.3,2.07,3.19,3.63
+Brazil,Serie A,2016,16/06/16,Internacional,Atletico-MG,2,0,H,1.91,3.63,4.45,2,3.85,5.1,1.85,3.47,4.17
+Brazil,Serie A,2016,17/06/16,Fluminense,Corinthians,1,0,H,3.59,3.27,2.27,3.76,3.37,2.38,3.32,3.11,2.23
+Brazil,Serie A,2016,18/06/16,Palmeiras,Santa Cruz,3,1,H,1.42,4.63,7.16,1.42,5.15,9.91,1.38,4.53,7.93
+Brazil,Serie A,2016,18/06/16,Atletico-PR,Santos,1,0,H,2.19,3.29,3.77,2.25,3.4,3.8,2.14,3.19,3.45
+Brazil,Serie A,2016,19/06/16,America MG,Coritiba,2,1,H,2.32,3.32,3.4,2.42,3.37,3.4,2.26,3.18,3.18
+Brazil,Serie A,2016,19/06/16,Atletico-MG,Ponte Preta,3,0,H,1.52,4.44,7.14,1.55,4.55,7.53,1.49,4.08,6.49
+Brazil,Serie A,2016,19/06/16,Vitoria,Chapecoense-SC,1,2,A,2.01,3.5,4.14,2.05,3.52,4.33,1.96,3.32,3.84
+Brazil,Serie A,2016,19/06/16,Corinthians,Botafogo RJ,3,1,H,1.48,4.28,6.52,1.5,4.4,8.72,1.45,4.09,7.15
+Brazil,Serie A,2016,19/06/16,Figueirense,Internacional,3,2,H,3.46,3.16,2.38,3.57,3.16,2.4,3.3,3.03,2.28
+Brazil,Serie A,2016,19/06/16,Flamengo RJ,Sao Paulo,2,2,D,2.66,3.07,3.09,2.68,3.22,3.09,2.55,3.05,2.85
+Brazil,Serie A,2016,19/06/16,Sport Recife,Fluminense,2,1,H,2.28,3.37,3.46,2.38,3.37,3.47,2.24,3.17,3.23
+Brazil,Serie A,2016,19/06/16,Gremio,Cruzeiro,2,0,H,1.75,3.75,5.39,1.8,3.85,5.5,1.72,3.55,4.82
+Brazil,Serie A,2016,22/06/16,Palmeiras,America MG,2,0,H,1.3,5.72,11.91,1.36,5.72,11.91,1.31,5.08,9.03
+Brazil,Serie A,2016,22/06/16,Ponte Preta,Cruzeiro,0,4,A,2.68,3.27,2.89,2.82,3.27,3.05,2.61,3.08,2.75
+Brazil,Serie A,2016,23/06/16,Botafogo RJ,Figueirense,0,0,D,1.93,3.48,3.89,2.05,3.6,5,1.9,3.33,4.12
+Brazil,Serie A,2016,23/06/16,Santa Cruz,Flamengo RJ,0,1,A,3,3.31,2.55,3.18,3.42,2.58,2.88,3.16,2.46
+Brazil,Serie A,2016,23/06/16,Atletico-MG,Corinthians,2,1,H,1.9,3.64,4.45,1.96,3.65,4.5,1.87,3.42,4.12
+Brazil,Serie A,2016,23/06/16,Fluminense,Santos,2,4,A,2.63,3.24,2.98,2.63,3.24,3.24,2.47,3.06,2.94
+Brazil,Serie A,2016,23/06/16,Chapecoense-SC,Atletico-PR,0,0,D,2.05,3.17,4.59,2.06,3.32,4.6,2,3.13,3.96
+Brazil,Serie A,2016,23/06/16,Gremio,Vitoria,1,2,A,1.33,5.2,12.51,1.36,5.8,12.51,1.31,4.85,9.79
+Brazil,Serie A,2016,24/06/16,Sao Paulo,Sport Recife,0,0,D,1.41,4.76,9.41,1.43,5.1,9.71,1.38,4.49,8.07
+Brazil,Serie A,2016,24/06/16,Coritiba,Internacional,1,1,D,3.14,3.33,2.46,3.42,3.37,2.46,3.02,3.16,2.36
+Brazil,Serie A,2016,25/06/16,Cruzeiro,Palmeiras,2,1,H,2.18,3.52,3.55,2.38,3.52,3.55,2.18,3.29,3.25
+Brazil,Serie A,2016,26/06/16,Corinthians,Santa Cruz,2,1,H,1.46,4.55,8.36,1.46,4.6,9.31,1.42,4.32,7.5
+Brazil,Serie A,2016,26/06/16,America MG,Atletico-MG,0,1,A,6.41,4.32,1.57,6.75,4.32,1.64,5.98,3.99,1.54
+Brazil,Serie A,2016,26/06/16,Atletico-PR,Gremio,2,0,H,2.44,3.29,3.21,2.56,3.3,3.21,2.4,3.09,3.03
+Brazil,Serie A,2016,26/06/16,Flamengo RJ,Fluminense,1,2,A,2.15,3.22,4.01,2.2,3.32,4.06,2.08,3.18,3.62
+Brazil,Serie A,2016,26/06/16,Internacional,Botafogo RJ,2,3,A,1.71,3.86,5.49,1.71,3.92,6.14,1.65,3.69,5.17
+Brazil,Serie A,2016,26/06/16,Santos,Sao Paulo,3,0,H,2.14,3.43,3.74,2.3,3.45,3.85,2.13,3.22,3.45
+Brazil,Serie A,2016,26/06/16,Vitoria,Ponte Preta,1,1,D,2.1,3.48,3.81,2.13,3.48,3.95,2.05,3.3,3.57
+Brazil,Serie A,2016,26/06/16,Figueirense,Coritiba,0,0,D,2.35,3.23,3.45,2.4,3.32,3.63,2.23,3.12,3.33
+Brazil,Serie A,2016,26/06/16,Sport Recife,Chapecoense-SC,5,1,H,1.83,3.65,4.87,1.86,3.7,5.65,1.75,3.5,4.66
+Brazil,Serie A,2016,29/06/16,Flamengo RJ,Internacional,1,0,H,2.16,3.35,3.79,2.35,3.46,3.79,2.15,3.23,3.39
+Brazil,Serie A,2016,29/06/16,Gremio,Santos,3,2,H,2.27,3.2,3.68,2.27,3.34,4.03,2.15,3.15,3.48
+Brazil,Serie A,2016,29/06/16,Vitoria,Sport Recife,3,2,H,2.45,3.28,3.2,2.6,3.38,3.27,2.37,3.2,2.96
+Brazil,Serie A,2016,30/06/16,Chapecoense-SC,Cruzeiro,3,2,H,2.86,3.28,2.69,2.98,3.28,2.79,2.76,3.09,2.59
+Brazil,Serie A,2016,30/06/16,Coritiba,Atletico-PR,1,0,H,2.44,3.23,3.27,2.46,3.28,3.4,2.33,3.1,3.14
+Brazil,Serie A,2016,30/06/16,America MG,Corinthians,0,2,A,3.96,3.35,2.11,4.15,3.52,2.15,3.62,3.2,2.07
+Brazil,Serie A,2016,30/06/16,Sao Paulo,Fluminense,2,1,H,1.92,3.41,4.73,1.98,3.57,4.85,1.9,3.29,4.11
+Brazil,Serie A,2016,30/06/16,Palmeiras,Figueirense,4,0,H,1.43,4.8,8.46,1.44,5.25,9.91,1.38,4.62,7.88
+Brazil,Serie A,2016,30/06/16,Santa Cruz,Ponte Preta,0,3,A,2.29,3.25,3.55,2.32,3.4,3.7,2.17,3.2,3.37
+Brazil,Serie A,2016,01/07/16,Atletico-MG,Botafogo RJ,5,3,H,1.61,4.12,6.28,1.65,4.28,6.3,1.59,3.91,5.41
+Brazil,Serie A,2016,02/07/16,Fluminense,Coritiba,0,0,D,1.97,3.46,4.36,1.99,3.58,4.82,1.88,3.33,4.18
+Brazil,Serie A,2016,02/07/16,Atletico-PR,America MG,1,0,H,1.51,4.43,7.39,1.53,4.46,7.73,1.48,4.03,6.68
+Brazil,Serie A,2016,03/07/16,Cruzeiro,Vitoria,2,2,D,1.48,4.56,7.78,1.53,4.56,7.9,1.47,4.15,6.67
+Brazil,Serie A,2016,03/07/16,Internacional,Gremio,0,1,A,2.48,3.27,3.17,2.48,3.45,3.42,2.33,3.12,3.13
+Brazil,Serie A,2016,03/07/16,Botafogo RJ,Santa Cruz,2,1,H,1.56,4.05,7.21,1.65,4.32,7.21,1.56,3.92,5.74
+Brazil,Serie A,2016,03/07/16,Corinthians,Flamengo RJ,4,0,H,2.06,3.39,3.55,2.11,3.47,4.16,2.03,3.24,3.7
+Brazil,Serie A,2016,03/07/16,Ponte Preta,Sao Paulo,1,0,H,2.35,3.38,3.3,2.45,3.47,4.36,2.14,3.23,3.47
+Brazil,Serie A,2016,03/07/16,Santos,Chapecoense-SC,3,0,H,1.44,4.68,8.68,1.44,4.86,9.31,1.41,4.37,7.78
+Brazil,Serie A,2016,03/07/16,Figueirense,Atletico-MG,1,1,D,3.36,3.48,2.28,3.57,3.52,2.28,3.23,3.31,2.18
+Brazil,Serie A,2016,05/07/16,Sport Recife,Palmeiras,1,3,A,2.87,3.4,2.61,3.02,3.62,2.61,2.81,3.3,2.42
+Brazil,Serie A,2016,09/07/16,Chapecoense-SC,Corinthians,0,2,A,3.16,3.28,2.47,3.22,3.4,2.47,3,3.17,2.36
+Brazil,Serie A,2016,09/07/16,Coritiba,Botafogo RJ,0,0,D,1.96,3.51,4.35,1.96,3.75,4.58,1.89,3.41,4.03
+Brazil,Serie A,2016,10/07/16,Ponte Preta,Sport Recife,2,1,H,1.88,3.55,4.68,1.9,3.67,4.68,1.85,3.46,4.19
+Brazil,Serie A,2016,10/07/16,Flamengo RJ,Atletico-MG,2,0,H,2.69,3.24,2.91,2.7,3.37,2.96,2.53,3.2,2.76
+Brazil,Serie A,2016,10/07/16,Gremio,Figueirense,2,1,H,1.35,5.11,11.02,1.38,5.25,11.5,1.33,4.69,9.7
+Brazil,Serie A,2016,10/07/16,Santa Cruz,Internacional,1,0,H,2.78,3.26,2.79,2.88,3.27,2.8,2.7,3.1,2.64
+Brazil,Serie A,2016,10/07/16,Sao Paulo,America MG,3,0,H,1.58,4.08,6.69,1.62,4.25,7.2,1.55,3.82,6.05
+Brazil,Serie A,2016,10/07/16,Vitoria,Fluminense,0,0,D,2.12,3.55,3.7,2.25,3.6,3.77,2.07,3.37,3.45
+Brazil,Serie A,2016,12/07/16,Cruzeiro,Atletico-PR,0,3,A,1.75,3.83,5.22,1.79,3.92,5.55,1.69,3.66,4.84
+Brazil,Serie A,2016,13/07/16,Palmeiras,Santos,1,1,D,2.2,3.47,3.54,2.25,3.55,3.9,2.13,3.3,3.34
+Brazil,Serie A,2016,16/07/16,Botafogo RJ,Flamengo RJ,3,3,D,3.04,3.43,2.26,3.37,3.43,2.44,3.17,3.22,2.25
+Brazil,Serie A,2016,16/07/16,Santos,Ponte Preta,3,1,H,1.45,4.69,8.08,1.47,4.69,8.52,1.42,4.39,7.24
+Brazil,Serie A,2016,17/07/16,America MG,Santa Cruz,0,3,A,2.21,3.3,3.71,2.28,3.3,3.82,2.16,3.16,3.45
+Brazil,Serie A,2016,17/07/16,Atletico-PR,Vitoria,1,1,D,1.59,4.04,6.78,1.74,4.04,6.78,1.59,3.76,5.74
+Brazil,Serie A,2016,17/07/16,Corinthians,Sao Paulo,1,1,D,1.64,3.86,6.4,1.69,3.86,6.57,1.62,3.63,5.69
+Brazil,Serie A,2016,17/07/16,Figueirense,Chapecoense-SC,1,1,D,2.27,3.25,3.6,2.34,3.27,3.72,2.22,3.12,3.34
+Brazil,Serie A,2016,17/07/16,Fluminense,Cruzeiro,2,0,H,2.48,3.27,3.16,2.5,3.29,3.22,2.37,3.14,3.03
+Brazil,Serie A,2016,17/07/16,Internacional,Palmeiras,0,1,A,2.33,3.33,3.37,2.54,3.37,3.37,2.3,3.22,3.08
+Brazil,Serie A,2016,17/07/16,Sport Recife,Gremio,4,2,H,2.73,3.3,2.81,3.02,3.37,2.81,2.69,3.14,2.62
+Brazil,Serie A,2016,19/07/16,Atletico-MG,Coritiba,2,1,H,1.72,3.92,5.24,1.72,3.97,6.3,1.65,3.78,5.01
+Brazil,Serie A,2016,23/07/16,Corinthians,Figueirense,1,1,D,1.28,5.6,15.4,1.35,5.6,15.4,1.3,4.91,10.67
+Brazil,Serie A,2016,23/07/16,Santa Cruz,Coritiba,0,1,A,2.45,3.25,3.23,2.45,3.27,3.77,2.28,3.14,3.21
+Brazil,Serie A,2016,24/07/16,Palmeiras,Atletico-MG,0,1,A,1.78,4.07,4.57,1.88,4.07,4.75,1.78,3.79,4.11
+Brazil,Serie A,2016,24/07/16,Ponte Preta,Internacional,2,2,D,2.45,3.16,3.33,2.52,3.3,3.37,2.36,3.09,3.09
+Brazil,Serie A,2016,24/07/16,Atletico-PR,Fluminense,1,0,H,2.29,3.28,3.52,2.31,3.32,3.87,2.16,3.18,3.42
+Brazil,Serie A,2016,24/07/16,Chapecoense-SC,Botafogo RJ,2,1,H,2.09,3.48,3.92,2.16,3.5,3.98,2.03,3.29,3.65
+Brazil,Serie A,2016,24/07/16,Cruzeiro,Sport Recife,1,2,A,1.57,4.27,6.41,1.63,4.28,6.53,1.56,4.01,5.58
+Brazil,Serie A,2016,24/07/16,Gremio,Sao Paulo,1,0,H,2.04,3.48,4.03,2.07,3.56,4.4,1.96,3.31,3.88
+Brazil,Serie A,2016,24/07/16,Vitoria,Santos,2,3,A,2.38,3.47,3.15,2.68,3.62,3.15,2.4,3.31,2.84
+Brazil,Serie A,2016,26/07/16,Flamengo RJ,America MG,2,1,H,1.38,5.07,9.57,1.38,5.55,11.39,1.35,4.77,8.52
+Brazil,Serie A,2016,30/07/16,Figueirense,Vitoria,1,0,H,2.55,3.36,2.98,2.62,3.4,3.1,2.47,3.18,2.85
+Brazil,Serie A,2016,30/07/16,Sport Recife,Atletico-PR,2,0,H,1.69,3.77,5.91,1.71,3.82,6.05,1.64,3.65,5.35
+Brazil,Serie A,2016,31/07/16,Atletico-MG,Santa Cruz,3,0,H,1.41,5.03,8.55,1.41,5.25,9.31,1.38,4.61,7.69
+Brazil,Serie A,2016,31/07/16,Fluminense,Ponte Preta,3,0,H,2,3.47,4.21,2,3.56,4.4,1.92,3.34,4.01
+Brazil,Serie A,2016,31/07/16,Sao Paulo,Chapecoense-SC,2,2,D,1.61,3.8,7.18,1.61,3.92,7.5,1.56,3.65,6.48
+Brazil,Serie A,2016,31/07/16,Coritiba,Flamengo RJ,0,2,A,2.59,3.07,3.19,2.76,3.3,3.19,2.49,3.05,2.93
+Brazil,Serie A,2016,31/07/16,Internacional,Corinthians,0,1,A,2.62,3.09,3.12,2.74,3.2,3.12,2.51,3.02,2.93
+Brazil,Serie A,2016,31/07/16,Santos,Cruzeiro,2,0,H,1.93,3.51,4.51,1.95,3.66,4.72,1.88,3.41,4.08
+Brazil,Serie A,2016,31/07/16,America MG,Gremio,0,0,D,4.53,3.67,1.88,4.53,3.74,2.02,4.09,3.37,1.89
+Brazil,Serie A,2016,31/07/16,Botafogo RJ,Palmeiras,3,1,H,2.64,3.52,2.77,2.92,3.54,2.77,2.63,3.26,2.62
+Brazil,Serie A,2016,03/08/16,Sport Recife,America MG,1,1,D,1.52,4.22,7.64,1.54,4.5,8.4,1.49,4.14,6.47
+Brazil,Serie A,2016,03/08/16,Vitoria,Coritiba,3,1,H,2.09,3.34,4.05,2.1,3.46,4.1,2.04,3.25,3.68
+Brazil,Serie A,2016,04/08/16,Atletico-PR,Corinthians,2,0,H,3.19,3.23,2.49,3.38,3.23,2.65,2.96,3.05,2.47
+Brazil,Serie A,2016,04/08/16,Santos,Flamengo RJ,0,0,D,4.15,3.22,2.1,4.15,3.37,2.3,3.46,3.2,2.13
+Brazil,Serie A,2016,04/08/16,Ponte Preta,Botafogo RJ,2,0,H,2.06,3.47,3.96,2.1,3.55,3.97,2.02,3.35,3.61
+Brazil,Serie A,2016,04/08/16,Gremio,Santa Cruz,0,0,D,1.53,4.55,6.66,1.53,4.56,7.93,1.47,4.19,6.63
+Brazil,Serie A,2016,04/08/16,Sao Paulo,Atletico-MG,1,2,A,2.29,3.56,3.25,2.34,3.56,3.32,2.23,3.34,3.11
+Brazil,Serie A,2016,05/08/16,Cruzeiro,Internacional,4,2,H,1.72,3.82,5.5,1.76,3.86,5.75,1.69,3.6,4.99
+Brazil,Serie A,2016,05/08/16,Chapecoense-SC,Palmeiras,1,1,D,2.88,3.3,2.67,2.93,3.37,2.69,2.72,3.19,2.57
+Brazil,Serie A,2016,06/08/16,Flamengo RJ,Atletico-PR,1,0,H,1.78,3.58,5.47,1.79,3.64,5.95,1.72,3.44,5.05
+Brazil,Serie A,2016,07/08/16,America MG,Santos,1,0,H,3.18,3.28,2.46,3.82,3.37,2.48,3.07,3.2,2.33
+Brazil,Serie A,2016,07/08/16,Coritiba,Ponte Preta,3,1,H,1.97,3.36,4.54,2,3.4,4.54,1.93,3.27,4.05
+Brazil,Serie A,2016,07/08/16,Palmeiras,Vitoria,2,1,H,1.46,4.71,7.87,1.49,4.85,8.5,1.41,4.51,7.08
+Brazil,Serie A,2016,07/08/16,Internacional,Fluminense,2,2,D,2.22,3.41,3.55,2.25,3.45,3.97,2.15,3.22,3.4
+Brazil,Serie A,2016,07/08/16,Santa Cruz,Sao Paulo,1,2,A,2.56,3.23,3.06,2.62,3.27,3.1,2.48,3.1,2.89
+Brazil,Serie A,2016,07/08/16,Figueirense,Sport Recife,1,1,D,2.39,3.32,3.27,2.52,3.32,3.38,2.31,3.15,3.11
+Brazil,Serie A,2016,09/08/16,Atletico-MG,Chapecoense-SC,3,1,H,1.47,4.61,7.76,1.47,4.66,9.11,1.43,4.26,7.25
+Brazil,Serie A,2016,09/08/16,Corinthians,Cruzeiro,1,1,D,1.69,3.91,5.64,1.7,4,6,1.64,3.71,5.21
+Brazil,Serie A,2016,13/08/16,Sport Recife,Flamengo RJ,1,0,H,2.91,3.3,2.63,3,3.45,2.68,2.78,3.2,2.5
+Brazil,Serie A,2016,13/08/16,Ponte Preta,Figueirense,2,0,H,1.61,4.02,6.42,1.65,4.02,6.54,1.6,3.72,5.71
+Brazil,Serie A,2016,14/08/16,Fluminense,America MG,1,0,H,1.51,4.31,7.77,1.55,4.31,8.6,1.47,3.99,7.22
+Brazil,Serie A,2016,14/08/16,Gremio,Corinthians,3,0,H,2.21,3.24,3.78,2.24,3.34,3.85,2.15,3.14,3.49
+Brazil,Serie A,2016,14/08/16,Cruzeiro,Coritiba,2,2,D,1.53,4.18,7.57,1.6,4.2,7.57,1.52,3.9,6.53
+Brazil,Serie A,2016,14/08/16,Santos,Atletico-MG,3,0,H,2.24,3.42,3.51,2.45,3.42,3.51,2.23,3.29,3.14
+Brazil,Serie A,2016,14/08/16,Vitoria,Santa Cruz,2,2,D,1.82,3.7,4.85,1.83,3.77,5.05,1.77,3.56,4.44
+Brazil,Serie A,2016,14/08/16,Sao Paulo,Botafogo RJ,0,1,A,1.61,3.99,6.46,1.7,4,6.46,1.61,3.73,5.53
+Brazil,Serie A,2016,14/08/16,Atletico-PR,Palmeiras,0,1,A,2.65,3.23,2.95,2.69,3.32,2.95,2.54,3.13,2.79
+Brazil,Serie A,2016,16/08/16,Chapecoense-SC,Internacional,1,0,H,2.42,3.15,3.39,2.44,3.27,3.42,2.33,3.06,3.18
+Brazil,Serie A,2016,20/08/16,America MG,Chapecoense-SC,1,2,A,2.2,3.26,3.79,2.31,3.27,3.79,2.18,3.09,3.46
+Brazil,Serie A,2016,21/08/16,Botafogo RJ,Sport Recife,3,0,H,1.94,3.49,4.49,2.05,3.57,4.49,1.92,3.34,3.98
+Brazil,Serie A,2016,21/08/16,Atletico-MG,Atletico-PR,1,0,H,1.44,4.76,8.33,1.46,4.77,8.8,1.42,4.33,7.46
+Brazil,Serie A,2016,21/08/16,Flamengo RJ,Gremio,2,1,H,2.05,3.45,4.03,2.1,3.45,4.16,2.01,3.29,3.71
+Brazil,Serie A,2016,21/08/16,Internacional,Sao Paulo,1,1,D,2.09,3.34,4.04,2.2,3.35,4.06,2.08,3.19,3.64
+Brazil,Serie A,2016,21/08/16,Palmeiras,Ponte Preta,2,2,D,1.69,3.93,5.59,1.69,4.1,6,1.63,3.74,5.35
+Brazil,Serie A,2016,21/08/16,Santa Cruz,Fluminense,0,1,A,2.51,3.31,3.08,2.66,3.31,3.08,2.46,3.15,2.88
+Brazil,Serie A,2016,21/08/16,Coritiba,Santos,2,1,H,2.57,3.15,3.15,2.58,3.22,3.17,2.44,3.1,2.97
+Brazil,Serie A,2016,21/08/16,Figueirense,Cruzeiro,1,2,A,3.41,3.3,2.33,3.42,3.4,2.4,3.16,3.21,2.26
+Brazil,Serie A,2016,23/08/16,Corinthians,Vitoria,2,1,H,1.42,5.02,8.23,1.42,5.05,9.51,1.39,4.56,7.73
+Brazil,Serie A,2016,27/08/16,Ponte Preta,Corinthians,2,0,H,2.77,3.27,2.79,3,3.3,2.8,2.73,3.1,2.62
+Brazil,Serie A,2016,28/08/16,Cruzeiro,Santa Cruz,2,0,H,1.41,4.87,8.95,1.45,4.96,8.95,1.4,4.55,7.57
+Brazil,Serie A,2016,28/08/16,Santos,Figueirense,0,1,A,1.43,4.58,9.48,1.43,5,9.91,1.38,4.56,8.12
+Brazil,Serie A,2016,28/08/16,Chapecoense-SC,Flamengo RJ,1,3,A,2.91,3.25,2.67,2.98,3.25,2.7,2.82,3.08,2.56
+Brazil,Serie A,2016,28/08/16,Fluminense,Palmeiras,0,2,A,3.25,3.37,2.35,3.28,3.44,2.42,3.05,3.24,2.3
+Brazil,Serie A,2016,28/08/16,Gremio,Atletico-MG,1,1,D,1.77,3.83,5.02,1.85,3.83,5.02,1.77,3.57,4.48
+Brazil,Serie A,2016,28/08/16,Sao Paulo,Coritiba,0,0,D,1.76,3.69,5.35,1.8,3.74,5.45,1.72,3.54,4.87
+Brazil,Serie A,2016,28/08/16,Sport Recife,Internacional,1,1,D,2.52,3.22,3.14,2.57,3.27,3.22,2.4,3.1,2.98
+Brazil,Serie A,2016,28/08/16,Vitoria,America MG,2,1,H,1.72,3.89,5.36,1.74,3.9,5.65,1.67,3.67,5.03
+Brazil,Serie A,2016,30/08/16,Atletico-PR,Botafogo RJ,1,0,H,2.29,3.35,3.45,2.31,3.42,4,2.19,3.21,3.32
+Brazil,Serie A,2016,03/09/16,Fluminense,Figueirense,3,2,H,1.46,4.4,9.01,1.51,4.54,9.5,1.42,4.17,7.98
+Brazil,Serie A,2016,04/09/16,Botafogo RJ,Gremio,2,1,H,2.46,3.46,3.04,2.55,3.48,3.06,2.38,3.27,2.91
+Brazil,Serie A,2016,07/09/16,Botafogo RJ,Fluminense,1,0,H,2.47,3.14,3.31,2.55,3.18,3.4,2.38,3.07,3.08
+Brazil,Serie A,2016,07/09/16,Figueirense,Atletico-PR,1,0,H,2.43,3.14,3.37,2.48,3.2,3.52,2.33,3.04,3.2
+Brazil,Serie A,2016,07/09/16,Santa Cruz,Chapecoense-SC,2,2,D,2.19,3.27,3.82,2.25,3.3,4.06,2.1,3.18,3.58
+Brazil,Serie A,2016,07/09/16,Atletico-MG,Vitoria,2,1,H,1.43,5.02,7.79,1.43,5.25,8.32,1.4,4.63,7.16
+Brazil,Serie A,2016,08/09/16,Coritiba,Gremio,4,0,H,2.52,3.11,3.25,2.57,3.17,3.25,2.4,3.05,3.07
+Brazil,Serie A,2016,08/09/16,Flamengo RJ,Ponte Preta,2,1,H,1.71,3.86,5.46,1.71,3.86,5.81,1.66,3.61,5.18
+Brazil,Serie A,2016,08/09/16,Palmeiras,Sao Paulo,2,1,H,1.74,3.75,5.44,1.85,3.78,5.75,1.7,3.58,4.9
+Brazil,Serie A,2016,08/09/16,Corinthians,Sport Recife,3,0,H,1.53,4.34,7.16,1.55,4.45,7.53,1.5,4.02,6.6
+Brazil,Serie A,2016,09/09/16,America MG,Cruzeiro,0,2,A,4.72,3.66,1.85,4.86,3.7,1.91,4.24,3.45,1.84
+Brazil,Serie A,2016,09/09/16,Internacional,Santos,2,1,H,2.12,3.39,3.88,2.15,3.42,3.97,2.06,3.25,3.6
+Brazil,Serie A,2016,10/09/16,Vitoria,Flamengo RJ,1,2,A,3.15,3.69,2.29,3.27,3.69,2.4,3,3.38,2.27
+Brazil,Serie A,2016,11/09/16,Chapecoense-SC,Coritiba,1,0,H,2.02,3.45,4.16,2.16,3.45,4.16,2.04,3.24,3.7
+Brazil,Serie A,2016,11/09/16,Sao Paulo,Figueirense,3,1,H,1.46,4.45,8.69,1.5,4.65,8.9,1.45,4.1,7.38
+Brazil,Serie A,2016,11/09/16,Atletico-PR,Internacional,2,1,H,2.58,3.17,3.06,2.65,3.24,3.22,2.48,3.02,2.98
+Brazil,Serie A,2016,11/09/16,Cruzeiro,Botafogo RJ,0,2,A,1.52,4.43,7.17,1.57,4.45,7.17,1.5,4.15,6.14
+Brazil,Serie A,2016,11/09/16,Santos,Corinthians,2,1,H,2.33,3.29,3.43,2.5,3.29,3.48,2.3,3.15,3.16
+Brazil,Serie A,2016,11/09/16,Sport Recife,Santa Cruz,5,3,H,2.08,3.46,3.91,2.12,3.46,4.05,2.03,3.29,3.65
+Brazil,Serie A,2016,11/09/16,Gremio,Palmeiras,0,0,D,2.16,3.53,3.58,2.25,3.64,3.58,2.11,3.38,3.33
+Brazil,Serie A,2016,11/09/16,Ponte Preta,America MG,1,1,D,1.48,4.32,8.5,1.5,4.46,9,1.45,4.01,7.44
+Brazil,Serie A,2016,13/09/16,Fluminense,Atletico-MG,4,2,H,2.27,3.61,3.25,2.36,3.72,3.32,2.19,3.41,3.12
+Brazil,Serie A,2016,14/09/16,Botafogo RJ,Santos,0,1,A,2.74,3.3,2.81,2.74,3.42,2.86,2.58,3.22,2.68
+Brazil,Serie A,2016,14/09/16,Figueirense,America MG,2,2,D,2.31,3.15,3.64,2.31,3.3,3.77,2.2,3.07,3.42
+Brazil,Serie A,2016,15/09/16,Ponte Preta,Gremio,3,0,H,2.39,3.22,3.37,2.5,3.32,3.37,2.34,3.07,3.14
+Brazil,Serie A,2016,15/09/16,Santa Cruz,Atletico-PR,1,0,H,2.01,3.51,4.11,2.05,3.51,4.3,1.95,3.29,3.93
+Brazil,Serie A,2016,15/09/16,Coritiba,Corinthians,1,1,D,2.49,3.29,3.13,2.61,3.3,3.13,2.44,3.09,2.96
+Brazil,Serie A,2016,15/09/16,Palmeiras,Flamengo RJ,1,1,D,1.97,3.61,4.16,2.01,3.61,4.19,1.94,3.4,3.82
+Brazil,Serie A,2016,15/09/16,Atletico-MG,Sport Recife,1,0,H,1.47,4.8,7.44,1.5,4.86,7.73,1.45,4.4,6.69
+Brazil,Serie A,2016,15/09/16,Fluminense,Chapecoense-SC,1,2,A,1.68,3.72,6.16,1.71,3.77,6.16,1.66,3.54,5.4
+Brazil,Serie A,2016,16/09/16,Internacional,Vitoria,0,1,A,1.53,4.28,7.16,1.56,4.35,7.5,1.5,4.01,6.52
+Brazil,Serie A,2016,16/09/16,Sao Paulo,Cruzeiro,1,0,H,1.98,3.48,4.31,2,3.57,4.36,1.93,3.34,3.96
+Brazil,Serie A,2016,17/09/16,Corinthians,Palmeiras,0,2,A,2.35,3.32,3.37,2.44,3.32,3.37,2.29,3.15,3.15
+Brazil,Serie A,2016,18/09/16,Flamengo RJ,Figueirense,2,0,H,1.33,5.36,11.76,1.4,5.4,12.5,1.31,4.88,9.77
+Brazil,Serie A,2016,18/09/16,Atletico-PR,Sao Paulo,1,0,H,2.95,3.09,2.76,3.02,3.09,2.92,2.78,2.94,2.69
+Brazil,Serie A,2016,18/09/16,Chapecoense-SC,Ponte Preta,2,2,D,2.66,3.09,3.07,2.67,3.1,3.1,2.49,3.01,2.95
+Brazil,Serie A,2016,18/09/16,Cruzeiro,Atletico-MG,1,1,D,1.98,3.71,4.01,2,3.73,4.07,1.93,3.49,3.74
+Brazil,Serie A,2016,18/09/16,Gremio,Fluminense,0,1,A,1.78,3.63,5.34,1.8,3.67,5.55,1.75,3.43,4.85
+Brazil,Serie A,2016,18/09/16,Sport Recife,Coritiba,0,1,A,1.89,3.56,4.64,1.93,3.56,4.66,1.85,3.38,4.25
+Brazil,Serie A,2016,18/09/16,Santos,Santa Cruz,3,2,H,1.53,4.42,6.83,1.54,4.6,8.09,1.49,4.11,6.4
+Brazil,Serie A,2016,18/09/16,Vitoria,Botafogo RJ,0,1,A,2,3.53,4.13,2.15,3.53,4.13,2.03,3.37,3.57
+Brazil,Serie A,2016,20/09/16,America MG,Internacional,1,0,H,3.07,3.25,2.55,3.28,3.28,2.6,2.98,3.07,2.45
+Brazil,Serie A,2016,24/09/16,Palmeiras,Coritiba,2,1,H,1.44,4.56,9.05,1.45,4.75,11,1.39,4.41,8.1
+Brazil,Serie A,2016,24/09/16,Sport Recife,Santos,1,0,H,2.36,3.29,3.35,2.47,3.42,3.35,2.28,3.2,3.14
+Brazil,Serie A,2016,25/09/16,America MG,Botafogo RJ,1,0,H,2.53,3.17,3.12,2.7,3.23,3.2,2.5,3.09,2.86
+Brazil,Serie A,2016,25/09/16,Atletico-PR,Ponte Preta,3,0,H,2.42,3.06,3.5,2.56,3.1,3.74,2.34,2.98,3.25
+Brazil,Serie A,2016,25/09/16,Figueirense,Santa Cruz,3,1,H,2.59,3.12,3.14,2.59,3.28,3.2,2.43,3.12,2.96
+Brazil,Serie A,2016,25/09/16,Corinthians,Fluminense,0,1,A,1.79,3.39,5.87,1.81,3.6,5.87,1.74,3.38,5.01
+Brazil,Serie A,2016,25/09/16,Flamengo RJ,Cruzeiro,2,1,H,1.9,3.69,4.37,1.94,3.9,4.66,1.84,3.53,4.1
+Brazil,Serie A,2016,25/09/16,Gremio,Chapecoense-SC,1,0,H,1.61,3.85,7.04,1.65,4,7.04,1.59,3.69,5.9
+Brazil,Serie A,2016,25/09/16,Vitoria,Sao Paulo,2,0,H,2.47,3.29,3.16,2.48,3.5,3.32,2.34,3.22,2.99
+Brazil,Serie A,2016,25/09/16,Atletico-MG,Internacional,3,1,H,1.76,3.63,5.56,1.76,3.95,5.85,1.68,3.6,5.07
+Brazil,Serie A,2016,01/10/16,Fluminense,Sport Recife,3,1,H,1.75,3.66,5.5,1.79,3.82,6.14,1.68,3.6,5.04
+Brazil,Serie A,2016,01/10/16,Chapecoense-SC,Vitoria,1,4,A,1.95,3.45,4.5,2,3.52,4.5,1.91,3.34,4.06
+Brazil,Serie A,2016,01/10/16,Santos,Atletico-PR,2,0,H,1.56,3.88,7.99,1.64,3.97,7.99,1.56,3.69,6.43
+Brazil,Serie A,2016,01/10/16,Sao Paulo,Flamengo RJ,0,0,D,2.49,3.33,3.1,2.55,3.34,3.17,2.4,3.18,2.93
+Brazil,Serie A,2016,01/10/16,Botafogo RJ,Corinthians,2,0,H,2.35,3.22,3.46,2.45,3.22,3.52,2.3,3.09,3.21
+Brazil,Serie A,2016,01/10/16,Ponte Preta,Atletico-MG,1,2,A,2.25,3.41,3.48,2.45,3.47,3.48,2.23,3.25,3.2
+Brazil,Serie A,2016,01/10/16,Cruzeiro,Gremio,1,0,H,1.67,3.97,5.73,1.75,3.99,5.75,1.64,3.69,5.22
+Brazil,Serie A,2016,02/10/16,Internacional,Figueirense,1,0,H,1.43,4.58,9.29,1.52,4.58,9.29,1.44,4.11,7.64
+Brazil,Serie A,2016,04/10/16,Santa Cruz,Palmeiras,2,3,A,3.2,3.26,2.47,3.36,3.44,2.47,3.01,3.19,2.35
+Brazil,Serie A,2016,04/10/16,Coritiba,America MG,3,0,H,1.54,4.1,7.66,1.6,4.35,7.66,1.52,3.84,6.6
+Brazil,Serie A,2016,05/10/16,Atletico-PR,Chapecoense-SC,3,1,H,1.99,3.26,4.65,2.05,3.27,4.86,1.95,3.14,4.2
+Brazil,Serie A,2016,05/10/16,Vitoria,Gremio,0,1,A,2.13,3.43,3.79,2.16,3.56,3.79,2.09,3.28,3.47
+Brazil,Serie A,2016,06/10/16,Corinthians,Atletico-MG,0,0,D,2.03,3.63,3.89,2.03,3.82,4.66,1.91,3.49,3.88
+Brazil,Serie A,2016,06/10/16,Santos,Fluminense,2,1,H,2.03,3.49,4.08,2.05,3.52,4.36,1.95,3.34,3.89
+Brazil,Serie A,2016,06/10/16,Sport Recife,Sao Paulo,1,1,D,2.21,3.28,3.74,2.22,3.37,3.82,2.14,3.2,3.45
+Brazil,Serie A,2016,06/10/16,Internacional,Coritiba,1,0,H,1.83,3.45,5.33,1.89,3.5,5.7,1.77,3.31,4.95
+Brazil,Serie A,2016,09/10/16,Cruzeiro,Ponte Preta,2,0,H,1.7,3.79,5.79,1.75,3.92,5.85,1.67,3.64,5.1
+Brazil,Serie A,2016,09/10/16,America MG,Palmeiras,0,2,A,9,4.64,1.43,9,4.8,1.49,7.37,4.24,1.43
+Brazil,Serie A,2016,09/10/16,Figueirense,Botafogo RJ,0,1,A,2.71,3.19,2.93,2.71,3.22,2.98,2.57,3.09,2.8
+Brazil,Serie A,2016,09/10/16,Flamengo RJ,Santa Cruz,3,0,H,1.38,5.19,9.19,1.42,5.3,9.3,1.36,4.74,7.85
+Brazil,Serie A,2016,12/10/16,Chapecoense-SC,Sport Recife,3,0,H,1.99,3.41,4.35,2,3.57,4.4,1.94,3.36,3.91
+Brazil,Serie A,2016,12/10/16,Coritiba,Figueirense,0,0,D,1.53,4.12,7.82,1.54,4.16,8.12,1.5,3.83,6.9
+Brazil,Serie A,2016,13/10/16,Botafogo RJ,Internacional,1,0,H,2.01,3.37,4.51,2.05,3.38,4.9,1.95,3.21,4.07
+Brazil,Serie A,2016,13/10/16,Santa Cruz,Corinthians,2,4,A,4.53,3.62,1.89,4.75,3.63,1.92,4.27,3.48,1.82
+Brazil,Serie A,2016,13/10/16,Atletico-MG,America MG,3,0,H,1.34,5.39,10.77,1.37,5.7,11.5,1.32,4.95,8.83
+Brazil,Serie A,2016,13/10/16,Palmeiras,Cruzeiro,0,0,D,1.75,3.79,5.31,1.86,4,5.5,1.73,3.58,4.69
+Brazil,Serie A,2016,13/10/16,Ponte Preta,Vitoria,2,0,H,1.72,3.76,5.62,1.79,3.84,5.75,1.67,3.64,5.04
+Brazil,Serie A,2016,14/10/16,Fluminense,Flamengo RJ,1,2,A,3.33,3.31,2.37,3.62,3.31,2.4,3.17,3.16,2.28
+Brazil,Serie A,2016,14/10/16,Gremio,Atletico-PR,1,0,H,1.56,3.89,7.88,1.64,3.89,8,1.54,3.66,6.87
+Brazil,Serie A,2016,14/10/16,Sao Paulo,Santos,0,1,A,2.54,3.19,3.15,2.66,3.27,3.34,2.46,3.09,2.93
+Brazil,Serie A,2016,16/10/16,Atletico-PR,Coritiba,2,0,H,3.12,3.08,2.63,3.12,3.08,2.88,2.88,2.91,2.63
+Brazil,Serie A,2016,16/10/16,Botafogo RJ,Atletico-MG,3,2,H,2.59,3.26,3.01,2.76,3.32,3.01,2.57,3.15,2.75
+Brazil,Serie A,2016,16/10/16,Cruzeiro,Chapecoense-SC,0,0,D,1.46,4.34,9.23,1.5,4.46,9.23,1.45,4.09,7.42
+Brazil,Serie A,2016,16/10/16,Figueirense,Palmeiras,1,2,A,5.02,3.68,1.81,5.35,3.75,1.83,4.65,3.46,1.77
+Brazil,Serie A,2016,16/10/16,Internacional,Flamengo RJ,2,1,H,2.63,3.19,3.01,2.78,3.27,3.01,2.57,3.06,2.81
+Brazil,Serie A,2016,16/10/16,Corinthians,America MG,2,0,H,1.36,5.13,10.46,1.36,5.3,11.39,1.33,4.82,8.85
+Brazil,Serie A,2016,16/10/16,Ponte Preta,Santa Cruz,3,0,H,1.6,4.17,6.27,1.63,4.17,6.3,1.58,3.84,5.59
+Brazil,Serie A,2016,16/10/16,Santos,Gremio,1,1,D,1.62,4,6.33,1.88,4.06,6.6,1.61,3.71,5.5
+Brazil,Serie A,2016,16/10/16,Sport Recife,Vitoria,1,0,H,1.83,3.76,4.73,1.9,3.87,4.73,1.81,3.55,4.16
+Brazil,Serie A,2016,17/10/16,Fluminense,Sao Paulo,1,2,A,1.99,3.43,4.34,2,3.44,4.55,1.93,3.31,3.98
+Brazil,Serie A,2016,20/10/16,Santa Cruz,Botafogo RJ,0,1,A,2.9,3.29,2.64,3.05,3.37,2.68,2.76,3.2,2.52
+Brazil,Serie A,2016,22/10/16,Sao Paulo,Ponte Preta,2,0,H,1.93,3.46,4.57,2,3.6,4.66,1.9,3.34,4.09
+Brazil,Serie A,2016,23/10/16,Flamengo RJ,Corinthians,2,2,D,1.67,3.93,5.86,1.71,3.98,6,1.64,3.67,5.29
+Brazil,Serie A,2016,23/10/16,Gremio,Internacional,0,0,D,2.18,3.23,3.89,2.25,3.25,3.97,2.14,3.07,3.6
+Brazil,Serie A,2016,23/10/16,Palmeiras,Sport Recife,2,1,H,1.37,5.12,10.13,1.4,5.2,10.4,1.36,4.72,8.32
+Brazil,Serie A,2016,23/10/16,Vitoria,Cruzeiro,0,1,A,2.66,3.26,2.88,2.8,3.37,2.94,2.58,3.16,2.71
+Brazil,Serie A,2016,23/10/16,Coritiba,Fluminense,1,1,D,2.22,3.33,3.66,2.31,3.4,3.66,2.21,3.18,3.29
+Brazil,Serie A,2016,23/10/16,Atletico-MG,Figueirense,3,0,H,1.31,5.61,12.02,1.31,5.95,14.36,1.27,5.2,10.91
+Brazil,Serie A,2016,23/10/16,Chapecoense-SC,Santos,0,1,A,2.81,3.37,2.69,3.07,3.37,2.76,2.74,3.16,2.57
+Brazil,Serie A,2016,24/10/16,America MG,Atletico-PR,1,0,H,2.7,3.09,3.02,2.86,3.22,3.02,2.6,2.96,2.87
+Brazil,Serie A,2016,27/10/16,Sport Recife,Ponte Preta,1,0,H,2.06,3.4,4.07,2.06,3.57,4.56,1.91,3.35,4.04
+Brazil,Serie A,2016,28/10/16,Fluminense,Vitoria,2,2,D,1.61,4.3,5.84,1.63,4.3,6.5,1.59,3.88,5.46
+Brazil,Serie A,2016,29/10/16,Atletico-MG,Flamengo RJ,2,2,D,2.3,3.65,3.15,2.33,3.65,3.28,2.23,3.36,3.09
+Brazil,Serie A,2016,29/10/16,Atletico-PR,Cruzeiro,1,0,H,2.19,3.26,3.83,2.23,3.26,4.05,2.13,3.07,3.63
+Brazil,Serie A,2016,29/10/16,Corinthians,Chapecoense-SC,1,1,D,1.58,4.17,6.62,1.59,4.17,7.14,1.53,3.86,6.46
+Brazil,Serie A,2016,29/10/16,Botafogo RJ,Coritiba,0,0,D,1.75,3.69,5.45,1.8,3.69,5.85,1.73,3.42,5
+Brazil,Serie A,2016,29/10/16,Internacional,Santa Cruz,1,1,D,1.37,5,10.4,1.37,5.1,12,1.33,4.66,9.56
+Brazil,Serie A,2016,29/10/16,Figueirense,Gremio,0,0,D,2.5,3.18,3.21,2.57,3.2,3.27,2.39,3.06,3.07
+Brazil,Serie A,2016,29/10/16,Santos,Palmeiras,1,0,H,2.34,3.43,3.26,2.38,3.43,3.3,2.3,3.25,3.05
+Brazil,Serie A,2016,31/10/16,America MG,Sao Paulo,1,0,H,4.43,3.37,1.99,4.56,3.42,2.05,3.94,3.25,1.97
+Brazil,Serie A,2016,05/11/16,Flamengo RJ,Botafogo RJ,0,0,D,1.67,3.9,5.92,1.73,4,5.92,1.67,3.65,5.13
+Brazil,Serie A,2016,05/11/16,Sao Paulo,Corinthians,4,0,H,2.11,3.25,4.1,2.24,3.32,4.1,2.09,3.18,3.62
+Brazil,Serie A,2016,06/11/16,Ponte Preta,Santos,1,2,A,2.46,3.26,3.2,2.48,3.32,3.24,2.34,3.2,3
+Brazil,Serie A,2016,06/11/16,Cruzeiro,Fluminense,4,2,H,1.87,3.52,4.87,1.96,3.65,4.96,1.81,3.41,4.45
+Brazil,Serie A,2016,06/11/16,Palmeiras,Internacional,1,0,H,1.61,3.97,6.57,1.66,3.97,6.9,1.59,3.66,5.98
+Brazil,Serie A,2016,06/11/16,Santa Cruz,America MG,1,0,H,1.83,3.72,4.8,1.94,3.72,4.86,1.8,3.49,4.38
+Brazil,Serie A,2016,06/11/16,Vitoria,Atletico-PR,3,2,H,1.81,3.53,5.23,1.94,3.62,5.23,1.79,3.39,4.63
+Brazil,Serie A,2016,06/11/16,Chapecoense-SC,Figueirense,1,0,H,1.86,3.55,4.84,1.93,3.55,5.05,1.81,3.34,4.58
+Brazil,Serie A,2016,06/11/16,Coritiba,Atletico-MG,2,0,H,2.52,3.37,3.01,2.69,3.42,3.02,2.45,3.19,2.87
+Brazil,Serie A,2016,07/11/16,Gremio,Sport Recife,0,3,A,1.88,3.48,4.88,1.88,3.65,5.9,1.77,3.41,4.75
+Brazil,Serie A,2016,15/11/16,Fluminense,Atletico-PR,1,1,D,1.69,3.65,6.28,1.7,3.77,6.74,1.62,3.55,5.79
+Brazil,Serie A,2016,16/11/16,Botafogo RJ,Chapecoense-SC,0,2,A,1.61,3.9,6.86,1.66,3.96,6.86,1.6,3.65,5.87
+Brazil,Serie A,2016,16/11/16,Coritiba,Santa Cruz,1,0,H,1.45,4.69,8.23,1.46,4.8,8.8,1.41,4.43,7.39
+Brazil,Serie A,2016,16/11/16,America MG,Flamengo RJ,0,1,A,7.63,4.44,1.5,8.1,4.56,1.55,6.78,4.12,1.47
+Brazil,Serie A,2016,16/11/16,Figueirense,Corinthians,1,1,D,2.91,3.3,2.61,3.02,3.32,2.66,2.85,3.14,2.5
+Brazil,Serie A,2016,16/11/16,Sport Recife,Cruzeiro,0,1,A,2.24,3.19,3.77,2.27,3.27,3.82,2.17,3.13,3.45
+Brazil,Serie A,2016,17/11/16,Santos,Vitoria,3,2,H,1.43,4.91,8.09,1.44,5.1,8.52,1.4,4.59,7.12
+Brazil,Serie A,2016,17/11/16,Sao Paulo,Gremio,1,1,D,2.04,3.28,4.34,2.04,3.4,4.66,1.94,3.18,4.16
+Brazil,Serie A,2016,17/11/16,Atletico-MG,Palmeiras,1,1,D,2.31,3.47,3.3,2.34,3.47,3.45,2.2,3.3,3.2
+Brazil,Serie A,2016,17/11/16,Internacional,Ponte Preta,1,1,D,1.56,4.04,7.25,1.58,4.08,7.7,1.52,3.77,6.65
+Brazil,Serie A,2016,20/11/16,Atletico-PR,Sport Recife,2,0,H,1.83,3.67,4.86,1.93,3.67,5.05,1.81,3.4,4.49
+Brazil,Serie A,2016,20/11/16,Cruzeiro,Santos,2,2,D,2.19,3.61,3.44,2.25,3.62,3.55,2.14,3.34,3.29
+Brazil,Serie A,2016,20/11/16,Gremio,America MG,3,0,H,1.53,4.27,7.24,1.57,4.34,7.53,1.51,3.99,6.38
+Brazil,Serie A,2016,20/11/16,Palmeiras,Botafogo RJ,1,0,H,1.53,4.28,7.28,1.56,4.28,7.5,1.52,3.91,6.48
+Brazil,Serie A,2016,20/11/16,Ponte Preta,Fluminense,1,0,H,2.31,3.42,3.34,2.35,3.42,3.45,2.24,3.23,3.19
+Brazil,Serie A,2016,20/11/16,Vitoria,Figueirense,4,0,H,1.56,4.37,6.39,1.63,4.37,6.5,1.56,3.96,5.74
+Brazil,Serie A,2016,20/11/16,Chapecoense-SC,Sao Paulo,2,0,H,2.69,3.21,2.93,2.76,3.22,3,2.62,3.05,2.77
+Brazil,Serie A,2016,20/11/16,Flamengo RJ,Coritiba,2,2,D,1.4,4.83,9.52,1.45,4.86,9.91,1.39,4.41,8.01
+Brazil,Serie A,2016,20/11/16,Santa Cruz,Atletico-MG,3,3,D,2.33,3.85,2.97,2.4,3.85,3.2,2.28,3.48,2.9
+Brazil,Serie A,2016,21/11/16,Corinthians,Internacional,1,0,H,2,3.4,4.31,2.3,3.4,4.31,2.08,3.15,3.68
+Brazil,Serie A,2016,26/11/16,America MG,Sport Recife,2,2,D,3.57,3.38,2.23,3.62,3.42,2.36,3.33,3.23,2.18
+Brazil,Serie A,2016,26/11/16,Botafogo RJ,Ponte Preta,1,1,D,1.75,3.68,5.47,1.78,3.75,5.65,1.71,3.51,5.02
+Brazil,Serie A,2016,26/11/16,Corinthians,Atletico-PR,0,0,D,1.78,3.6,5.37,1.79,3.65,6.5,1.71,3.45,5.11
+Brazil,Serie A,2016,27/11/16,Atletico-MG,Sao Paulo,1,2,A,2.81,3.5,2.61,2.94,3.52,2.66,2.73,3.28,2.5
+Brazil,Serie A,2016,27/11/16,Flamengo RJ,Santos,2,0,H,1.88,3.76,4.43,1.95,3.77,4.75,1.84,3.48,4.13
+Brazil,Serie A,2016,27/11/16,Internacional,Cruzeiro,1,0,H,1.69,3.83,5.73,1.74,3.95,6.3,1.67,3.58,5.22
+Brazil,Serie A,2016,27/11/16,Palmeiras,Chapecoense-SC,1,0,H,1.46,4.49,8.66,1.46,4.56,9.31,1.43,4.22,7.58
+Brazil,Serie A,2016,27/11/16,Figueirense,Fluminense,1,0,H,2.95,3.26,2.63,3.2,3.26,2.68,2.94,3.14,2.42
+Brazil,Serie A,2016,27/11/16,Santa Cruz,Gremio,5,1,H,2.46,3.6,2.93,2.5,3.65,3.12,2.34,3.31,2.93
+Brazil,Serie A,2016,28/11/16,Coritiba,Vitoria,0,1,A,2.37,3.3,3.34,2.38,3.52,3.4,2.26,3.26,3.12
+Brazil,Serie A,2016,11/12/16,Atletico-PR,Flamengo RJ,0,0,D,2.18,3.48,3.59,2.2,3.57,3.72,2.13,3.29,3.34
+Brazil,Serie A,2016,11/12/16,Chapecoense-SC,Atletico-MG,,,,,,,2.85,3.3,2.68,2.85,3.3,2.67
+Brazil,Serie A,2016,11/12/16,Cruzeiro,Corinthians,3,2,H,2.51,3.41,2.99,2.52,3.47,3.07,2.39,3.28,2.87
+Brazil,Serie A,2016,11/12/16,Fluminense,Internacional,1,1,D,4.06,3.87,1.92,4.2,3.87,1.97,3.9,3.47,1.9
+Brazil,Serie A,2016,11/12/16,Gremio,Botafogo RJ,0,1,A,3.92,3.41,2.08,3.92,3.52,2.16,3.52,3.3,2.05
+Brazil,Serie A,2016,11/12/16,Ponte Preta,Coritiba,2,0,H,1.65,4.1,5.76,1.76,4.1,5.76,1.63,3.78,5.22
+Brazil,Serie A,2016,11/12/16,Santos,America MG,1,0,H,1.21,7.39,16.2,1.21,7.39,19.31,1.19,6.42,14.32
+Brazil,Serie A,2016,11/12/16,Sao Paulo,Santa Cruz,5,0,H,1.27,6.7,11,1.33,6.7,12,1.26,5.77,10.12
+Brazil,Serie A,2016,11/12/16,Sport Recife,Figueirense,2,0,H,1.24,6.36,15.86,1.3,6.36,15.86,1.24,5.55,11.75
+Brazil,Serie A,2016,11/12/16,Vitoria,Palmeiras,1,2,A,1.92,3.65,4.33,1.95,3.65,4.47,1.88,3.46,4
+Brazil,Serie A,2017,13/05/17,Flamengo RJ,Atletico-MG,1,1,D,1.91,3.7,4.34,1.95,3.7,4.75,1.87,3.49,4.04
+Brazil,Serie A,2017,13/05/17,Corinthians,Chapecoense-SC,1,1,D,1.37,4.85,10.91,1.37,5,12.4,1.34,4.55,9.79
+Brazil,Serie A,2017,14/05/17,Fluminense,Santos,3,2,H,2.01,3.75,3.83,2.01,3.75,4.33,1.92,3.43,3.9
+Brazil,Serie A,2017,14/05/17,Avai,Vitoria,0,0,D,2.39,3.31,3.29,2.45,3.31,3.4,2.32,3.11,3.15
+Brazil,Serie A,2017,14/05/17,Bahia,Atletico-PR,6,2,H,1.73,3.61,5.91,1.79,3.61,6,1.72,3.37,5.25
+Brazil,Serie A,2017,14/05/17,Cruzeiro,Sao Paulo,1,0,H,2.04,3.29,4.32,2.05,3.34,4.5,1.99,3.19,3.95
+Brazil,Serie A,2017,14/05/17,Palmeiras,Vasco,4,0,H,1.42,4.96,8.52,1.44,4.96,9.4,1.4,4.41,7.88
+Brazil,Serie A,2017,14/05/17,Ponte Preta,Sport Recife,4,0,H,1.63,4.02,6.24,1.75,4.02,6.5,1.61,3.69,5.65
+Brazil,Serie A,2017,14/05/17,Gremio,Botafogo RJ,2,0,H,1.72,3.69,5.77,1.75,3.94,6.3,1.69,3.48,5.27
+Brazil,Serie A,2017,16/05/17,Coritiba,Atletico GO,4,1,H,1.63,3.79,6.75,1.69,3.79,6.75,1.6,3.6,5.99
+Brazil,Serie A,2017,20/05/17,Santos,Coritiba,1,0,H,1.6,4.14,6.3,1.67,4.3,6.8,1.58,3.88,5.56
+Brazil,Serie A,2017,20/05/17,Atletico GO,Flamengo RJ,0,3,A,4.42,3.52,1.94,4.6,3.52,2,4.02,3.32,1.92
+Brazil,Serie A,2017,20/05/17,Chapecoense-SC,Palmeiras,1,0,H,3.18,3.42,2.39,3.4,3.42,2.43,3.03,3.19,2.34
+Brazil,Serie A,2017,21/05/17,Vasco,Bahia,2,1,H,1.88,3.65,4.58,1.89,3.72,4.84,1.82,3.46,4.31
+Brazil,Serie A,2017,21/05/17,Atletico-MG,Fluminense,1,2,A,1.68,4.22,5.21,1.7,4.22,5.7,1.64,3.92,4.91
+Brazil,Serie A,2017,21/05/17,Atletico-PR,Gremio,0,2,A,2.63,3.13,3.07,2.7,3.15,3.07,2.53,3.02,2.89
+Brazil,Serie A,2017,21/05/17,Vitoria,Corinthians,0,1,A,3.25,3.36,2.38,3.32,3.36,2.5,3.13,3.12,2.32
+Brazil,Serie A,2017,21/05/17,Botafogo RJ,Ponte Preta,2,0,H,2.14,3.34,3.88,2.14,3.38,4,2.06,3.22,3.63
+Brazil,Serie A,2017,21/05/17,Sport Recife,Cruzeiro,1,1,D,2.73,3.21,2.88,3,3.25,2.9,2.61,3.13,2.72
+Brazil,Serie A,2017,23/05/17,Sao Paulo,Avai,2,0,H,1.33,5.3,11.75,1.36,5.6,13,1.32,4.82,9.71
+Brazil,Serie A,2017,27/05/17,Vasco,Fluminense,3,2,H,2.74,3.47,2.69,2.81,3.47,2.78,2.63,3.23,2.62
+Brazil,Serie A,2017,27/05/17,Sao Paulo,Palmeiras,2,0,H,2.57,3.28,3.01,2.63,3.28,3.1,2.47,3.11,2.9
+Brazil,Serie A,2017,28/05/17,Vitoria,Coritiba,0,1,A,2.23,3.32,3.63,2.23,3.35,3.8,2.14,3.19,3.46
+Brazil,Serie A,2017,28/05/17,Atletico-MG,Ponte Preta,2,2,D,1.55,4.17,7.15,1.57,4.3,7.5,1.51,4.1,6.09
+Brazil,Serie A,2017,28/05/17,Atletico GO,Corinthians,0,1,A,4.28,3.4,2.01,4.7,3.4,2.05,4.06,3.23,1.94
+Brazil,Serie A,2017,28/05/17,Atletico-PR,Flamengo RJ,1,1,D,2.99,3.32,2.53,3.2,3.35,2.66,2.87,3.13,2.48
+Brazil,Serie A,2017,28/05/17,Santos,Cruzeiro,0,1,A,1.96,3.58,4.25,2.03,3.58,4.25,1.97,3.31,3.86
+Brazil,Serie A,2017,28/05/17,Sport Recife,Gremio,4,3,H,1.94,3.41,4.62,1.98,3.5,4.62,1.89,3.29,4.23
+Brazil,Serie A,2017,28/05/17,Botafogo RJ,Bahia,1,0,H,2.06,3.33,4.04,2.11,3.56,4.68,1.99,3.27,3.86
+Brazil,Serie A,2017,30/05/17,Chapecoense-SC,Avai,2,0,H,1.6,3.85,7.16,1.62,3.85,7.25,1.58,3.62,6.19
+Brazil,Serie A,2017,03/06/17,Coritiba,Atletico-PR,1,0,H,1.93,3.36,4.8,1.94,3.58,5.1,1.86,3.27,4.4
+Brazil,Serie A,2017,03/06/17,Fluminense,Vitoria,2,1,H,1.58,4.22,6.46,1.58,4.45,6.8,1.53,4.05,5.92
+Brazil,Serie A,2017,03/06/17,Corinthians,Santos,2,0,H,1.75,3.7,5.51,1.86,3.7,5.54,1.74,3.45,4.9
+Brazil,Serie A,2017,04/06/17,Avai,Sport Recife,1,0,H,2.47,3.22,3.22,2.5,3.28,3.25,2.4,3.08,3.04
+Brazil,Serie A,2017,04/06/17,Flamengo RJ,Botafogo RJ,0,0,D,1.65,3.81,6.45,1.74,3.81,6.45,1.65,3.62,5.37
+Brazil,Serie A,2017,04/06/17,Gremio,Vasco,2,0,H,1.4,4.83,9.55,1.48,4.83,10,1.39,4.4,8.36
+Brazil,Serie A,2017,04/06/17,Palmeiras,Atletico-MG,0,0,D,1.76,3.83,5.14,1.79,3.94,5.14,1.73,3.69,4.53
+Brazil,Serie A,2017,04/06/17,Ponte Preta,Sao Paulo,1,0,H,2.45,3.29,3.19,2.56,3.29,3.19,2.44,3.12,2.94
+Brazil,Serie A,2017,04/06/17,Cruzeiro,Chapecoense-SC,0,2,A,1.56,3.95,7.79,1.6,3.95,7.79,1.53,3.73,6.59
+Brazil,Serie A,2017,06/06/17,Bahia,Atletico GO,3,0,H,1.48,4.69,7.37,1.49,4.8,7.95,1.45,4.27,6.92
+Brazil,Serie A,2017,07/06/17,Fluminense,Atletico-PR,1,1,D,1.71,3.88,5.46,1.72,3.96,6,1.63,3.67,5.43
+Brazil,Serie A,2017,07/06/17,Atletico-MG,Avai,1,0,H,1.32,5.54,11.57,1.35,5.54,12,1.31,5.03,9.66
+Brazil,Serie A,2017,07/06/17,Coritiba,Palmeiras,1,0,H,2.56,3.2,3.1,2.57,3.26,3.13,2.44,3.09,2.95
+Brazil,Serie A,2017,08/06/17,Santos,Botafogo RJ,1,0,H,1.75,3.85,5.18,1.76,3.86,5.6,1.7,3.57,4.91
+Brazil,Serie A,2017,08/06/17,Sport Recife,Flamengo RJ,2,0,H,3.23,3.33,2.4,3.3,3.34,2.54,3.05,3.15,2.35
+Brazil,Serie A,2017,08/06/17,Vasco,Corinthians,2,5,A,2.6,3.31,2.96,2.67,3.35,3.05,2.51,3.11,2.84
+Brazil,Serie A,2017,08/06/17,Atletico GO,Ponte Preta,3,0,H,3.19,3.45,2.37,3.21,3.45,2.45,3.02,3.22,2.33
+Brazil,Serie A,2017,08/06/17,Sao Paulo,Vitoria,2,0,H,1.43,4.58,9.44,1.44,4.6,9.44,1.4,4.33,8.02
+Brazil,Serie A,2017,09/06/17,Chapecoense-SC,Gremio,3,6,A,2.57,3.22,3.07,2.6,3.24,3.07,2.5,3.07,2.89
+Brazil,Serie A,2017,09/06/17,Bahia,Cruzeiro,1,0,H,2.37,3.27,3.36,2.48,3.34,3.36,2.31,3.12,3.14
+Brazil,Serie A,2017,10/06/17,Palmeiras,Fluminense,3,1,H,1.54,4.21,7.19,1.65,4.23,7.5,1.55,3.81,6.11
+Brazil,Serie A,2017,10/06/17,Vasco,Sport Recife,2,1,H,1.77,3.8,5.06,1.83,3.89,5.3,1.75,3.61,4.54
+Brazil,Serie A,2017,11/06/17,Botafogo RJ,Coritiba,2,2,D,2.08,3.26,4.22,2.1,3.34,4.33,2.01,3.15,3.91
+Brazil,Serie A,2017,11/06/17,Avai,Flamengo RJ,1,1,D,3.75,3.33,2.18,3.86,3.4,2.2,3.52,3.2,2.1
+Brazil,Serie A,2017,11/06/17,Corinthians,Sao Paulo,3,2,H,2,3.27,4.55,2.02,3.36,4.79,1.95,3.18,4.15
+Brazil,Serie A,2017,11/06/17,Ponte Preta,Chapecoense-SC,3,2,H,1.88,3.51,4.81,1.93,3.58,4.81,1.85,3.36,4.33
+Brazil,Serie A,2017,11/06/17,Vitoria,Atletico-MG,2,0,H,2.61,3.45,2.84,2.82,3.45,2.84,2.59,3.28,2.64
+Brazil,Serie A,2017,11/06/17,Cruzeiro,Atletico GO,2,0,H,1.38,4.87,10.23,1.4,5.02,10.5,1.36,4.68,8.48
+Brazil,Serie A,2017,11/06/17,Atletico-PR,Santos,0,2,A,2.12,3.31,3.97,2.15,3.35,4.2,2.04,3.18,3.77
+Brazil,Serie A,2017,13/06/17,Gremio,Bahia,1,0,H,1.53,4.15,7.76,1.57,4.15,7.84,1.53,3.89,6.45
+Brazil,Serie A,2017,14/06/17,Atletico GO,Avai,3,1,H,1.97,3.38,4.52,1.99,3.42,4.52,1.92,3.26,4.12
+Brazil,Serie A,2017,14/06/17,Atletico-MG,Atletico-PR,0,1,A,1.6,4.11,6.36,1.62,4.11,6.8,1.57,3.85,5.82
+Brazil,Serie A,2017,14/06/17,Sport Recife,Sao Paulo,0,0,D,2.47,3.35,3.11,2.5,3.35,3.14,2.38,3.19,2.96
+Brazil,Serie A,2017,14/06/17,Vitoria,Botafogo RJ,2,2,D,2.33,3.29,3.42,2.33,3.29,3.56,2.25,3.11,3.31
+Brazil,Serie A,2017,15/06/17,Flamengo RJ,Ponte Preta,2,0,H,1.56,4.2,6.95,1.59,4.23,6.95,1.55,3.92,5.96
+Brazil,Serie A,2017,15/06/17,Chapecoense-SC,Vasco,2,1,H,1.76,3.71,5.31,1.78,3.86,5.4,1.74,3.51,4.75
+Brazil,Serie A,2017,15/06/17,Corinthians,Cruzeiro,1,0,H,1.91,3.48,4.68,1.95,3.56,5.1,1.82,3.33,4.59
+Brazil,Serie A,2017,15/06/17,Santos,Palmeiras,1,0,H,2.25,3.44,3.44,2.38,3.54,3.6,2.23,3.23,3.2
+Brazil,Serie A,2017,15/06/17,Coritiba,Bahia,0,0,D,1.92,3.45,4.67,1.96,3.54,5.2,1.83,3.31,4.56
+Brazil,Serie A,2017,16/06/17,Fluminense,Gremio,0,2,A,2.54,3.31,3.03,2.66,3.31,3.11,2.45,3.15,2.89
+Brazil,Serie A,2017,17/06/17,Atletico GO,Atletico-PR,0,1,A,2.32,3.32,3.42,2.5,3.32,3.42,2.28,3.15,3.17
+Brazil,Serie A,2017,17/06/17,Vasco,Avai,1,0,H,1.46,4.4,8.77,1.5,4.4,8.77,1.46,4.08,7.16
+Brazil,Serie A,2017,18/06/17,Santos,Ponte Preta,0,0,D,1.76,3.64,5.47,1.77,3.72,6.32,1.68,3.53,5.29
+Brazil,Serie A,2017,18/06/17,Coritiba,Corinthians,0,0,D,2.81,3.13,2.86,2.89,3.14,2.86,2.71,2.99,2.73
+Brazil,Serie A,2017,18/06/17,Bahia,Palmeiras,2,4,A,2.47,3.27,3.17,2.5,3.34,3.3,2.38,3.08,3.07
+Brazil,Serie A,2017,18/06/17,Chapecoense-SC,Botafogo RJ,0,2,A,1.85,3.54,4.91,1.88,3.6,5.2,1.81,3.39,4.49
+Brazil,Serie A,2017,18/06/17,Fluminense,Flamengo RJ,2,2,D,3.87,3.5,2.08,3.89,3.5,2.15,3.53,3.3,2.08
+Brazil,Serie A,2017,18/06/17,Sao Paulo,Atletico-MG,1,2,A,1.68,3.99,5.55,1.73,3.99,5.55,1.67,3.73,5.01
+Brazil,Serie A,2017,18/06/17,Sport Recife,Vitoria,1,3,A,1.69,3.78,5.89,1.73,3.92,5.9,1.68,3.6,5.13
+Brazil,Serie A,2017,20/06/17,Cruzeiro,Gremio,3,3,D,2.54,3.26,3.08,2.54,3.26,3.6,2.24,3.12,3.27
+Brazil,Serie A,2017,21/06/17,Vitoria,Santos,0,2,A,2.44,3.31,3.2,2.54,3.32,3.25,2.4,3.14,2.99
+Brazil,Serie A,2017,22/06/17,Botafogo RJ,Vasco,3,1,H,2.08,3.45,3.93,2.12,3.54,4.1,2.03,3.32,3.63
+Brazil,Serie A,2017,22/06/17,Palmeiras,Atletico GO,1,0,H,1.25,6.21,15.6,1.28,6.3,15.6,1.24,5.56,11.9
+Brazil,Serie A,2017,22/06/17,Atletico-MG,Sport Recife,2,2,D,1.46,4.7,7.75,1.49,4.8,7.8,1.44,4.35,6.88
+Brazil,Serie A,2017,22/06/17,Atletico-PR,Sao Paulo,1,0,H,2.58,3.11,3.17,2.63,3.24,3.25,2.44,3.02,3.04
+Brazil,Serie A,2017,22/06/17,Avai,Fluminense,0,3,A,3.17,3.24,2.5,3.17,3.26,2.6,2.9,3.12,2.46
+Brazil,Serie A,2017,22/06/17,Corinthians,Bahia,3,0,H,1.53,4.15,7.53,1.53,4.3,8.5,1.49,3.92,6.99
+Brazil,Serie A,2017,22/06/17,Ponte Preta,Cruzeiro,1,0,H,2.19,3.33,3.72,2.3,3.34,3.72,2.17,3.19,3.35
+Brazil,Serie A,2017,23/06/17,Flamengo RJ,Chapecoense-SC,5,1,H,1.5,4.42,7.69,1.53,4.42,7.69,1.48,4.13,6.73
+Brazil,Serie A,2017,23/06/17,Gremio,Coritiba,2,0,H,1.55,4.18,7.06,1.57,4.22,7.66,1.53,3.88,6.29
+Brazil,Serie A,2017,24/06/17,Santos,Sport Recife,0,1,A,1.44,4.55,8.98,1.49,4.7,8.98,1.45,4.16,7.28
+Brazil,Serie A,2017,25/06/17,Vasco,Atletico GO,1,0,H,1.56,4.2,6.95,1.57,4.3,7.2,1.54,3.94,6.1
+Brazil,Serie A,2017,25/06/17,Atletico-PR,Vitoria,4,1,H,1.85,3.59,4.85,1.86,3.64,5.35,1.78,3.43,4.65
+Brazil,Serie A,2017,25/06/17,Cruzeiro,Coritiba,2,0,H,1.59,3.99,6.85,1.59,4,7.27,1.56,3.71,6.32
+Brazil,Serie A,2017,25/06/17,Gremio,Corinthians,0,1,A,1.88,3.44,4.93,1.88,3.58,4.93,1.84,3.38,4.37
+Brazil,Serie A,2017,25/06/17,Ponte Preta,Palmeiras,1,2,A,2.81,3.36,2.7,2.95,3.36,2.7,2.74,3.15,2.58
+Brazil,Serie A,2017,25/06/17,Sao Paulo,Fluminense,1,1,D,1.71,3.95,5.3,1.75,4.05,5.4,1.68,3.74,4.85
+Brazil,Serie A,2017,25/06/17,Bahia,Flamengo RJ,0,1,A,2.74,3.41,2.73,2.77,3.48,2.75,2.6,3.28,2.62
+Brazil,Serie A,2017,25/06/17,Chapecoense-SC,Atletico-MG,0,1,A,1.74,3.92,5.16,1.77,3.98,5.16,1.72,3.7,4.61
+Brazil,Serie A,2017,27/06/17,Botafogo RJ,Avai,0,2,A,1.43,4.38,10.2,1.46,4.49,11.5,1.42,4.12,8.31
+Brazil,Serie A,2017,01/07/17,Palmeiras,Gremio,1,0,H,1.92,3.47,4.66,2.05,3.76,4.66,1.9,3.38,4.1
+Brazil,Serie A,2017,01/07/17,Atletico GO,Santos,1,1,D,2.72,3.29,2.83,2.8,3.4,2.88,2.63,3.14,2.7
+Brazil,Serie A,2017,02/07/17,Atletico-MG,Cruzeiro,3,1,H,2.49,3.41,3.03,2.52,3.41,3.2,2.38,3.2,2.98
+Brazil,Serie A,2017,02/07/17,Corinthians,Botafogo RJ,1,0,H,1.55,4.16,7.19,1.59,4.2,7.4,1.53,3.9,6.28
+Brazil,Serie A,2017,02/07/17,Flamengo RJ,Sao Paulo,2,0,H,1.61,4.08,6.28,1.66,4.1,6.28,1.59,3.81,5.7
+Brazil,Serie A,2017,02/07/17,Sport Recife,Atletico-PR,1,0,H,1.67,3.78,6.19,1.7,3.84,6.19,1.64,3.62,5.49
+Brazil,Serie A,2017,02/07/17,Vitoria,Bahia,0,0,D,2.57,3.3,3,2.67,3.3,3.16,2.47,3.1,2.92
+Brazil,Serie A,2017,02/07/17,Avai,Ponte Preta,0,0,D,2.93,3.01,2.84,2.99,3.05,2.87,2.81,2.91,2.7
+Brazil,Serie A,2017,02/07/17,Coritiba,Vasco,2,2,D,1.93,3.45,4.52,1.96,3.45,4.75,1.88,3.31,4.23
+Brazil,Serie A,2017,04/07/17,Fluminense,Chapecoense-SC,3,3,D,1.74,3.74,5.5,1.75,4,5.7,1.7,3.65,4.9
+Brazil,Serie A,2017,08/07/17,Atletico GO,Vitoria,1,2,A,2.17,3.3,3.84,2.33,3.35,3.88,2.15,3.18,3.45
+Brazil,Serie A,2017,08/07/17,Vasco,Flamengo RJ,0,1,A,3.99,3.53,2.04,3.99,3.53,2.15,3.64,3.33,2.01
+Brazil,Serie A,2017,08/07/17,Corinthians,Ponte Preta,2,0,H,1.72,3.68,5.74,1.72,3.98,6.56,1.66,3.52,5.51
+Brazil,Serie A,2017,09/07/17,Chapecoense-SC,Atletico-PR,1,1,D,1.88,3.56,4.76,1.88,3.56,4.99,1.82,3.36,4.53
+Brazil,Serie A,2017,09/07/17,Bahia,Fluminense,1,1,D,2.22,3.6,3.37,2.28,3.6,3.56,2.12,3.39,3.31
+Brazil,Serie A,2017,09/07/17,Cruzeiro,Palmeiras,3,1,H,2.14,3.21,4.06,2.2,3.3,4.06,2.08,3.22,3.61
+Brazil,Serie A,2017,09/07/17,Gremio,Avai,0,2,A,1.21,6.99,18.91,1.26,6.99,18.91,1.22,5.77,13.25
+Brazil,Serie A,2017,09/07/17,Botafogo RJ,Atletico-MG,1,1,D,2.03,3.47,4.07,2.2,3.66,4.07,2.02,3.3,3.69
+Brazil,Serie A,2017,09/07/17,Santos,Sao Paulo,3,2,H,2.32,3.39,3.33,2.34,3.4,3.7,2.21,3.2,3.3
+Brazil,Serie A,2017,11/07/17,Coritiba,Sport Recife,0,3,A,1.78,3.57,5.52,1.86,3.57,5.52,1.77,3.38,4.83
+Brazil,Serie A,2017,12/07/17,Atletico-MG,Santos,0,1,A,1.63,4.03,6.16,1.68,4.03,6.16,1.61,3.76,5.53
+Brazil,Serie A,2017,12/07/17,Ponte Preta,Bahia,0,3,A,1.91,3.44,4.73,1.95,3.56,4.9,1.87,3.31,4.29
+Brazil,Serie A,2017,13/07/17,Fluminense,Botafogo RJ,0,1,A,2.1,3.34,4.03,2.27,3.38,4.03,2.07,3.23,3.61
+Brazil,Serie A,2017,13/07/17,Atletico-PR,Cruzeiro,0,2,A,2.73,3.33,2.79,2.79,3.35,2.95,2.62,3.1,2.74
+Brazil,Serie A,2017,13/07/17,Palmeiras,Corinthians,0,2,A,2.24,3.4,3.52,2.24,3.4,3.7,2.13,3.23,3.43
+Brazil,Serie A,2017,13/07/17,Vitoria,Vasco,1,4,A,1.89,3.73,4.38,1.98,3.73,4.6,1.85,3.5,4.1
+Brazil,Serie A,2017,13/07/17,Flamengo RJ,Gremio,0,1,A,1.88,3.65,4.57,1.92,3.65,4.61,1.83,3.44,4.3
+Brazil,Serie A,2017,13/07/17,Sao Paulo,Atletico GO,2,2,D,1.39,5,9.24,1.39,5.14,10.02,1.36,4.65,8.56
+Brazil,Serie A,2017,13/07/17,Sport Recife,Chapecoense-SC,3,0,H,1.96,3.64,4.15,1.99,3.72,4.32,1.91,3.48,3.85
+Brazil,Serie A,2017,14/07/17,Avai,Coritiba,1,4,A,2.73,3.17,2.91,2.76,3.2,2.95,2.61,3,2.81
+Brazil,Serie A,2017,15/07/17,Corinthians,Atletico-PR,2,2,D,1.5,4.32,8,1.5,4.45,9.36,1.45,4.1,7.43
+Brazil,Serie A,2017,16/07/17,Palmeiras,Vitoria,4,2,H,1.28,5.95,13.3,1.31,6.16,13.35,1.26,5.46,10.8
+Brazil,Serie A,2017,16/07/17,Atletico GO,Atletico-MG,1,2,A,3.35,3.55,2.25,3.48,3.58,2.31,3.19,3.31,2.2
+Brazil,Serie A,2017,16/07/17,Chapecoense-SC,Sao Paulo,2,0,H,2.74,3.34,2.78,2.88,3.35,2.78,2.68,3.2,2.6
+Brazil,Serie A,2017,16/07/17,Cruzeiro,Flamengo RJ,1,1,D,2.44,3.33,3.18,2.57,3.35,3.18,2.38,3.23,2.94
+Brazil,Serie A,2017,16/07/17,Gremio,Ponte Preta,3,1,H,1.53,4.24,7.34,1.54,4.4,8.22,1.5,3.93,6.77
+Brazil,Serie A,2017,16/07/17,Vasco,Santos,0,0,D,2.51,3.39,3.01,2.66,3.4,3.01,2.46,3.24,2.83
+Brazil,Serie A,2017,16/07/17,Bahia,Avai,1,1,D,1.5,4.19,8.5,1.53,4.2,8.5,1.46,4.01,7.48
+Brazil,Serie A,2017,16/07/17,Coritiba,Fluminense,1,2,A,2.06,3.51,3.93,2.2,3.51,3.93,2.04,3.36,3.54
+Brazil,Serie A,2017,18/07/17,Botafogo RJ,Sport Recife,2,1,H,2.01,3.45,4.23,2.13,3.66,4.51,1.92,3.33,4.01
+Brazil,Serie A,2017,19/07/17,Santos,Chapecoense-SC,1,0,H,1.72,3.84,5.44,1.75,3.9,5.5,1.69,3.67,4.91
+Brazil,Serie A,2017,19/07/17,Vitoria,Gremio,1,3,A,3.14,3.38,2.43,3.3,3.44,2.43,3.09,3.25,2.28
+Brazil,Serie A,2017,20/07/17,Avai,Corinthians,0,0,D,4.35,3.34,2.02,4.5,3.35,2.07,3.97,3.19,1.98
+Brazil,Serie A,2017,20/07/17,Ponte Preta,Coritiba,4,0,H,1.96,3.41,4.52,1.99,3.44,4.66,1.9,3.28,4.21
+Brazil,Serie A,2017,20/07/17,Atletico-MG,Bahia,0,2,A,1.79,3.63,5.18,1.79,3.8,5.46,1.72,3.57,4.79
+Brazil,Serie A,2017,20/07/17,Flamengo RJ,Palmeiras,2,2,D,1.8,3.78,4.86,1.82,3.78,5.2,1.76,3.52,4.59
+Brazil,Serie A,2017,20/07/17,Sao Paulo,Vasco,1,0,H,1.55,4.35,6.71,1.61,4.4,6.71,1.54,3.95,5.99
+Brazil,Serie A,2017,20/07/17,Fluminense,Cruzeiro,1,1,D,2.51,3.41,3,2.59,3.41,3.02,2.44,3.2,2.85
+Brazil,Serie A,2017,21/07/17,Sport Recife,Atletico GO,4,0,H,1.49,4.44,7.77,1.5,4.6,8.03,1.47,4.16,6.8
+Brazil,Serie A,2017,21/07/17,Atletico-PR,Botafogo RJ,0,0,D,2.29,3.2,3.62,2.31,3.22,3.7,2.21,3.08,3.42
+Brazil,Serie A,2017,22/07/17,Vitoria,Chapecoense-SC,1,2,A,2.16,3.51,3.6,2.35,3.56,3.6,2.14,3.33,3.32
+Brazil,Serie A,2017,22/07/17,Flamengo RJ,Coritiba,2,1,H,1.4,4.86,9.31,1.41,4.93,9.55,1.38,4.55,8.1
+Brazil,Serie A,2017,23/07/17,Santos,Bahia,3,0,H,1.99,3.41,4.35,2.01,3.46,4.45,1.95,3.28,3.94
+Brazil,Serie A,2017,23/07/17,Avai,Cruzeiro,1,0,H,4.17,3.35,2.05,4.33,3.44,2.07,3.92,3.2,1.98
+Brazil,Serie A,2017,23/07/17,Fluminense,Corinthians,0,1,A,2.82,3.36,2.68,2.95,3.38,2.72,2.74,3.16,2.57
+Brazil,Serie A,2017,23/07/17,Sport Recife,Palmeiras,0,2,A,2.2,3.53,3.48,2.25,3.64,3.66,2.08,3.37,3.43
+Brazil,Serie A,2017,23/07/17,Atletico GO,Botafogo RJ,1,1,D,2.44,3.15,3.36,2.62,3.18,3.36,2.39,3.02,3.12
+Brazil,Serie A,2017,23/07/17,Atletico-MG,Vasco,1,2,A,1.74,3.83,5.35,1.85,3.98,5.35,1.75,3.61,4.52
+Brazil,Serie A,2017,23/07/17,Atletico-PR,Ponte Preta,0,2,A,2.29,3.26,3.55,2.32,3.28,3.8,2.18,3.09,3.43
+Brazil,Serie A,2017,25/07/17,Sao Paulo,Gremio,1,1,D,2.4,3.34,3.24,2.57,3.48,3.35,2.3,3.12,3.15
+Brazil,Serie A,2017,29/07/17,Botafogo RJ,Sao Paulo,3,4,A,2.56,3.32,3,2.56,3.38,3.2,2.41,3.12,2.97
+Brazil,Serie A,2017,29/07/17,Palmeiras,Avai,2,0,H,1.31,5.45,12.4,1.36,5.5,12.5,1.31,4.84,10.02
+Brazil,Serie A,2017,30/07/17,Chapecoense-SC,Atletico GO,1,2,A,1.55,4.27,6.83,1.58,4.33,7,1.53,4.03,6.01
+Brazil,Serie A,2017,30/07/17,Bahia,Sport Recife,1,3,A,1.63,3.93,6.31,1.7,3.93,6.31,1.62,3.67,5.5
+Brazil,Serie A,2017,30/07/17,Corinthians,Flamengo RJ,1,1,D,2.58,3.19,3.08,2.58,3.25,3.21,2.43,3.11,2.96
+Brazil,Serie A,2017,30/07/17,Coritiba,Atletico-MG,0,2,A,2.41,3.25,3.3,2.5,3.4,3.3,2.34,3.2,3.02
+Brazil,Serie A,2017,30/07/17,Cruzeiro,Vitoria,0,0,D,1.43,4.73,8.67,1.44,4.8,8.9,1.41,4.4,7.5
+Brazil,Serie A,2017,30/07/17,Gremio,Santos,1,1,D,1.7,3.64,6.09,1.72,3.75,6.5,1.65,3.56,5.48
+Brazil,Serie A,2017,01/08/17,Vasco,Atletico-PR,0,1,A,2.57,3.05,3.24,2.57,3.15,3.65,2.38,2.96,3.14
+Brazil,Serie A,2017,02/08/17,Chapecoense-SC,Bahia,1,1,D,1.94,3.49,4.5,2.1,3.54,4.5,1.95,3.3,3.94
+Brazil,Serie A,2017,02/08/17,Sport Recife,Fluminense,2,2,D,1.81,3.76,4.8,1.97,3.81,4.8,1.81,3.54,4.25
+Brazil,Serie A,2017,03/08/17,Atletico-MG,Corinthians,0,2,A,2.26,3.38,3.49,2.37,3.54,3.75,2.17,3.21,3.32
+Brazil,Serie A,2017,03/08/17,Vitoria,Ponte Preta,3,1,H,2.31,3.4,3.36,2.43,3.42,3.38,2.27,3.22,3.12
+Brazil,Serie A,2017,03/08/17,Atletico GO,Gremio,0,1,A,3.7,3.48,2.14,4.1,3.68,2.18,3.56,3.29,2.04
+Brazil,Serie A,2017,03/08/17,Botafogo RJ,Palmeiras,1,2,A,2.86,3.19,2.77,2.87,3.25,2.8,2.71,3.09,2.64
+Brazil,Serie A,2017,03/08/17,Santos,Flamengo RJ,3,2,H,3,3.27,2.59,3,3.45,2.84,2.72,3.23,2.53
+Brazil,Serie A,2017,03/08/17,Atletico-PR,Avai,5,0,H,1.71,3.56,6.24,1.78,3.72,6.24,1.69,3.39,5.42
+Brazil,Serie A,2017,03/08/17,Sao Paulo,Coritiba,1,2,A,1.41,4.74,9.69,1.45,4.75,10,1.4,4.3,8.17
+Brazil,Serie A,2017,04/08/17,Vasco,Cruzeiro,0,3,A,3.44,3.18,2.38,3.44,3.25,2.55,3.1,3.05,2.38
+Brazil,Serie A,2017,05/08/17,Corinthians,Sport Recife,3,1,H,1.51,4.25,7.98,1.53,4.25,7.98,1.5,3.96,6.67
+Brazil,Serie A,2017,05/08/17,Fluminense,Atletico GO,3,1,H,1.64,4.18,5.7,1.64,4.25,6.13,1.59,3.88,5.42
+Brazil,Serie A,2017,06/08/17,Flamengo RJ,Vitoria,0,2,A,1.3,5.72,12,1.33,5.89,12,1.3,5.2,9.45
+Brazil,Serie A,2017,06/08/17,Bahia,Sao Paulo,2,1,H,2.73,3.41,2.73,2.73,3.43,2.8,2.6,3.24,2.65
+Brazil,Serie A,2017,06/08/17,Coritiba,Chapecoense-SC,2,0,H,1.87,3.59,4.72,1.91,3.62,4.8,1.82,3.44,4.33
+Brazil,Serie A,2017,06/08/17,Cruzeiro,Botafogo RJ,0,0,D,1.49,4.28,8.37,1.52,4.28,9,1.46,3.97,7.37
+Brazil,Serie A,2017,06/08/17,Gremio,Atletico-MG,2,0,H,1.65,4.02,5.87,1.78,4.02,6,1.63,3.75,5.25
+Brazil,Serie A,2017,06/08/17,Palmeiras,Atletico-PR,0,1,A,1.65,3.89,6.25,1.66,3.89,6.5,1.6,3.65,5.81
+Brazil,Serie A,2017,06/08/17,Avai,Santos,0,0,D,3.43,3.33,2.31,3.85,3.45,2.31,3.34,3.16,2.19
+Brazil,Serie A,2017,06/08/17,Ponte Preta,Vasco,0,0,D,1.68,3.78,6.03,1.71,3.82,6.03,1.65,3.6,5.32
+Brazil,Serie A,2017,10/08/17,Ponte Preta,Fluminense,0,0,D,2.28,3.49,3.33,2.28,3.5,3.6,2.17,3.27,3.29
+Brazil,Serie A,2017,12/08/17,Atletico GO,Coritiba,1,0,H,2.36,3.26,3.39,2.6,3.29,3.39,2.33,3.11,3.12
+Brazil,Serie A,2017,12/08/17,Vitoria,Avai,0,1,A,1.65,4.03,5.88,1.69,4.05,6,1.62,3.72,5.45
+Brazil,Serie A,2017,13/08/17,Sao Paulo,Cruzeiro,3,2,H,1.98,3.34,4.52,1.98,3.45,4.55,1.89,3.3,4.21
+Brazil,Serie A,2017,13/08/17,Atletico-MG,Flamengo RJ,2,0,H,2.59,3.31,2.98,2.61,3.4,3,2.46,3.21,2.83
+Brazil,Serie A,2017,13/08/17,Sport Recife,Ponte Preta,0,0,D,1.68,3.91,5.72,1.73,3.92,5.75,1.67,3.6,5.19
+Brazil,Serie A,2017,13/08/17,Vasco,Palmeiras,1,1,D,3.6,3.3,2.25,3.6,3.38,2.33,3.36,3.19,2.18
+Brazil,Serie A,2017,13/08/17,Atletico-PR,Bahia,4,1,H,2.05,3.37,4.16,2.11,3.46,4.6,1.96,3.21,4.01
+Brazil,Serie A,2017,13/08/17,Botafogo RJ,Gremio,1,0,H,2.54,3.27,3.07,2.67,3.27,3.15,2.46,3.08,2.94
+Brazil,Serie A,2017,15/08/17,Santos,Fluminense,0,0,D,1.99,3.64,3.94,2.13,3.68,4.05,1.99,3.28,3.67
+Brazil,Serie A,2017,19/08/17,Corinthians,Vitoria,0,1,A,1.42,4.77,9,1.46,4.85,9.8,1.42,4.36,7.48
+Brazil,Serie A,2017,19/08/17,Flamengo RJ,Atletico GO,2,0,H,1.42,4.87,8.56,1.42,5,9.17,1.39,4.58,7.56
+Brazil,Serie A,2017,20/08/17,Gremio,Atletico-PR,0,0,D,1.96,3.25,4.8,1.99,3.4,4.82,1.92,3.22,4.23
+Brazil,Serie A,2017,20/08/17,Avai,Sao Paulo,1,1,D,4.04,3.32,2.1,4.04,3.4,2.17,3.71,3.24,2.04
+Brazil,Serie A,2017,20/08/17,Bahia,Vasco,3,0,H,1.92,3.57,4.49,1.97,3.57,4.6,1.87,3.4,4.17
+Brazil,Serie A,2017,20/08/17,Cruzeiro,Sport Recife,2,0,H,1.7,3.86,5.58,1.76,3.86,5.58,1.7,3.58,5.02
+Brazil,Serie A,2017,20/08/17,Ponte Preta,Botafogo RJ,2,1,H,1.72,3.61,5.93,1.76,3.68,5.95,1.7,3.42,5.35
+Brazil,Serie A,2017,20/08/17,Coritiba,Santos,0,0,D,2.53,3.28,3.08,2.61,3.3,3.08,2.46,3.13,2.9
+Brazil,Serie A,2017,20/08/17,Palmeiras,Chapecoense-SC,0,2,A,1.51,4.27,7.88,1.54,4.27,8.4,1.5,3.95,6.71
+Brazil,Serie A,2017,22/08/17,Fluminense,Atletico-MG,2,1,H,2.28,3.41,3.46,2.32,3.41,3.46,2.23,3.24,3.19
+Brazil,Serie A,2017,23/08/17,Chapecoense-SC,Corinthians,0,1,A,2.84,3.12,2.84,2.99,3.2,2.85,2.78,3.03,2.61
+Brazil,Serie A,2017,26/08/17,Fluminense,Vasco,0,1,A,2.11,3.34,3.9,2.16,3.52,4.15,2.04,3.22,3.74
+Brazil,Serie A,2017,26/08/17,Corinthians,Atletico GO,0,1,A,1.37,4.93,10.8,1.42,5.05,11,1.37,4.53,8.75
+Brazil,Serie A,2017,27/08/17,Bahia,Botafogo RJ,1,2,A,2.05,3.47,4,2.12,3.47,4.08,2,3.27,3.78
+Brazil,Serie A,2017,27/08/17,Flamengo RJ,Atletico-PR,2,0,H,1.54,4.26,7.1,1.56,4.26,7.65,1.51,3.96,6.5
+Brazil,Serie A,2017,27/08/17,Palmeiras,Sao Paulo,4,2,H,2.09,3.43,3.94,2.1,3.44,4.05,2.01,3.29,3.73
+Brazil,Serie A,2017,27/08/17,Ponte Preta,Atletico-MG,1,2,A,2.57,3.3,3,2.67,3.3,3.1,2.47,3.1,2.9
+Brazil,Serie A,2017,27/08/17,Avai,Chapecoense-SC,1,0,H,2.72,3.02,3.06,2.81,3.07,3.08,2.6,2.92,2.9
+Brazil,Serie A,2017,27/08/17,Cruzeiro,Santos,1,1,D,1.8,3.64,5.16,1.87,3.66,5.25,1.77,3.44,4.75
+Brazil,Serie A,2017,29/08/17,Coritiba,Vitoria,0,1,A,2.14,3.45,3.72,2.15,3.46,3.85,2.07,3.27,3.58
+Brazil,Serie A,2017,02/09/17,Gremio,Sport Recife,5,0,H,1.74,3.64,5.75,1.78,3.66,5.76,1.7,3.45,5.23
+Brazil,Serie A,2017,09/09/17,Atletico-MG,Palmeiras,1,1,D,2.09,3.55,3.78,2.17,3.58,3.83,2.07,3.3,3.54
+Brazil,Serie A,2017,09/09/17,Vasco,Gremio,1,0,H,3.15,3.19,2.54,3.2,3.22,2.7,2.97,3.01,2.5
+Brazil,Serie A,2017,09/09/17,Sao Paulo,Ponte Preta,2,2,D,1.72,3.84,5.41,1.8,4.05,6,1.68,3.63,5.06
+Brazil,Serie A,2017,10/09/17,Atletico-PR,Coritiba,1,1,D,1.83,3.45,5.31,1.86,3.57,5.37,1.76,3.38,4.9
+Brazil,Serie A,2017,10/09/17,Santos,Corinthians,2,0,H,2.52,3.22,3.15,2.59,3.28,3.25,2.4,3.08,3.04
+Brazil,Serie A,2017,10/09/17,Sport Recife,Avai,0,1,A,1.47,4.29,8.83,1.53,4.33,8.9,1.46,4,7.42
+Brazil,Serie A,2017,10/09/17,Vitoria,Fluminense,2,2,D,2.31,3.43,3.34,2.41,3.44,3.5,2.2,3.29,3.23
+Brazil,Serie A,2017,10/09/17,Botafogo RJ,Flamengo RJ,2,0,H,3.56,3.36,2.24,3.6,3.36,2.41,3.27,3.16,2.24
+Brazil,Serie A,2017,10/09/17,Chapecoense-SC,Cruzeiro,1,2,A,3.35,3.19,2.42,3.35,3.19,2.85,2.98,3.04,2.48
+Brazil,Serie A,2017,12/09/17,Atletico GO,Bahia,1,1,D,2.63,3.17,3.04,2.74,3.2,3.06,2.5,3.07,2.92
+Brazil,Serie A,2017,16/09/17,Botafogo RJ,Santos,2,0,H,2.02,3.35,4.3,2.08,3.42,4.3,1.99,3.2,3.96
+Brazil,Serie A,2017,17/09/17,Ponte Preta,Atletico GO,1,3,A,1.64,3.83,6.51,1.73,3.84,6.51,1.62,3.62,5.74
+Brazil,Serie A,2017,17/09/17,Avai,Atletico-MG,1,1,D,3.9,3.31,2.14,3.91,3.38,2.2,3.64,3.18,2.09
+Brazil,Serie A,2017,17/09/17,Atletico-PR,Fluminense,3,1,H,1.74,3.75,5.45,1.91,3.78,5.5,1.77,3.46,4.77
+Brazil,Serie A,2017,17/09/17,Corinthians,Vasco,1,0,H,1.57,4.03,7.09,1.6,4.25,7.5,1.55,3.73,6.53
+Brazil,Serie A,2017,17/09/17,Flamengo RJ,Sport Recife,2,0,H,1.47,4.61,7.79,1.53,4.7,7.79,1.47,4.19,6.73
+Brazil,Serie A,2017,17/09/17,Gremio,Chapecoense-SC,0,1,A,1.65,3.83,6.27,1.68,4.05,6.52,1.64,3.61,5.61
+Brazil,Serie A,2017,17/09/17,Vitoria,Sao Paulo,1,2,A,2.59,3.38,2.92,2.63,3.44,3,2.48,3.25,2.79
+Brazil,Serie A,2017,17/09/17,Cruzeiro,Bahia,1,0,H,1.52,4.17,7.85,1.57,4.55,7.85,1.51,3.9,6.79
+Brazil,Serie A,2017,19/09/17,Palmeiras,Coritiba,1,0,H,1.43,4.68,9.06,1.48,4.75,9.06,1.42,4.3,7.72
+Brazil,Serie A,2017,23/09/17,Flamengo RJ,Avai,1,1,D,1.42,4.73,9.31,1.47,4.8,9.47,1.4,4.37,7.98
+Brazil,Serie A,2017,24/09/17,Santos,Atletico-PR,1,0,H,1.97,3.43,4.42,2.14,3.54,4.42,1.97,3.22,3.98
+Brazil,Serie A,2017,24/09/17,Sao Paulo,Corinthians,1,1,D,2.31,3.32,3.45,2.31,3.48,3.75,2.16,3.22,3.39
+Brazil,Serie A,2017,24/09/17,Atletico GO,Cruzeiro,1,2,A,2.87,3.31,2.67,2.94,3.31,2.73,2.76,3.1,2.6
+Brazil,Serie A,2017,24/09/17,Chapecoense-SC,Ponte Preta,1,0,H,1.93,3.4,4.72,2.09,3.44,4.72,1.92,3.25,4.16
+Brazil,Serie A,2017,24/09/17,Coritiba,Botafogo RJ,2,3,A,2.4,3.1,3.5,2.47,3.13,3.56,2.34,3,3.23
+Brazil,Serie A,2017,24/09/17,Fluminense,Palmeiras,0,1,A,3.17,3.47,2.37,3.27,3.47,2.45,3.05,3.23,2.32
+Brazil,Serie A,2017,24/09/17,Atletico-MG,Vitoria,1,3,A,1.53,4.52,6.66,1.54,4.59,6.7,1.5,4.25,5.99
+Brazil,Serie A,2017,24/09/17,Bahia,Gremio,1,0,H,2.43,3.19,3.33,2.57,3.36,3.33,2.33,3.09,3.15
+Brazil,Serie A,2017,26/09/17,Sport Recife,Vasco,1,1,D,1.85,3.63,4.78,1.92,3.75,4.8,1.81,3.44,4.44
+Brazil,Serie A,2017,30/09/17,Bahia,Coritiba,1,1,D,1.93,3.52,4.51,1.94,3.59,4.8,1.86,3.36,4.32
+Brazil,Serie A,2017,30/09/17,Vasco,Chapecoense-SC,1,1,D,2.1,3.32,4.05,2.1,3.42,4.32,2.02,3.19,3.89
+Brazil,Serie A,2017,30/09/17,Palmeiras,Santos,0,1,A,1.64,3.9,6.28,1.77,3.92,6.3,1.62,3.66,5.71
+Brazil,Serie A,2017,01/10/17,Avai,Atletico GO,0,2,A,2.22,3.33,3.64,2.22,3.38,3.81,2.14,3.19,3.5
+Brazil,Serie A,2017,01/10/17,Botafogo RJ,Vitoria,2,3,A,1.78,3.72,5.18,1.78,3.85,5.4,1.72,3.6,4.83
+Brazil,Serie A,2017,01/10/17,Cruzeiro,Corinthians,1,1,D,2.14,3.3,3.91,2.52,3.3,3.91,2.17,3.07,3.6
+Brazil,Serie A,2017,01/10/17,Gremio,Fluminense,1,0,H,1.7,3.84,5.62,1.7,4.05,6.34,1.62,3.73,5.56
+Brazil,Serie A,2017,01/10/17,Sao Paulo,Sport Recife,1,0,H,1.6,4.28,6.04,1.61,4.3,7,1.56,3.99,5.84
+Brazil,Serie A,2017,01/10/17,Atletico-PR,Atletico-MG,0,2,A,2.25,3.4,3.47,2.3,3.44,3.51,2.19,3.24,3.33
+Brazil,Serie A,2017,03/10/17,Ponte Preta,Flamengo RJ,1,0,H,3.61,3.2,2.29,3.78,3.5,2.35,3.36,3.13,2.22
+Brazil,Serie A,2017,07/10/17,Cruzeiro,Ponte Preta,2,1,H,1.63,3.84,6.68,1.63,3.95,7,1.58,3.7,6.17
+Brazil,Serie A,2017,11/10/17,Atletico-PR,Atletico GO,2,2,D,1.6,4.17,6.29,1.63,4.17,6.5,1.57,3.88,5.71
+Brazil,Serie A,2017,11/10/17,Botafogo RJ,Chapecoense-SC,2,1,H,1.76,3.67,5.43,1.79,3.67,5.78,1.73,3.42,5.07
+Brazil,Serie A,2017,12/10/17,Corinthians,Coritiba,3,1,H,1.56,4.15,6.9,1.59,4.2,7.46,1.53,3.86,6.46
+Brazil,Serie A,2017,12/10/17,Atletico-MG,Sao Paulo,1,0,H,2.18,3.58,3.47,2.22,3.6,3.7,2.11,3.38,3.37
+Brazil,Serie A,2017,12/10/17,Avai,Vasco,1,2,A,2.64,3.13,3.06,2.74,3.2,3.09,2.55,2.99,2.93
+Brazil,Serie A,2017,12/10/17,Gremio,Cruzeiro,0,1,A,2.01,3.3,4.44,2.06,3.32,4.44,1.96,3.15,4.14
+Brazil,Serie A,2017,12/10/17,Flamengo RJ,Fluminense,1,1,D,1.65,4.15,5.7,1.66,4.24,6.07,1.6,3.85,5.46
+Brazil,Serie A,2017,12/10/17,Ponte Preta,Santos,1,1,D,2.4,3.22,3.37,2.54,3.22,3.39,2.33,3.08,3.2
+Brazil,Serie A,2017,12/10/17,Vitoria,Sport Recife,1,2,A,2.31,3.56,3.23,2.35,3.56,3.5,2.23,3.33,3.13
+Brazil,Serie A,2017,13/10/17,Palmeiras,Bahia,2,2,D,1.57,4.13,6.79,1.61,4.3,8,1.54,3.9,6.25
+Brazil,Serie A,2017,14/10/17,Vasco,Botafogo RJ,1,0,H,2.79,3.15,2.86,2.8,3.25,2.9,2.67,3.01,2.76
+Brazil,Serie A,2017,15/10/17,Sao Paulo,Atletico-PR,2,1,H,1.83,3.67,4.83,1.87,3.7,4.9,1.79,3.46,4.55
+Brazil,Serie A,2017,15/10/17,Atletico GO,Palmeiras,1,3,A,4.1,3.54,2.01,4.11,3.54,2.12,3.72,3.31,2.01
+Brazil,Serie A,2017,15/10/17,Chapecoense-SC,Flamengo RJ,0,1,A,3.71,3.36,2.18,3.81,3.38,2.25,3.47,3.19,2.15
+Brazil,Serie A,2017,15/10/17,Fluminense,Avai,1,0,H,1.68,3.79,6.05,1.7,3.88,6.2,1.64,3.61,5.6
+Brazil,Serie A,2017,15/10/17,Sport Recife,Atletico-MG,1,1,D,2.26,3.53,3.34,2.36,3.53,3.34,2.23,3.32,3.14
+Brazil,Serie A,2017,15/10/17,Bahia,Corinthians,2,0,H,2.63,3.24,2.96,2.74,3.32,3.02,2.56,3.03,2.87
+Brazil,Serie A,2017,15/10/17,Coritiba,Gremio,0,1,A,3.37,3.18,2.42,3.37,3.18,2.6,3.16,3,2.39
+Brazil,Serie A,2017,16/10/17,Santos,Vitoria,2,2,D,1.67,4.01,5.71,1.68,4.04,5.79,1.63,3.82,5.22
+Brazil,Serie A,2017,18/10/17,Atletico GO,Vasco,0,1,A,2.65,3.29,2.91,2.66,3.3,3.18,2.48,3.12,2.88
+Brazil,Serie A,2017,18/10/17,Coritiba,Cruzeiro,1,0,H,3.52,3.25,2.31,3.52,3.3,2.45,3.19,3.12,2.31
+Brazil,Serie A,2017,19/10/17,Atletico-MG,Chapecoense-SC,2,3,A,1.52,4.54,6.9,1.53,4.77,7.49,1.48,4.25,6.46
+Brazil,Serie A,2017,19/10/17,Avai,Botafogo RJ,1,1,D,2.85,3.12,2.83,2.93,3.16,2.85,2.77,2.98,2.68
+Brazil,Serie A,2017,19/10/17,Corinthians,Gremio,0,0,D,2.18,3.21,3.91,2.19,3.21,4.2,2.1,3.03,3.84
+Brazil,Serie A,2017,19/10/17,Fluminense,Sao Paulo,3,1,H,2.79,3.46,2.65,2.82,3.46,2.75,2.64,3.23,2.64
+Brazil,Serie A,2017,19/10/17,Palmeiras,Ponte Preta,2,0,H,1.47,4.3,8.79,1.53,4.38,8.79,1.47,4.05,7.27
+Brazil,Serie A,2017,19/10/17,Vitoria,Atletico-PR,2,3,A,2.29,3.37,3.44,2.3,3.4,3.52,2.2,3.24,3.3
+Brazil,Serie A,2017,20/10/17,Flamengo RJ,Bahia,4,1,H,1.48,4.44,8.03,1.5,4.55,8.4,1.45,4.13,7.31
+Brazil,Serie A,2017,20/10/17,Sport Recife,Santos,1,1,D,1.99,3.69,3.96,2.07,3.8,4.05,1.95,3.49,3.75
+Brazil,Serie A,2017,21/10/17,Vasco,Coritiba,1,1,D,2.05,3.37,4.15,2.09,3.4,4.26,2.01,3.2,3.87
+Brazil,Serie A,2017,22/10/17,Atletico-PR,Sport Recife,2,1,H,1.87,3.67,4.6,1.97,3.74,4.75,1.85,3.44,4.27
+Brazil,Serie A,2017,22/10/17,Bahia,Vitoria,2,1,H,2.14,3.42,3.78,2.21,3.47,4.05,2.06,3.29,3.59
+Brazil,Serie A,2017,22/10/17,Cruzeiro,Atletico-MG,1,3,A,2.05,3.33,4.25,2.05,3.61,4.33,1.95,3.33,3.95
+Brazil,Serie A,2017,22/10/17,Gremio,Palmeiras,1,3,A,2.92,3.07,2.8,3.17,3.21,2.82,2.83,2.99,2.63
+Brazil,Serie A,2017,22/10/17,Santos,Atletico GO,1,0,H,1.53,4.39,7.05,1.55,4.45,8,1.5,4.07,6.6
+Brazil,Serie A,2017,22/10/17,Sao Paulo,Flamengo RJ,2,0,H,2.46,3.35,3.14,2.46,3.4,3.21,2.33,3.2,3.07
+Brazil,Serie A,2017,22/10/17,Chapecoense-SC,Fluminense,2,0,H,2.04,3.61,3.9,2.06,3.66,4.08,1.98,3.38,3.78
+Brazil,Serie A,2017,22/10/17,Ponte Preta,Avai,1,2,A,1.69,3.62,6.27,1.73,3.7,6.27,1.67,3.46,5.55
+Brazil,Serie A,2017,23/10/17,Botafogo RJ,Corinthians,2,1,H,2.76,3.1,2.94,2.81,3.15,3,2.64,2.96,2.83
+Brazil,Serie A,2017,28/10/17,Sao Paulo,Santos,2,1,H,1.97,3.52,4.3,2.04,3.56,4.33,1.93,3.32,4.03
+Brazil,Serie A,2017,28/10/17,Flamengo RJ,Vasco,0,0,D,1.7,3.83,5.62,1.73,3.83,5.8,1.68,3.52,5.3
+Brazil,Serie A,2017,29/10/17,Atletico-PR,Chapecoense-SC,0,0,D,1.82,3.71,4.86,1.84,3.71,5.15,1.78,3.47,4.6
+Brazil,Serie A,2017,29/10/17,Atletico-MG,Botafogo RJ,0,0,D,1.68,3.93,5.67,1.74,3.94,5.7,1.65,3.71,5.23
+Brazil,Serie A,2017,29/10/17,Fluminense,Bahia,1,1,D,2.17,3.46,3.63,2.17,3.48,3.9,2.04,3.3,3.64
+Brazil,Serie A,2017,29/10/17,Ponte Preta,Corinthians,1,0,H,3.44,3.29,2.32,3.55,3.38,2.41,3.22,3.09,2.3
+Brazil,Serie A,2017,29/10/17,Sport Recife,Coritiba,3,4,A,1.87,3.59,4.71,1.92,3.62,4.71,1.85,3.41,4.3
+Brazil,Serie A,2017,29/10/17,Vitoria,Atletico GO,1,1,D,1.61,4.38,5.66,1.63,4.38,6.5,1.57,4.02,5.46
+Brazil,Serie A,2017,29/10/17,Avai,Gremio,2,2,D,2.46,3.09,3.39,2.49,3.1,3.46,2.38,2.95,3.23
+Brazil,Serie A,2017,30/10/17,Palmeiras,Cruzeiro,2,2,D,1.76,3.8,5.16,1.76,3.94,5.65,1.69,3.58,5.05
+Brazil,Serie A,2017,04/11/17,Santos,Atletico-MG,3,1,H,2.34,3.6,3.13,2.34,3.6,3.5,2.21,3.3,3.2
+Brazil,Serie A,2017,04/11/17,Atletico GO,Sao Paulo,0,1,A,3.65,3.61,2.11,3.98,3.64,2.11,3.64,3.37,2.02
+Brazil,Serie A,2017,04/11/17,Botafogo RJ,Fluminense,1,2,A,2.03,3.44,4.13,2.06,3.49,4.25,1.99,3.27,3.87
+Brazil,Serie A,2017,04/11/17,Coritiba,Avai,4,0,H,1.76,3.68,5.38,1.8,3.72,5.38,1.74,3.5,4.91
+Brazil,Serie A,2017,05/11/17,Corinthians,Palmeiras,3,2,H,2.42,3.21,3.34,2.45,3.24,3.4,2.33,3.06,3.21
+Brazil,Serie A,2017,05/11/17,Cruzeiro,Atletico-PR,1,0,H,1.86,3.42,5.09,1.89,3.5,5.25,1.8,3.34,4.71
+Brazil,Serie A,2017,05/11/17,Gremio,Flamengo RJ,3,1,H,2.38,3.16,3.49,2.39,3.16,3.59,2.28,3.01,3.37
+Brazil,Serie A,2017,05/11/17,Bahia,Ponte Preta,2,0,H,1.75,3.69,5.47,1.78,3.69,5.75,1.7,3.48,5.2
+Brazil,Serie A,2017,05/11/17,Chapecoense-SC,Sport Recife,1,1,D,2.29,3.33,3.46,2.41,3.41,3.9,2.22,3.23,3.25
+Brazil,Serie A,2017,05/11/17,Vasco,Vitoria,1,1,D,2.15,3.49,3.65,2.19,3.5,3.86,2.09,3.3,3.5
+Brazil,Serie A,2017,08/11/17,Avai,Bahia,1,2,A,2.9,3.17,2.75,2.9,3.2,2.84,2.74,3.04,2.67
+Brazil,Serie A,2017,08/11/17,Ponte Preta,Gremio,0,1,A,2.3,3.22,3.57,2.35,3.28,3.57,2.25,3.05,3.39
+Brazil,Serie A,2017,08/11/17,Atletico-PR,Corinthians,0,1,A,2.49,3.16,3.25,2.81,3.18,3.25,2.51,3,2.97
+Brazil,Serie A,2017,08/11/17,Sport Recife,Botafogo RJ,1,2,A,2.03,3.53,4.01,2.07,3.56,4.02,2,3.37,3.69
+Brazil,Serie A,2017,08/11/17,Flamengo RJ,Cruzeiro,2,0,H,1.75,3.75,5.36,1.9,3.78,5.38,1.73,3.52,4.9
+Brazil,Serie A,2017,08/11/17,Santos,Vasco,1,2,A,1.57,4.24,6.54,1.6,4.25,6.6,1.55,3.95,5.88
+Brazil,Serie A,2017,08/11/17,Vitoria,Palmeiras,3,1,H,2.88,3.51,2.54,3,3.58,2.6,2.8,3.28,2.45
+Brazil,Serie A,2017,09/11/17,Atletico-MG,Atletico GO,3,2,H,1.33,5.57,10.87,1.34,5.94,12,1.3,5.26,9.64
+Brazil,Serie A,2017,09/11/17,Sao Paulo,Chapecoense-SC,2,2,D,1.61,3.99,6.53,1.64,4.08,6.7,1.57,3.82,5.95
+Brazil,Serie A,2017,09/11/17,Fluminense,Coritiba,2,2,D,1.99,3.5,4.21,2.01,3.54,4.41,1.93,3.37,3.98
+Brazil,Serie A,2017,11/11/17,Botafogo RJ,Atletico-PR,0,1,A,2.1,3.38,3.94,2.15,3.44,4.04,2.04,3.21,3.76
+Brazil,Serie A,2017,11/11/17,Corinthians,Avai,1,0,H,1.46,4.52,8.37,1.46,4.64,9.5,1.41,4.36,7.83
+Brazil,Serie A,2017,12/11/17,Atletico GO,Sport Recife,2,0,H,3.29,3.5,2.3,3.29,3.5,2.4,3.04,3.3,2.3
+Brazil,Serie A,2017,12/11/17,Gremio,Vitoria,1,1,D,1.95,3.64,4.16,1.96,3.85,5.25,1.85,3.52,4.17
+Brazil,Serie A,2017,12/11/17,Palmeiras,Flamengo RJ,2,0,H,2.03,3.62,3.9,2.04,3.62,4.07,1.97,3.41,3.76
+Brazil,Serie A,2017,12/11/17,Vasco,Sao Paulo,1,1,D,3.02,3.29,2.57,3.02,3.29,2.72,2.86,3.1,2.53
+Brazil,Serie A,2017,12/11/17,Bahia,Atletico-MG,2,2,D,2.15,3.57,3.57,2.2,3.57,4,2.07,3.39,3.47
+Brazil,Serie A,2017,12/11/17,Coritiba,Ponte Preta,1,1,D,1.85,3.65,4.76,1.94,3.82,4.95,1.82,3.45,4.39
+Brazil,Serie A,2017,12/11/17,Cruzeiro,Fluminense,3,1,H,1.68,3.81,5.96,1.77,3.85,5.96,1.68,3.59,5.18
+Brazil,Serie A,2017,13/11/17,Chapecoense-SC,Santos,2,0,H,2.43,3.24,3.28,2.6,3.32,3.47,2.31,3.11,3.19
+Brazil,Serie A,2017,15/11/17,Ponte Preta,Atletico-PR,2,1,H,2.12,3.35,3.93,2.19,3.52,3.93,2.08,3.23,3.61
+Brazil,Serie A,2017,15/11/17,Cruzeiro,Avai,2,2,D,1.53,4.25,7.23,1.53,4.35,8,1.49,4.03,6.83
+Brazil,Serie A,2017,15/11/17,Gremio,Sao Paulo,1,0,H,2.04,3.31,4.32,2.07,3.38,4.5,1.98,3.21,4.01
+Brazil,Serie A,2017,15/11/17,Corinthians,Fluminense,3,1,H,1.58,4.01,6.93,1.61,4.1,7.02,1.55,3.86,6.13
+Brazil,Serie A,2017,15/11/17,Vasco,Atletico-MG,1,1,D,2.77,3.33,2.76,2.77,3.35,2.86,2.64,3.16,2.69
+Brazil,Serie A,2017,16/11/17,Botafogo RJ,Atletico GO,1,2,A,1.5,4.43,7.51,1.53,4.43,7.51,1.49,4.09,6.68
+Brazil,Serie A,2017,16/11/17,Chapecoense-SC,Vitoria,2,1,H,2.6,3.3,2.96,2.63,3.36,3.1,2.43,3.19,2.92
+Brazil,Serie A,2017,16/11/17,Palmeiras,Sport Recife,5,1,H,1.57,4.47,6.09,1.59,4.47,6.3,1.54,4.2,5.61
+Brazil,Serie A,2017,16/11/17,Bahia,Santos,3,1,H,1.93,3.53,4.35,2.08,3.65,4.4,1.9,3.44,4.01
+Brazil,Serie A,2017,16/11/17,Coritiba,Flamengo RJ,1,0,H,3.11,3.27,2.51,3.14,3.28,2.62,2.92,3.11,2.48
+Brazil,Serie A,2017,19/11/17,Atletico GO,Chapecoense-SC,1,1,D,2.5,3.44,2.99,2.59,3.44,3,2.45,3.24,2.85
+Brazil,Serie A,2017,19/11/17,Flamengo RJ,Corinthians,3,0,H,1.67,3.89,5.88,1.78,3.9,6,1.64,3.68,5.44
+Brazil,Serie A,2017,19/11/17,Sao Paulo,Botafogo RJ,0,0,D,2.18,3.38,3.71,2.23,3.5,3.9,2.1,3.27,3.52
+Brazil,Serie A,2017,19/11/17,Sport Recife,Bahia,1,0,H,1.88,3.98,4.15,2.1,3.98,4.2,1.96,3.57,3.66
+Brazil,Serie A,2017,19/11/17,Vitoria,Cruzeiro,1,1,D,1.89,3.76,4.36,2.07,3.76,4.38,1.97,3.46,3.73
+Brazil,Serie A,2017,19/11/17,Atletico-MG,Coritiba,3,0,H,1.55,4.42,6.54,1.61,4.42,6.54,1.55,4.08,5.76
+Brazil,Serie A,2017,19/11/17,Atletico-PR,Vasco,3,1,H,2.03,3.39,4.21,2.14,3.44,4.21,2.02,3.26,3.79
+Brazil,Serie A,2017,19/11/17,Santos,Gremio,1,0,H,1.5,4.4,7.62,1.55,4.4,7.7,1.49,4.07,6.79
+Brazil,Serie A,2017,20/11/17,Fluminense,Ponte Preta,2,0,H,1.88,3.46,4.9,1.9,3.65,4.9,1.82,3.42,4.46
+Brazil,Serie A,2017,20/11/17,Avai,Palmeiras,2,1,H,4.04,3.56,1.99,4.06,3.76,2.06,3.68,3.48,1.97
+Brazil,Serie A,2017,25/11/17,Fluminense,Sport Recife,1,2,A,2.21,3.5,3.49,2.33,3.53,3.5,2.16,3.37,3.25
+Brazil,Serie A,2017,26/11/17,Avai,Atletico-PR,1,0,H,2.77,3.4,2.7,2.77,3.4,3,2.58,3.2,2.72
+Brazil,Serie A,2017,26/11/17,Corinthians,Atletico-MG,2,2,D,2.22,3.56,3.42,2.24,3.56,3.6,2.16,3.35,3.27
+Brazil,Serie A,2017,26/11/17,Coritiba,Sao Paulo,1,2,A,2,3.5,4.16,2.05,3.54,4.3,1.95,3.37,3.92
+Brazil,Serie A,2017,26/11/17,Cruzeiro,Vasco,0,1,A,1.97,3.52,4.21,2.01,3.7,4.32,1.91,3.47,3.95
+Brazil,Serie A,2017,26/11/17,Gremio,Atletico GO,1,1,D,1.78,3.64,5.28,1.81,3.68,5.65,1.73,3.5,4.94
+Brazil,Serie A,2017,26/11/17,Ponte Preta,Vitoria,2,3,A,2.18,3.63,3.43,2.21,3.63,3.6,2.12,3.34,3.38
+Brazil,Serie A,2017,26/11/17,Bahia,Chapecoense-SC,0,1,A,1.73,4.01,5.04,1.75,4.06,5.34,1.69,3.77,4.82
+Brazil,Serie A,2017,26/11/17,Flamengo RJ,Santos,1,2,A,1.61,3.96,6.59,1.76,3.96,6.59,1.62,3.68,5.7
+Brazil,Serie A,2017,27/11/17,Palmeiras,Botafogo RJ,2,0,H,1.72,3.91,5.29,1.82,3.96,5.29,1.73,3.68,4.61
+Brazil,Serie A,2017,03/12/17,Atletico GO,Fluminense,1,1,D,2.33,3.63,3.12,2.6,3.63,3.2,2.34,3.39,2.91
+Brazil,Serie A,2017,03/12/17,Atletico-MG,Gremio,4,3,H,1.27,6.34,12.91,1.29,6.6,15,1.24,5.83,11.71
+Brazil,Serie A,2017,03/12/17,Atletico-PR,Palmeiras,3,0,H,2.88,3.61,2.49,3,3.61,2.5,2.8,3.38,2.41
+Brazil,Serie A,2017,03/12/17,Botafogo RJ,Cruzeiro,2,2,D,1.77,3.62,5.44,1.81,3.67,5.44,1.75,3.47,4.83
+Brazil,Serie A,2017,03/12/17,Chapecoense-SC,Coritiba,2,1,H,2.18,3.56,3.48,2.21,3.57,3.7,2.11,3.39,3.35
+Brazil,Serie A,2017,03/12/17,Santos,Avai,1,1,D,2.05,3.79,3.67,2.08,3.79,3.8,1.98,3.58,3.54
+Brazil,Serie A,2017,03/12/17,Sao Paulo,Bahia,1,1,D,1.71,4.07,5.12,1.73,4.1,5.22,1.67,3.8,4.89
+Brazil,Serie A,2017,03/12/17,Sport Recife,Corinthians,1,0,H,1.38,5.36,8.71,1.42,5.36,8.71,1.37,4.78,7.73
+Brazil,Serie A,2017,03/12/17,Vasco,Ponte Preta,2,1,H,1.36,5.25,10.2,1.4,5.31,10.5,1.33,4.81,9.27
+Brazil,Serie A,2017,03/12/17,Vitoria,Flamengo RJ,1,2,A,2.27,3.59,3.27,2.29,3.59,3.7,2.16,3.42,3.24
+Brazil,Serie A,2018,14/04/18,Cruzeiro,Gremio,0,1,A,1.96,3.29,4.87,2.11,3.3,4.87,1.98,3.16,4.15
+Brazil,Serie A,2018,14/04/18,Vitoria,Flamengo RJ,2,2,D,3.56,3.41,2.22,3.75,3.42,2.24,3.4,3.31,2.14
+Brazil,Serie A,2018,15/04/18,Santos,Ceara,2,0,H,1.57,4.13,6.76,1.6,4.14,7.1,1.55,3.88,6.12
+Brazil,Serie A,2018,15/04/18,America MG,Sport Recife,3,0,H,1.98,3.35,4.51,2.05,3.42,4.51,1.96,3.27,4.01
+Brazil,Serie A,2018,15/04/18,Corinthians,Fluminense,2,1,H,1.67,3.68,6.55,1.68,3.74,7,1.62,3.55,6.03
+Brazil,Serie A,2018,15/04/18,Internacional,Bahia,2,0,H,1.74,3.53,6.01,1.81,3.75,6.01,1.74,3.42,5.05
+Brazil,Serie A,2018,15/04/18,Vasco,Atletico-MG,2,1,H,2.98,3.22,2.64,2.98,3.25,2.7,2.79,3.15,2.57
+Brazil,Serie A,2018,15/04/18,Atletico-PR,Chapecoense-SC,5,1,H,2.14,3.25,4.02,2.18,3.3,4.15,2.08,3.17,3.72
+Brazil,Serie A,2018,17/04/18,Botafogo RJ,Palmeiras,1,1,D,3.89,3.37,2.12,3.9,3.38,2.16,3.61,3.23,2.08
+Brazil,Serie A,2018,17/04/18,Sao Paulo,Parana,1,0,H,1.47,4.35,8.75,1.48,4.5,9.73,1.42,4.19,8.2
+Brazil,Serie A,2018,21/04/18,Bahia,Santos,1,0,H,2.31,3.27,3.48,2.39,3.27,3.6,2.26,3.12,3.34
+Brazil,Serie A,2018,21/04/18,Flamengo RJ,America MG,2,0,H,1.45,4.58,8.58,1.46,4.75,10.5,1.41,4.43,8
+Brazil,Serie A,2018,22/04/18,Parana,Corinthians,0,4,A,4.15,2.96,2.24,4.18,3.1,2.24,3.79,2.96,2.16
+Brazil,Serie A,2018,22/04/18,Atletico-MG,Vitoria,2,1,H,1.56,4.33,6.6,1.59,4.33,7.5,1.54,4.02,6.14
+Brazil,Serie A,2018,22/04/18,Ceara,Sao Paulo,0,0,D,3.03,3.26,2.58,3.13,3.3,2.58,2.94,3.11,2.47
+Brazil,Serie A,2018,22/04/18,Chapecoense-SC,Vasco,1,1,D,1.91,3.47,4.69,1.92,3.7,4.81,1.84,3.4,4.43
+Brazil,Serie A,2018,22/04/18,Fluminense,Cruzeiro,1,0,H,2.71,3.22,2.9,2.76,3.22,2.94,2.61,3.11,2.79
+Brazil,Serie A,2018,22/04/18,Palmeiras,Internacional,1,0,H,1.63,3.83,6.74,1.64,3.84,7,1.6,3.63,6.11
+Brazil,Serie A,2018,22/04/18,Gremio,Atletico-PR,0,0,D,1.62,3.83,6.88,1.67,3.84,6.88,1.61,3.61,6.08
+Brazil,Serie A,2018,24/04/18,Sport Recife,Botafogo RJ,1,1,D,2.27,3.26,3.59,2.33,3.29,3.59,2.21,3.16,3.38
+Brazil,Serie A,2018,28/04/18,Botafogo RJ,Gremio,2,1,H,2.59,3.09,3.17,2.72,3.13,3.17,2.51,3.02,2.97
+Brazil,Serie A,2018,29/04/18,Atletico-MG,Corinthians,1,0,H,1.99,3.39,4.37,2.03,3.42,4.37,1.97,3.28,3.96
+Brazil,Serie A,2018,29/04/18,Bahia,Atletico-PR,0,0,D,2.03,3.4,4.2,2.1,3.43,4.33,1.99,3.26,3.93
+Brazil,Serie A,2018,29/04/18,Ceara,Flamengo RJ,0,3,A,3.32,3.21,2.42,3.38,3.26,2.42,3.21,3.12,2.31
+Brazil,Serie A,2018,29/04/18,Fluminense,Sao Paulo,1,1,D,2.55,3.26,3.06,2.57,3.26,3.1,2.44,3.12,2.99
+Brazil,Serie A,2018,29/04/18,Palmeiras,Chapecoense-SC,0,0,D,1.33,5.19,12.11,1.35,5.2,12.4,1.31,4.84,10.64
+Brazil,Serie A,2018,29/04/18,Parana,Sport Recife,1,2,A,2.29,3.28,3.52,2.33,3.34,3.6,2.21,3.17,3.35
+Brazil,Serie A,2018,29/04/18,Internacional,Cruzeiro,0,0,D,1.93,3.28,4.9,1.98,3.4,5.1,1.88,3.22,4.47
+Brazil,Serie A,2018,01/05/18,America MG,Vitoria,2,1,H,2.06,3.25,4.22,2.11,3.35,4.25,2.01,3.23,3.88
+Brazil,Serie A,2018,05/05/18,Sao Paulo,Atletico-MG,2,2,D,2.09,3.38,3.87,2.11,3.45,3.96,2.04,3.27,3.71
+Brazil,Serie A,2018,05/05/18,Vasco,America MG,4,1,H,2.11,3.2,4.07,2.11,3.36,4.25,2.03,3.17,3.9
+Brazil,Serie A,2018,06/05/18,Corinthians,Ceara,1,1,D,1.68,3.56,6.45,1.73,3.6,6.7,1.65,3.45,5.81
+Brazil,Serie A,2018,06/05/18,Atletico-PR,Palmeiras,1,3,A,3.2,3.25,2.42,3.03,3.2,2.72,2.86,3.09,2.52
+Brazil,Serie A,2018,06/05/18,Cruzeiro,Botafogo RJ,1,0,H,1.47,4.43,7.85,1.49,4.5,9,1.45,4.13,7.51
+Brazil,Serie A,2018,06/05/18,Flamengo RJ,Internacional,2,0,H,1.76,3.58,5.24,1.85,3.6,5.56,1.77,3.41,4.84
+Brazil,Serie A,2018,06/05/18,Vitoria,Fluminense,1,2,A,2.07,3.61,3.68,2.13,3.54,4,2.05,3.36,3.54
+Brazil,Serie A,2018,06/05/18,Gremio,Santos,5,1,H,1.63,3.89,6.16,1.65,4,6.7,1.59,3.72,5.91
+Brazil,Serie A,2018,06/05/18,Sport Recife,Bahia,2,0,H,2.24,3.39,3.42,2.34,3.4,3.6,2.23,3.21,3.25
+Brazil,Serie A,2018,08/05/18,Chapecoense-SC,Parana,1,1,D,1.78,3.43,5.63,1.79,3.5,5.94,1.74,3.34,5.27
+Brazil,Serie A,2018,12/05/18,Gremio,Internacional,0,0,D,1.9,3.08,5.5,1.95,3.4,5.56,1.84,3.14,4.91
+Brazil,Serie A,2018,13/05/18,Cruzeiro,Sport Recife,2,0,H,1.43,4.69,8.41,1.44,4.75,10.02,1.39,4.49,8.25
+Brazil,Serie A,2018,13/05/18,Atletico-PR,Atletico-MG,1,2,A,2.42,3.3,3.16,2.5,3.3,3.22,2.38,3.18,3
+Brazil,Serie A,2018,13/05/18,Bahia,Sao Paulo,2,2,D,2.39,3.13,3.39,2.4,3.2,3.6,2.3,3.06,3.27
+Brazil,Serie A,2018,13/05/18,Chapecoense-SC,Flamengo RJ,3,2,H,3.08,3.1,2.57,3.3,3.3,2.57,3.07,3.06,2.41
+Brazil,Serie A,2018,13/05/18,Corinthians,Palmeiras,1,0,H,3.13,2.96,2.68,3.13,3.2,2.8,2.87,2.97,2.62
+Brazil,Serie A,2018,13/05/18,Vasco,Vitoria,2,3,A,1.88,3.58,4.47,1.94,3.6,4.6,1.85,3.46,4.23
+Brazil,Serie A,2018,13/05/18,Santos,Parana,3,1,H,1.6,3.75,7.18,1.6,4.2,8.6,1.53,3.83,6.69
+Brazil,Serie A,2018,15/05/18,Botafogo RJ,Fluminense,2,1,H,2.58,3.1,3.09,2.6,3.31,3.3,2.43,3.12,2.99
+Brazil,Serie A,2018,15/05/18,Ceara,America MG,2,2,D,1.98,3.42,4.24,2.33,3.42,4.33,1.95,3.25,4.04
+Brazil,Serie A,2018,19/05/18,Atletico-MG,Cruzeiro,1,0,H,2.01,3.43,4.12,2.1,3.43,4.33,1.98,3.29,3.89
+Brazil,Serie A,2018,19/05/18,Flamengo RJ,Vasco,1,1,D,1.62,3.99,6.09,1.65,4.1,6.32,1.59,3.86,5.62
+Brazil,Serie A,2018,20/05/18,Palmeiras,Bahia,3,0,H,1.4,4.62,9.45,1.42,4.9,9.6,1.39,4.41,8.44
+Brazil,Serie A,2018,20/05/18,Vitoria,Ceara,2,1,H,1.96,3.51,4.19,1.99,3.6,4.5,1.9,3.43,4.06
+Brazil,Serie A,2018,20/05/18,America MG,Botafogo RJ,1,0,H,2.32,3.22,3.42,2.35,3.37,3.5,2.24,3.19,3.25
+Brazil,Serie A,2018,20/05/18,Parana,Gremio,0,0,D,4.94,3.55,1.83,5,3.58,1.91,4.65,3.32,1.82
+Brazil,Serie A,2018,20/05/18,Sao Paulo,Santos,1,0,H,2.08,3.28,4.01,2.16,3.35,4.11,2.04,3.24,3.77
+Brazil,Serie A,2018,20/05/18,Sport Recife,Corinthians,1,1,D,2,3.35,4.26,2.05,3.42,4.5,1.97,3.19,4.08
+Brazil,Serie A,2018,20/05/18,Fluminense,Atletico-PR,2,0,H,1.93,3.51,4.35,1.97,3.55,4.42,1.91,3.41,4.03
+Brazil,Serie A,2018,22/05/18,Internacional,Chapecoense-SC,3,0,H,1.64,3.7,6.52,1.72,3.8,6.89,1.63,3.52,5.98
+Brazil,Serie A,2018,26/05/18,Fluminense,Chapecoense-SC,3,1,H,1.91,3.28,4.85,1.95,3.4,5,1.88,3.21,4.49
+Brazil,Serie A,2018,26/05/18,Palmeiras,Sport Recife,2,3,A,1.36,4.94,10.52,1.37,5.1,12,1.34,4.73,9.22
+Brazil,Serie A,2018,27/05/18,Atletico-MG,Flamengo RJ,0,1,A,1.95,3.43,4.23,2.03,3.56,5,1.89,3.39,4.13
+Brazil,Serie A,2018,27/05/18,Parana,Atletico-PR,0,0,D,2.61,3.13,3.02,2.8,3.16,3.1,2.56,3.02,2.91
+Brazil,Serie A,2018,27/05/18,Bahia,Vasco,3,0,H,1.69,3.82,5.58,1.76,3.85,5.58,1.69,3.68,4.99
+Brazil,Serie A,2018,27/05/18,Botafogo RJ,Vitoria,1,1,D,1.87,3.86,4.18,1.92,3.86,4.39,1.84,3.62,4.07
+Brazil,Serie A,2018,27/05/18,Internacional,Corinthians,2,1,H,1.84,3.34,5.22,1.9,3.5,5.25,1.81,3.28,4.82
+Brazil,Serie A,2018,27/05/18,Santos,Cruzeiro,0,1,A,2.83,3.22,2.74,2.9,3.22,2.83,2.77,3.05,2.66
+Brazil,Serie A,2018,27/05/18,America MG,Sao Paulo,1,3,A,3.12,3.05,2.6,3.15,3.1,2.85,2.98,2.96,2.55
+Brazil,Serie A,2018,27/05/18,Ceara,Gremio,0,1,A,3.82,3.15,2.2,3.86,3.2,2.27,3.61,3.03,2.18
+Brazil,Serie A,2018,30/05/18,Sport Recife,Atletico-MG,3,2,H,2.75,3.3,2.75,2.84,3.3,2.8,2.67,3.17,2.65
+Brazil,Serie A,2018,30/05/18,Vasco,Parana,1,0,H,1.97,3.21,4.65,2,3.3,4.7,1.94,3.14,4.29
+Brazil,Serie A,2018,30/05/18,Vitoria,Internacional,2,3,A,3.43,3.17,2.35,3.54,3.4,2.42,3.27,3.13,2.27
+Brazil,Serie A,2018,31/05/18,Chapecoense-SC,Ceara,2,0,H,1.93,3.35,4.62,1.97,3.5,4.8,1.9,3.25,4.34
+Brazil,Serie A,2018,31/05/18,Sao Paulo,Botafogo RJ,3,2,H,1.63,3.76,6.48,1.63,3.9,6.7,1.6,3.66,6
+Brazil,Serie A,2018,31/05/18,Cruzeiro,Palmeiras,1,0,H,2.08,3.39,3.88,2.17,3.5,3.9,2.05,3.29,3.64
+Brazil,Serie A,2018,31/05/18,Gremio,Fluminense,0,0,D,1.4,4.92,8.72,1.45,4.95,10,1.38,4.49,8.32
+Brazil,Serie A,2018,31/05/18,Flamengo RJ,Bahia,2,0,H,1.41,4.42,10.02,1.47,4.45,10.02,1.41,4.15,8.6
+Brazil,Serie A,2018,31/05/18,Corinthians,America MG,1,0,H,1.55,3.94,7.63,1.58,4,8.1,1.52,3.8,7
+Brazil,Serie A,2018,01/06/18,Atletico-PR,Santos,2,0,H,2.31,3.36,3.3,2.41,3.36,3.4,2.28,3.24,3.14
+Brazil,Serie A,2018,02/06/18,Atletico-MG,Chapecoense-SC,3,3,D,1.56,3.96,7.25,1.58,4.3,7.4,1.54,3.82,6.48
+Brazil,Serie A,2018,02/06/18,Internacional,Sport Recife,0,0,D,1.43,4.57,8.87,1.48,4.69,10,1.41,4.31,8.06
+Brazil,Serie A,2018,02/06/18,Vasco,Botafogo RJ,1,2,A,2.39,3.34,3.16,2.58,3.38,3.2,2.41,3.2,2.95
+Brazil,Serie A,2018,03/06/18,Palmeiras,Sao Paulo,3,1,H,2.08,3.3,4.03,2.09,3.4,4.04,2.02,3.26,3.8
+Brazil,Serie A,2018,03/06/18,America MG,Atletico-PR,3,1,H,2.32,3.42,3.23,2.43,3.44,3.27,2.3,3.22,3.11
+Brazil,Serie A,2018,03/06/18,Bahia,Gremio,0,2,A,3.14,2.99,2.63,3.16,3.2,2.72,2.98,2.94,2.55
+Brazil,Serie A,2018,03/06/18,Flamengo RJ,Corinthians,1,0,H,1.78,3.48,5.43,1.8,3.8,5.56,1.74,3.42,5.09
+Brazil,Serie A,2018,03/06/18,Santos,Vitoria,5,2,H,1.56,4.34,6.17,1.62,4.35,6.5,1.56,4,5.79
+Brazil,Serie A,2018,03/06/18,Ceara,Cruzeiro,0,1,A,4.79,3.32,1.91,4.79,3.55,2.01,4.36,3.24,1.89
+Brazil,Serie A,2018,05/06/18,Parana,Fluminense,2,1,H,2.54,3.23,3.03,2.68,3.28,3.13,2.51,3.05,2.94
+Brazil,Serie A,2018,06/06/18,Sao Paulo,Internacional,0,0,D,2.31,3.08,3.64,2.31,3.1,3.88,2.21,2.99,3.56
+Brazil,Serie A,2018,06/06/18,Botafogo RJ,Ceara,0,0,D,1.59,3.9,6.82,1.7,4.05,7.09,1.59,3.67,6.14
+Brazil,Serie A,2018,06/06/18,Vitoria,Chapecoense-SC,1,0,H,2.02,3.66,3.79,2.07,3.66,3.9,1.99,3.46,3.68
+Brazil,Serie A,2018,07/06/18,Corinthians,Santos,1,1,D,2.02,3.33,4.2,2.5,3.4,4.45,2.03,3.13,3.9
+Brazil,Serie A,2018,07/06/18,Sport Recife,Atletico-PR,1,0,H,2.06,3.55,3.75,2.12,3.65,3.86,2.03,3.38,3.61
+Brazil,Serie A,2018,07/06/18,Cruzeiro,Vasco,1,1,D,1.34,4.87,12.12,1.38,4.9,12.25,1.34,4.53,10.44
+Brazil,Serie A,2018,07/06/18,Gremio,Palmeiras,0,2,A,2.03,3.19,4.41,2.09,3.35,4.8,2,3.12,4.03
+Brazil,Serie A,2018,08/06/18,Fluminense,Flamengo RJ,0,2,A,4.8,3.23,1.94,5.16,3.42,1.97,4.45,3.2,1.89
+Brazil,Serie A,2018,08/06/18,Parana,Bahia,1,0,H,2.5,3.08,3.24,2.58,3.14,3.26,2.47,2.93,3.13
+Brazil,Serie A,2018,08/06/18,America MG,Atletico-MG,1,3,A,4.58,3.47,1.9,5.02,3.83,1.95,4.27,3.41,1.86
+Brazil,Serie A,2018,09/06/18,Atletico-PR,Sao Paulo,0,1,A,2.87,3.17,2.71,2.89,3.22,2.78,2.76,3.08,2.65
+Brazil,Serie A,2018,09/06/18,Chapecoense-SC,Cruzeiro,2,0,H,3.58,3.17,2.28,3.72,3.2,2.29,3.49,3.01,2.23
+Brazil,Serie A,2018,09/06/18,Vasco,Sport Recife,3,2,H,1.93,3.38,4.61,1.99,3.5,4.61,1.91,3.28,4.21
+Brazil,Serie A,2018,10/06/18,Corinthians,Vitoria,0,0,D,1.83,3.43,5.18,1.87,3.6,5.37,1.8,3.38,4.69
+Brazil,Serie A,2018,10/06/18,Atletico-MG,Fluminense,5,2,H,1.59,4.03,6.37,1.62,4.13,6.5,1.56,3.89,5.93
+Brazil,Serie A,2018,10/06/18,Bahia,Botafogo RJ,3,3,D,1.85,3.63,4.64,1.89,3.63,5.08,1.83,3.44,4.41
+Brazil,Serie A,2018,10/06/18,Ceara,Palmeiras,2,2,D,5.73,3.62,1.71,6,3.7,1.74,5.33,3.49,1.69
+Brazil,Serie A,2018,10/06/18,Gremio,America MG,1,0,H,1.32,4.99,13.01,1.37,5.04,13.14,1.33,4.62,10.59
+Brazil,Serie A,2018,10/06/18,Flamengo RJ,Parana,2,0,H,1.32,4.96,13.52,1.32,5.15,15.25,1.29,4.77,12.3
+Brazil,Serie A,2018,10/06/18,Santos,Internacional,1,2,A,2.38,3.13,3.4,2.39,3.28,3.6,2.28,3.1,3.29
+Brazil,Serie A,2018,13/06/18,Sao Paulo,Vitoria,3,0,H,1.42,4.74,8.44,1.44,4.92,10,1.4,4.56,7.64
+Brazil,Serie A,2018,13/06/18,America MG,Chapecoense-SC,0,0,D,2.18,3.2,3.8,2.2,3.3,3.9,2.12,3.16,3.6
+Brazil,Serie A,2018,13/06/18,Fluminense,Santos,0,1,A,2.69,3.21,2.87,2.71,3.4,3,2.57,3.16,2.77
+Brazil,Serie A,2018,13/06/18,Parana,Cruzeiro,1,1,D,3.95,3,2.24,3.95,3.2,2.27,3.74,2.96,2.17
+Brazil,Serie A,2018,13/06/18,Sport Recife,Gremio,0,0,D,3.31,3.13,2.43,3.35,3.2,2.6,3.11,2.98,2.44
+Brazil,Serie A,2018,14/06/18,Botafogo RJ,Atletico-PR,2,0,H,2.04,3.33,4.13,2.11,3.44,4.13,2.01,3.22,3.86
+Brazil,Serie A,2018,14/06/18,Palmeiras,Flamengo RJ,1,1,D,2.15,3.21,3.92,2.15,3.4,4.08,2.05,3.23,3.72
+Brazil,Serie A,2018,14/06/18,Atletico-MG,Ceara,2,1,H,1.31,5.71,10.79,1.31,5.85,12,1.29,5.32,10.03
+Brazil,Serie A,2018,14/06/18,Bahia,Corinthians,1,0,H,1.86,3.53,4.73,2.12,3.64,4.89,1.85,3.36,4.36
+Brazil,Serie A,2018,14/06/18,Internacional,Vasco,3,1,H,1.49,4.35,7.67,1.51,4.5,8.5,1.46,4.1,7.29
+Brazil,Serie A,2018,18/07/18,Ceara,Sport Recife,1,0,H,2.52,3.22,3.07,2.63,3.22,3.15,2.45,3.07,3.01
+Brazil,Serie A,2018,19/07/18,Vitoria,Parana,1,0,H,1.91,3.41,4.63,1.97,3.52,4.63,1.88,3.33,4.3
+Brazil,Serie A,2018,19/07/18,Corinthians,Botafogo RJ,2,0,H,1.93,3.4,4.5,1.98,3.54,4.51,1.92,3.28,4.18
+Brazil,Serie A,2018,19/07/18,Flamengo RJ,Sao Paulo,0,1,A,2,3.43,4.16,2.07,3.52,4.2,2.01,3.25,3.85
+Brazil,Serie A,2018,19/07/18,Gremio,Atletico-MG,2,0,H,1.6,3.98,6.43,1.67,3.98,6.7,1.6,3.7,5.91
+Brazil,Serie A,2018,19/07/18,Chapecoense-SC,Bahia,1,1,D,2.04,3.08,4.57,2.09,3.2,4.57,2.02,3.03,4.16
+Brazil,Serie A,2018,19/07/18,Cruzeiro,America MG,3,1,H,1.52,3.89,8.41,1.53,4.6,9.36,1.48,4,7.32
+Brazil,Serie A,2018,20/07/18,Santos,Palmeiras,1,1,D,2.61,3.27,2.91,2.7,3.27,2.97,2.57,3.13,2.8
+Brazil,Serie A,2018,20/07/18,Vasco,Fluminense,1,1,D,2.29,3.27,3.45,2.38,3.4,3.8,2.25,3.18,3.25
+Brazil,Serie A,2018,20/07/18,Atletico-PR,Internacional,2,2,D,2.66,3.11,2.98,2.72,3.12,3.1,2.61,2.95,2.89
+Brazil,Serie A,2018,21/07/18,Flamengo RJ,Botafogo RJ,2,0,H,1.69,3.58,6.16,1.74,3.68,6.16,1.67,3.51,5.49
+Brazil,Serie A,2018,22/07/18,Sao Paulo,Corinthians,3,1,H,2.11,3.1,4.22,2.15,3.25,4.32,2.05,3.08,3.95
+Brazil,Serie A,2018,22/07/18,Bahia,Vitoria,4,1,H,1.84,3.71,4.57,1.93,3.72,4.57,1.84,3.49,4.28
+Brazil,Serie A,2018,22/07/18,Palmeiras,Atletico-MG,3,2,H,1.56,4.27,6.28,1.61,4.29,6.51,1.55,4.02,5.85
+Brazil,Serie A,2018,22/07/18,Parana,America MG,1,0,H,2.35,3.15,3.44,2.48,3.17,3.8,2.29,2.99,3.4
+Brazil,Serie A,2018,22/07/18,Sport Recife,Fluminense,1,2,A,2.21,3.34,3.55,2.21,3.4,4,2.1,3.25,3.57
+Brazil,Serie A,2018,22/07/18,Vasco,Gremio,1,0,H,3.91,3.06,2.22,3.91,3.13,2.27,3.64,3.02,2.17
+Brazil,Serie A,2018,22/07/18,Chapecoense-SC,Santos,0,0,D,2.73,3.21,2.81,2.94,3.21,2.92,2.78,3.05,2.64
+Brazil,Serie A,2018,22/07/18,Cruzeiro,Atletico-PR,2,1,H,1.45,4.26,9.28,1.47,4.5,9.28,1.44,4.11,7.92
+Brazil,Serie A,2018,24/07/18,Internacional,Ceara,1,0,H,1.49,3.98,8.94,1.53,4.24,8.94,1.47,3.97,7.58
+Brazil,Serie A,2018,25/07/18,Fluminense,Palmeiras,1,0,H,3.39,3.39,2.26,3.46,3.48,2.29,3.27,3.27,2.2
+Brazil,Serie A,2018,26/07/18,Atletico-MG,Parana,2,0,H,1.49,4.18,8.16,1.51,4.54,8.22,1.47,4.17,6.94
+Brazil,Serie A,2018,26/07/18,Corinthians,Cruzeiro,2,0,H,3.41,3.03,2.44,3.51,3.1,2.53,3.31,2.93,2.36
+Brazil,Serie A,2018,26/07/18,Santos,Flamengo RJ,1,1,D,2.8,3.14,2.8,2.9,3.14,2.83,2.75,3.03,2.69
+Brazil,Serie A,2018,26/07/18,Botafogo RJ,Chapecoense-SC,1,0,H,1.83,3.44,5.15,1.89,3.5,5.15,1.83,3.29,4.67
+Brazil,Serie A,2018,26/07/18,Gremio,Sao Paulo,2,1,H,1.88,3.33,5,2,3.37,5.06,1.9,3.17,4.49
+Brazil,Serie A,2018,26/07/18,Vitoria,Sport Recife,1,0,H,2.24,3.52,3.31,2.3,3.52,3.44,2.19,3.31,3.24
+Brazil,Serie A,2018,27/07/18,America MG,Internacional,2,1,H,3.03,3.07,2.65,3.15,3.22,2.68,2.97,3.03,2.5
+Brazil,Serie A,2018,28/07/18,Ceara,Fluminense,1,0,H,2.62,3.27,2.9,2.82,3.27,2.97,2.61,3.09,2.77
+Brazil,Serie A,2018,29/07/18,Palmeiras,Parana,3,0,H,1.32,4.99,13.55,1.35,5.25,13.55,1.31,4.85,10.39
+Brazil,Serie A,2018,29/07/18,Vasco,Corinthians,1,4,A,2.88,3.06,2.79,2.98,3.22,2.79,2.81,2.99,2.66
+Brazil,Serie A,2018,29/07/18,Atletico-PR,Vitoria,4,0,H,1.67,4.21,5.14,1.73,4.4,5.27,1.66,3.92,4.85
+Brazil,Serie A,2018,29/07/18,Cruzeiro,Sao Paulo,0,2,A,1.7,3.79,5.56,1.78,3.79,5.75,1.69,3.55,5.23
+Brazil,Serie A,2018,29/07/18,Flamengo RJ,Sport Recife,4,1,H,1.39,4.69,10.07,1.4,4.78,10.5,1.38,4.39,8.8
+Brazil,Serie A,2018,29/07/18,Internacional,Botafogo RJ,3,0,H,1.56,4,7,1.61,4.24,7,1.56,3.79,6.29
+Brazil,Serie A,2018,29/07/18,Chapecoense-SC,Gremio,1,1,D,2.43,3.01,3.46,2.52,3.04,3.54,2.38,2.88,3.33
+Brazil,Serie A,2018,29/07/18,Santos,America MG,0,1,A,1.47,4.17,9.04,1.5,4.33,9.04,1.45,4.07,7.57
+Brazil,Serie A,2018,31/07/18,Bahia,Atletico-MG,2,2,D,2.23,3.43,3.42,2.34,3.5,3.43,2.22,3.33,3.19
+Brazil,Serie A,2018,04/08/18,Botafogo RJ,Santos,0,0,D,2.81,3.14,2.79,2.86,3.2,2.83,2.71,3.07,2.7
+Brazil,Serie A,2018,04/08/18,Gremio,Flamengo RJ,2,0,H,3.28,2.86,2.64,3.3,3,2.78,3.1,2.8,2.59
+Brazil,Serie A,2018,05/08/18,Corinthians,Atletico-PR,0,0,D,2.35,3.09,3.53,2.45,3.37,3.98,2.26,3.03,3.41
+Brazil,Serie A,2018,05/08/18,America MG,Palmeiras,0,0,D,3.37,3.2,2.36,3.42,3.25,2.4,3.23,3.13,2.29
+Brazil,Serie A,2018,05/08/18,Parana,Ceara,0,1,A,2.13,3.11,4.13,2.18,3.2,4.27,2.07,3.03,3.97
+Brazil,Serie A,2018,05/08/18,Sao Paulo,Vasco,2,1,H,1.44,4.37,9.1,1.46,4.44,9.7,1.41,4.2,8.23
+Brazil,Serie A,2018,05/08/18,Vitoria,Cruzeiro,1,1,D,2.67,3.24,2.85,2.76,3.32,2.9,2.56,3.16,2.77
+Brazil,Serie A,2018,05/08/18,Fluminense,Bahia,1,1,D,2.05,3.36,4.04,2.1,3.36,4.13,2.03,3.23,3.82
+Brazil,Serie A,2018,05/08/18,Sport Recife,Chapecoense-SC,1,1,D,2.07,3.04,4.52,2.11,3.3,4.61,2,3.08,4.12
+Brazil,Serie A,2018,07/08/18,Atletico-MG,Internacional,0,1,A,2.31,3.35,3.33,2.31,3.42,3.4,2.21,3.28,3.23
+Brazil,Serie A,2018,08/08/18,Ceara,Santos,1,1,D,3.08,3.11,2.59,3.2,3.13,2.6,3.06,3,2.46
+Brazil,Serie A,2018,11/08/18,Ceara,Atletico-PR,0,0,D,2.26,3.34,3.43,2.45,3.34,3.6,2.26,3.1,3.34
+Brazil,Serie A,2018,11/08/18,Bahia,America MG,1,0,H,1.63,3.88,6.22,1.7,3.9,6.22,1.62,3.69,5.68
+Brazil,Serie A,2018,12/08/18,Atletico-MG,Santos,3,1,H,2.11,3.26,3.96,2.11,3.6,4.23,1.96,3.41,3.85
+Brazil,Serie A,2018,12/08/18,Parana,Botafogo RJ,1,1,D,2.77,3.04,2.92,2.8,3.06,3,2.69,2.94,2.84
+Brazil,Serie A,2018,12/08/18,Chapecoense-SC,Corinthians,2,1,H,1.89,3.36,4.82,1.98,3.5,4.89,1.89,3.21,4.55
+Brazil,Serie A,2018,12/08/18,Flamengo RJ,Cruzeiro,1,0,H,1.7,3.44,6.51,1.8,3.58,6.51,1.68,3.41,5.72
+Brazil,Serie A,2018,12/08/18,Sport Recife,Sao Paulo,1,3,A,3.07,3.17,2.55,3.37,3.25,2.56,3.04,3.12,2.4
+Brazil,Serie A,2018,12/08/18,Gremio,Vitoria,4,0,H,1.66,3.86,5.8,1.73,3.88,6.13,1.65,3.62,5.51
+Brazil,Serie A,2018,12/08/18,Palmeiras,Vasco,1,0,H,1.62,4.06,5.91,1.65,4.1,6.32,1.61,3.82,5.52
+Brazil,Serie A,2018,14/08/18,Fluminense,Internacional,0,3,A,2.65,3.09,3.01,2.85,3.15,3.09,2.59,2.98,2.9
+Brazil,Serie A,2018,18/08/18,Santos,Sport Recife,3,0,H,1.51,4.37,7.04,1.55,4.4,7.08,1.51,4.02,6.61
+Brazil,Serie A,2018,18/08/18,Corinthians,Gremio,0,1,A,3.62,2.98,2.38,3.66,2.98,2.6,3.32,2.83,2.44
+Brazil,Serie A,2018,19/08/18,Atletico-PR,Flamengo RJ,3,0,H,2.53,3.25,3.03,2.7,3.25,3.04,2.53,3.08,2.88
+Brazil,Serie A,2018,19/08/18,Internacional,Parana,1,0,H,1.44,4.26,9.42,1.45,4.75,10.5,1.41,4.22,8.32
+Brazil,Serie A,2018,19/08/18,Botafogo RJ,Atletico-MG,0,3,A,2.41,3.37,3.1,2.45,3.5,3.18,2.31,3.29,3.04
+Brazil,Serie A,2018,19/08/18,Cruzeiro,Bahia,1,1,D,1.47,4.02,9.85,1.48,4.24,10,1.44,3.94,8.48
+Brazil,Serie A,2018,19/08/18,Vitoria,Palmeiras,0,3,A,3.47,3.5,2.18,3.53,3.52,2.23,3.35,3.36,2.13
+Brazil,Serie A,2018,19/08/18,America MG,Fluminense,0,0,D,2.49,3.2,3.14,2.53,3.22,3.23,2.39,3.08,3.11
+Brazil,Serie A,2018,19/08/18,Sao Paulo,Chapecoense-SC,2,0,H,1.68,3.42,6.88,1.68,3.75,7.65,1.6,3.55,6.49
+Brazil,Serie A,2018,21/08/18,Vasco,Ceara,1,1,D,1.7,3.52,6.25,1.76,3.55,6.25,1.68,3.43,5.59
+Brazil,Serie A,2018,22/08/18,Bahia,Internacional,0,1,A,2.67,2.93,3.13,2.74,3,3.13,2.59,2.88,2.99
+Brazil,Serie A,2018,22/08/18,Parana,Sao Paulo,1,1,D,4.82,3.23,1.96,5.18,3.34,1.99,4.45,3.21,1.9
+Brazil,Serie A,2018,23/08/18,Palmeiras,Botafogo RJ,2,0,H,1.39,4.66,9.92,1.4,4.9,10.02,1.37,4.58,8.68
+Brazil,Serie A,2018,23/08/18,Sport Recife,America MG,0,2,A,1.94,3.26,4.72,2.01,3.5,4.75,1.92,3.23,4.27
+Brazil,Serie A,2018,23/08/18,Fluminense,Corinthians,1,0,H,2.16,3.14,4.02,2.33,3.22,4.15,2.1,3.06,3.83
+Brazil,Serie A,2018,23/08/18,Gremio,Cruzeiro,1,1,D,1.88,3.1,5.51,1.94,3.2,5.51,1.86,3.08,4.89
+Brazil,Serie A,2018,23/08/18,Flamengo RJ,Vitoria,1,0,H,1.28,5.57,13.69,1.36,5.65,13.69,1.29,5.19,10.83
+Brazil,Serie A,2018,24/08/18,Atletico-MG,Vasco,0,0,D,1.48,4.47,7.57,1.5,4.54,8.5,1.46,4.26,6.93
+Brazil,Serie A,2018,25/08/18,Santos,Bahia,2,0,H,1.83,3.43,5.13,1.87,3.43,5.28,1.81,3.32,4.76
+Brazil,Serie A,2018,25/08/18,Atletico-PR,Gremio,2,1,H,2.13,3.13,4.11,2.15,3.44,4.36,2.03,3.1,3.98
+Brazil,Serie A,2018,25/08/18,Corinthians,Parana,1,0,H,1.7,3.35,6.78,1.75,3.4,6.78,1.69,3.29,6.02
+Brazil,Serie A,2018,26/08/18,Botafogo RJ,Sport Recife,2,0,H,1.76,3.71,5.1,1.86,3.71,5.2,1.76,3.47,4.79
+Brazil,Serie A,2018,26/08/18,Cruzeiro,Fluminense,2,1,H,1.58,3.97,6.78,1.64,3.97,7,1.58,3.7,6.23
+Brazil,Serie A,2018,26/08/18,Sao Paulo,Ceara,1,0,H,1.41,4.49,9.86,1.42,4.75,12,1.38,4.4,9.07
+Brazil,Serie A,2018,26/08/18,America MG,Flamengo RJ,2,2,D,4.43,3.37,1.96,4.5,3.4,2.3,4.14,3.16,1.98
+Brazil,Serie A,2018,26/08/18,Internacional,Palmeiras,0,0,D,2.11,3.25,3.95,2.15,3.3,4,2.1,3.13,3.69
+Brazil,Serie A,2018,26/08/18,Vitoria,Atletico-MG,1,0,H,3.29,3.74,2.16,3.4,3.76,2.2,3.17,3.48,2.16
+Brazil,Serie A,2018,26/08/18,Vasco,Chapecoense-SC,3,1,H,1.98,3.32,4.42,2.01,3.34,4.7,1.94,3.17,4.29
+Brazil,Serie A,2018,29/08/18,Atletico-PR,Vasco,1,0,H,1.61,3.95,6.26,1.68,3.95,6.26,1.62,3.74,5.64
+Brazil,Serie A,2018,29/08/18,Ceara,Bahia,0,2,A,2.54,3.06,3.19,2.63,3.06,3.3,2.52,2.91,3.09
+Brazil,Serie A,2018,01/09/18,Gremio,Botafogo RJ,4,0,H,1.43,4.45,9.4,1.57,4.65,9.75,1.42,4.17,8.39
+Brazil,Serie A,2018,01/09/18,Vitoria,America MG,1,0,H,2.11,3.24,4,2.15,3.32,4.5,2.01,3.2,3.97
+Brazil,Serie A,2018,01/09/18,Vasco,Santos,0,3,A,2.6,3.09,3.08,2.7,3.1,3.16,2.56,3,2.94
+Brazil,Serie A,2018,02/09/18,Corinthians,Atletico-MG,1,1,D,2.95,3.27,2.58,3.02,3.27,2.8,2.86,3.12,2.54
+Brazil,Serie A,2018,02/09/18,Flamengo RJ,Ceara,0,1,A,1.33,4.99,12.24,1.4,5.25,12.75,1.34,4.6,10.14
+Brazil,Serie A,2018,02/09/18,Atletico-PR,Bahia,2,0,H,1.87,3.49,4.71,1.91,3.56,4.8,1.84,3.39,4.46
+Brazil,Serie A,2018,02/09/18,Sao Paulo,Fluminense,1,1,D,1.63,3.73,6.72,1.67,3.75,6.89,1.61,3.62,6.15
+Brazil,Serie A,2018,02/09/18,Sport Recife,Parana,1,0,H,1.85,3.39,5.09,1.94,3.52,5.09,1.86,3.27,4.57
+Brazil,Serie A,2018,02/09/18,Chapecoense-SC,Palmeiras,1,2,A,3.74,3.1,2.25,4,3.1,2.31,3.61,2.97,2.22
+Brazil,Serie A,2018,02/09/18,Cruzeiro,Internacional,0,0,D,2.04,3.11,4.48,2.15,3.2,4.48,2.04,3.03,4.11
+Brazil,Serie A,2018,05/09/18,Bahia,Sport Recife,2,0,H,1.65,3.83,6.01,1.69,3.83,6.25,1.64,3.6,5.66
+Brazil,Serie A,2018,05/09/18,Botafogo RJ,Cruzeiro,1,1,D,3.27,2.99,2.57,3.27,3.09,2.67,3.11,2.96,2.49
+Brazil,Serie A,2018,06/09/18,Ceara,Corinthians,2,1,H,2.32,3.06,3.61,2.38,3.1,3.71,2.26,2.96,3.55
+Brazil,Serie A,2018,06/09/18,Palmeiras,Atletico-PR,2,0,H,1.55,3.8,8.05,1.58,4,8.41,1.52,3.78,7.18
+Brazil,Serie A,2018,06/09/18,Parana,Chapecoense-SC,1,1,D,2.49,2.91,3.49,2.52,3,3.54,2.39,2.87,3.35
+Brazil,Serie A,2018,06/09/18,Atletico-MG,Sao Paulo,1,0,H,2.11,3.54,3.66,2.3,3.54,3.8,2.11,3.29,3.53
+Brazil,Serie A,2018,06/09/18,Internacional,Flamengo RJ,2,1,H,2.08,3,4.59,2.13,3.15,4.59,2.04,3.03,4.11
+Brazil,Serie A,2018,06/09/18,Fluminense,Vitoria,0,0,D,1.73,3.59,5.67,1.8,3.63,5.75,1.73,3.47,5.09
+Brazil,Serie A,2018,06/09/18,Santos,Gremio,0,0,D,2.69,2.82,3.27,2.7,3,3.3,2.57,2.84,3.09
+Brazil,Serie A,2018,07/09/18,America MG,Vasco,2,1,H,2.73,3.05,2.96,2.76,3.12,3.03,2.65,2.95,2.87
+Brazil,Serie A,2018,08/09/18,Sport Recife,Cruzeiro,0,0,D,3.69,3,2.34,3.76,3.06,2.39,3.5,2.91,2.29
+Brazil,Serie A,2018,08/09/18,Sao Paulo,Bahia,1,0,H,1.75,3.25,6.5,1.77,3.6,6.5,1.71,3.3,5.72
+Brazil,Serie A,2018,09/09/18,Flamengo RJ,Chapecoense-SC,2,0,H,1.52,3.94,8.3,1.53,4.1,9.2,1.5,3.8,7.34
+Brazil,Serie A,2018,09/09/18,America MG,Ceara,0,0,D,1.99,3.28,4.45,2.02,3.5,4.5,1.94,3.23,4.19
+Brazil,Serie A,2018,09/09/18,Fluminense,Botafogo RJ,1,0,H,2.46,3.13,3.25,2.59,3.13,3.3,2.47,3,3.05
+Brazil,Serie A,2018,09/09/18,Internacional,Gremio,1,0,H,2.55,2.86,3.43,2.6,2.9,3.5,2.5,2.77,3.3
+Brazil,Serie A,2018,09/09/18,Palmeiras,Corinthians,1,0,H,1.64,3.61,6.88,1.64,3.85,7.4,1.58,3.59,6.66
+Brazil,Serie A,2018,09/09/18,Parana,Santos,0,2,A,3.62,3,2.36,3.75,3.05,2.38,3.43,2.95,2.31
+Brazil,Serie A,2018,09/09/18,Vitoria,Vasco,1,0,H,2.34,3.27,3.34,2.35,3.3,3.46,2.26,3.16,3.28
+Brazil,Serie A,2018,11/09/18,Atletico-MG,Atletico-PR,3,1,H,1.98,3.31,4.45,2,3.4,4.7,1.93,3.28,4.18
+Brazil,Serie A,2018,14/09/18,Chapecoense-SC,Atletico-PR,2,1,H,3.09,2.89,2.75,3.13,3,2.92,2.89,2.83,2.75
+Brazil,Serie A,2018,15/09/18,Ceara,Vitoria,2,0,H,1.89,3.41,4.58,1.98,3.44,4.58,1.92,3.26,4.24
+Brazil,Serie A,2018,15/09/18,Gremio,Parana,2,0,H,1.55,3.8,7.48,1.56,4.1,9.17,1.52,3.78,7.29
+Brazil,Serie A,2018,15/09/18,Vasco,Flamengo RJ,1,1,D,5.41,3.69,1.71,5.56,3.74,1.78,5.13,3.49,1.72
+Brazil,Serie A,2018,16/09/18,Botafogo RJ,America MG,1,0,H,1.71,3.47,6,1.75,3.75,6.3,1.66,3.56,5.71
+Brazil,Serie A,2018,16/09/18,Atletico-PR,Fluminense,3,1,H,1.61,3.95,6.07,1.67,4.05,6.3,1.62,3.75,5.65
+Brazil,Serie A,2018,16/09/18,Bahia,Palmeiras,1,1,D,2.98,3.09,2.63,3.17,3.14,2.7,2.94,2.98,2.57
+Brazil,Serie A,2018,16/09/18,Cruzeiro,Atletico-MG,0,0,D,2.69,3.13,2.87,2.96,3.2,2.91,2.76,3.04,2.7
+Brazil,Serie A,2018,16/09/18,Santos,Sao Paulo,0,0,D,2.42,3.09,3.37,2.46,3.2,3.42,2.37,3,3.25
+Brazil,Serie A,2018,16/09/18,Corinthians,Sport Recife,2,1,H,1.64,3.65,6.44,1.66,3.75,7.08,1.63,3.51,6.21
+Brazil,Serie A,2018,18/09/18,Chapecoense-SC,Internacional,2,1,H,3.85,3.03,2.22,4,3.12,2.33,3.69,2.98,2.19
+Brazil,Serie A,2018,22/09/18,Sao Paulo,America MG,1,1,D,1.44,4.12,10.23,1.48,4.44,10.5,1.43,4.02,8.87
+Brazil,Serie A,2018,23/09/18,Gremio,Ceara,3,2,H,1.34,4.56,14,1.39,4.56,14,1.35,4.26,11.64
+Brazil,Serie A,2018,23/09/18,Atletico-PR,Parana,3,0,H,1.52,4.21,7.15,1.6,4.25,8,1.5,3.95,6.96
+Brazil,Serie A,2018,23/09/18,Corinthians,Internacional,1,1,D,2.78,2.92,2.98,2.84,3.06,3.1,2.69,2.86,2.92
+Brazil,Serie A,2018,23/09/18,Flamengo RJ,Atletico-MG,2,1,H,1.81,3.46,5.08,1.9,3.5,5.08,1.82,3.37,4.62
+Brazil,Serie A,2018,23/09/18,Sport Recife,Palmeiras,0,1,A,4.62,3.45,1.88,4.75,3.52,1.93,4.4,3.33,1.87
+Brazil,Serie A,2018,23/09/18,Vitoria,Botafogo RJ,3,4,A,2.87,3.14,2.71,2.9,3.18,2.9,2.72,3.02,2.75
+Brazil,Serie A,2018,23/09/18,Cruzeiro,Santos,2,1,H,2.43,3.01,3.41,2.5,3.06,3.43,2.42,2.91,3.26
+Brazil,Serie A,2018,25/09/18,Chapecoense-SC,Fluminense,1,2,A,2.28,3.07,3.67,2.31,3.25,4.05,2.21,3.04,3.57
+Brazil,Serie A,2018,25/09/18,Vasco,Bahia,2,1,H,2.06,3.44,3.84,2.1,3.44,4.2,2.05,3.24,3.79
+Brazil,Serie A,2018,28/09/18,Santos,Vasco,1,1,D,1.51,3.95,8.22,1.51,4.2,10,1.47,3.95,7.66
+Brazil,Serie A,2018,29/09/18,Fluminense,Gremio,0,1,A,3,3.11,2.67,3,3.11,3.05,2.82,2.95,2.7
+Brazil,Serie A,2018,29/09/18,America MG,Corinthians,0,0,D,2.41,2.98,3.56,2.5,3,3.7,2.35,2.87,3.44
+Brazil,Serie A,2018,30/09/18,Bahia,Flamengo RJ,0,0,D,2.78,3.18,2.81,2.8,3.2,2.88,2.72,3.05,2.71
+Brazil,Serie A,2018,30/09/18,Palmeiras,Cruzeiro,3,1,H,1.61,3.67,6.86,1.62,3.75,7.46,1.58,3.59,6.57
+Brazil,Serie A,2018,30/09/18,Atletico-MG,Sport Recife,5,2,H,1.35,4.86,10.67,1.4,5,10.67,1.35,4.69,9.09
+Brazil,Serie A,2018,30/09/18,Botafogo RJ,Sao Paulo,2,2,D,2.71,3.15,2.9,2.78,3.15,2.9,2.65,3.04,2.79
+Brazil,Serie A,2018,30/09/18,Internacional,Vitoria,2,1,H,1.32,5.15,11.04,1.35,5.2,12,1.31,4.97,9.95
+Brazil,Serie A,2018,30/09/18,Santos,Atletico-PR,1,0,H,1.96,3.32,4.52,1.98,3.4,4.58,1.93,3.23,4.23
+Brazil,Serie A,2018,30/09/18,Ceara,Chapecoense-SC,3,1,H,2.13,3.01,4.31,2.2,3.1,4.7,2.08,2.98,4.07
+Brazil,Serie A,2018,02/10/18,Parana,Vasco,1,1,D,2.96,3.04,2.75,3.09,3.04,2.85,2.89,2.91,2.65
+Brazil,Serie A,2018,05/10/18,Sport Recife,Internacional,2,1,H,4.24,3.41,1.99,4.58,3.41,2.05,4.04,3.27,1.96
+Brazil,Serie A,2018,06/10/18,Corinthians,Flamengo RJ,0,3,A,3.06,2.94,2.75,3.1,3,2.8,2.95,2.87,2.64
+Brazil,Serie A,2018,06/10/18,Vitoria,Santos,0,1,A,3.89,3.33,2.11,4,3.33,2.2,3.67,3.19,2.09
+Brazil,Serie A,2018,06/10/18,Atletico-PR,America MG,4,0,H,1.46,4.31,8.18,1.48,4.31,9.17,1.44,4.06,7.94
+Brazil,Serie A,2018,06/10/18,Chapecoense-SC,Atletico-MG,1,0,H,2.97,3.02,2.76,2.97,3.2,2.76,2.86,3.01,2.62
+Brazil,Serie A,2018,06/10/18,Sao Paulo,Palmeiras,0,2,A,2.76,2.92,3.07,2.78,3.05,3.07,2.66,2.89,2.91
+Brazil,Serie A,2018,07/10/18,Gremio,Bahia,2,2,D,1.37,4.68,10.04,1.4,4.85,11.45,1.36,4.41,9.83
+Brazil,Serie A,2018,09/10/18,Fluminense,Parana,4,0,H,1.53,3.67,8.78,1.53,3.9,9.55,1.5,3.72,7.67
+Brazil,Serie A,2018,10/10/18,Botafogo RJ,Vasco,1,1,D,2.18,3.11,3.96,2.25,3.25,3.96,2.15,3.09,3.65
+Brazil,Serie A,2018,13/10/18,Flamengo RJ,Fluminense,3,0,H,1.7,3.65,5.7,1.72,3.75,5.94,1.69,3.53,5.35
+Brazil,Serie A,2018,13/10/18,Santos,Corinthians,1,0,H,1.48,4.09,8.3,1.52,4.09,9,1.47,3.82,7.99
+Brazil,Serie A,2018,14/10/18,Bahia,Parana,2,0,H,1.36,4.45,12.22,1.4,4.75,12.22,1.36,4.3,9.98
+Brazil,Serie A,2018,14/10/18,Chapecoense-SC,Vitoria,0,1,A,1.83,3.33,5.28,1.87,3.45,5.4,1.81,3.28,4.86
+Brazil,Serie A,2018,14/10/18,Internacional,Sao Paulo,3,1,H,1.93,3.19,4.88,1.97,3.3,5,1.9,3.18,4.49
+Brazil,Serie A,2018,14/10/18,Palmeiras,Gremio,2,0,H,1.94,3.06,5.21,1.97,3.3,5.26,1.91,3.05,4.73
+Brazil,Serie A,2018,14/10/18,Vasco,Cruzeiro,2,0,H,2.22,3.15,3.81,2.27,3.21,3.81,2.16,3.07,3.61
+Brazil,Serie A,2018,14/10/18,Atletico-MG,America MG,0,0,D,1.59,3.95,6.47,1.59,4.05,8,1.55,3.87,6.21
+Brazil,Serie A,2018,14/10/18,Atletico-PR,Sport Recife,4,0,H,1.34,4.91,10.66,1.4,5.18,10.75,1.34,4.81,9.11
+Brazil,Serie A,2018,16/10/18,Ceara,Botafogo RJ,0,0,D,2.11,3.28,3.95,2.2,3.3,3.97,2.09,3.16,3.7
+Brazil,Serie A,2018,20/10/18,America MG,Gremio,1,1,D,2.8,3.03,2.91,2.92,3.03,2.96,2.73,2.92,2.83
+Brazil,Serie A,2018,20/10/18,Botafogo RJ,Bahia,0,1,A,2.41,2.95,3.61,2.41,3.11,3.75,2.29,2.98,3.47
+Brazil,Serie A,2018,20/10/18,Sao Paulo,Atletico-PR,0,0,D,2.18,3.08,4.01,2.25,3.25,4.01,2.15,3.03,3.7
+Brazil,Serie A,2018,20/10/18,Sport Recife,Vasco,2,1,H,2.77,3.17,2.83,2.85,3.2,2.84,2.69,3.11,2.7
+Brazil,Serie A,2018,21/10/18,Fluminense,Atletico-MG,1,0,H,2.51,3.26,3.07,2.63,3.26,3.08,2.47,3.14,2.93
+Brazil,Serie A,2018,21/10/18,Palmeiras,Ceara,2,1,H,1.39,4.41,10.51,1.43,4.41,11.45,1.39,4.21,9.3
+Brazil,Serie A,2018,21/10/18,Vitoria,Corinthians,2,2,D,2.45,3.03,3.42,2.56,3.03,3.45,2.41,2.93,3.27
+Brazil,Serie A,2018,21/10/18,Cruzeiro,Chapecoense-SC,3,0,H,1.57,3.96,6.73,1.62,3.97,7.27,1.56,3.72,6.45
+Brazil,Serie A,2018,21/10/18,Parana,Flamengo RJ,0,4,A,7.98,3.99,1.51,9.36,4.04,1.57,7.59,3.83,1.49
+Brazil,Serie A,2018,23/10/18,Internacional,Santos,2,2,D,1.81,3.41,5.3,1.91,3.41,5.56,1.81,3.25,4.91
+Brazil,Serie A,2018,24/10/18,Cruzeiro,Ceara,0,2,A,1.63,3.66,6.73,1.65,3.75,7.27,1.61,3.61,6.08
+Brazil,Serie A,2018,26/10/18,Vitoria,Sao Paulo,0,1,A,3.2,3.26,2.42,3.28,3.31,2.42,3.12,3.18,2.32
+Brazil,Serie A,2018,27/10/18,Vasco,Internacional,1,1,D,3.11,3.38,2.42,3.14,3.38,2.53,3.01,3.21,2.38
+Brazil,Serie A,2018,27/10/18,Gremio,Sport Recife,3,4,A,1.63,3.89,6.05,1.63,3.9,6.51,1.6,3.75,5.73
+Brazil,Serie A,2018,27/10/18,Santos,Fluminense,3,0,H,1.38,4.58,9.98,1.4,4.61,12.4,1.36,4.43,9.73
+Brazil,Serie A,2018,27/10/18,Chapecoense-SC,America MG,1,0,H,2,3.16,4.59,2.1,3.4,4.74,1.98,3.1,4.25
+Brazil,Serie A,2018,27/10/18,Corinthians,Bahia,2,1,H,2.21,2.94,4.18,2.24,3.15,4.4,2.08,3,4.01
+Brazil,Serie A,2018,27/10/18,Flamengo RJ,Palmeiras,1,1,D,2.22,3.08,3.89,2.23,3.3,4,2.15,3.06,3.7
+Brazil,Serie A,2018,28/10/18,Atletico-PR,Botafogo RJ,2,1,H,1.9,3.28,4.92,2.15,3.6,5,1.88,3.32,4.45
+Brazil,Serie A,2018,28/10/18,Cruzeiro,Parana,3,1,H,1.29,5.46,11.38,1.32,5.5,12,1.3,5.13,10.36
+Brazil,Serie A,2018,29/10/18,Ceara,Atletico-MG,2,1,H,2.46,3.19,3.22,2.6,3.28,3.25,2.4,3.1,3.07
+Brazil,Serie A,2018,03/11/18,Atletico-MG,Gremio,0,1,A,2.21,3.24,3.7,2.25,3.3,3.7,2.17,3.17,3.46
+Brazil,Serie A,2018,03/11/18,Fluminense,Vasco,0,1,A,2.82,3.15,2.79,3.2,3.15,2.83,2.79,3.07,2.64
+Brazil,Serie A,2018,03/11/18,Palmeiras,Santos,3,2,H,1.94,3.34,4.57,1.97,3.34,4.6,1.91,3.22,4.32
+Brazil,Serie A,2018,04/11/18,America MG,Cruzeiro,1,2,A,4.15,3.04,2.16,4.15,3.3,2.17,3.94,2.96,2.11
+Brazil,Serie A,2018,04/11/18,Botafogo RJ,Corinthians,1,0,H,2.09,3.13,4.26,2.15,3.2,4.26,2.05,3.08,3.97
+Brazil,Serie A,2018,04/11/18,Parana,Vitoria,1,1,D,3.28,3.13,2.46,3.4,3.2,2.46,3.2,3.06,2.35
+Brazil,Serie A,2018,04/11/18,Sao Paulo,Flamengo RJ,2,2,D,2.9,3.16,2.71,2.92,3.16,2.76,2.8,3.04,2.64
+Brazil,Serie A,2018,04/11/18,Bahia,Chapecoense-SC,1,0,H,1.64,3.66,6.48,1.7,3.75,6.7,1.64,3.5,5.86
+Brazil,Serie A,2018,04/11/18,Internacional,Atletico-PR,2,1,H,1.52,4.01,7.59,1.56,4.01,8,1.51,3.88,6.94
+Brazil,Serie A,2018,05/11/18,Sport Recife,Ceara,1,0,H,2.24,3.14,3.75,2.25,3.3,3.75,2.19,3.11,3.49
+Brazil,Serie A,2018,10/11/18,America MG,Parana,0,1,A,1.46,4.05,9.17,1.48,4.2,9.75,1.45,3.96,8.1
+Brazil,Serie A,2018,10/11/18,Corinthians,Sao Paulo,1,1,D,2.57,3.03,3.21,2.65,3.1,3.21,2.52,2.95,3.03
+Brazil,Serie A,2018,10/11/18,Atletico-PR,Cruzeiro,2,0,H,2.1,3.21,4.1,2.15,3.35,4.1,2.07,3.18,3.78
+Brazil,Serie A,2018,10/11/18,Botafogo RJ,Flamengo RJ,2,1,H,4.15,3.54,1.96,4.4,3.54,1.99,4.01,3.37,1.93
+Brazil,Serie A,2018,11/11/18,Atletico-MG,Palmeiras,1,1,D,2.68,3.21,2.89,2.75,3.3,2.89,2.61,3.14,2.76
+Brazil,Serie A,2018,11/11/18,Ceara,Internacional,1,1,D,2.82,2.98,2.94,2.85,3.2,2.94,2.73,2.94,2.78
+Brazil,Serie A,2018,11/11/18,Gremio,Vasco,2,1,H,1.41,4.64,8.74,1.41,4.64,11,1.39,4.42,8.5
+Brazil,Serie A,2018,11/11/18,Vitoria,Bahia,2,2,D,2.84,3.1,2.81,2.89,3.2,2.81,2.75,3.03,2.69
+Brazil,Serie A,2018,11/11/18,Fluminense,Sport Recife,0,0,D,1.92,3.47,4.44,1.93,3.54,4.53,1.88,3.38,4.24
+Brazil,Serie A,2018,12/11/18,Santos,Chapecoense-SC,0,1,A,1.66,3.6,6.4,1.66,4,7,1.6,3.63,6.09
+Brazil,Serie A,2018,14/11/18,Bahia,Ceara,2,1,H,1.81,3.25,5.7,1.83,3.34,5.7,1.78,3.24,5.18
+Brazil,Serie A,2018,15/11/18,Chapecoense-SC,Botafogo RJ,0,1,A,2.15,3.07,4.14,2.17,3.12,4.14,2.12,3.02,3.83
+Brazil,Serie A,2018,14/11/18,Cruzeiro,Corinthians,1,0,H,2.08,3.07,4.41,2.11,3.2,4.41,2.03,3.03,4.12
+Brazil,Serie A,2018,15/11/18,Flamengo RJ,Santos,1,0,H,1.7,3.71,5.56,1.73,3.71,5.75,1.69,3.55,5.27
+Brazil,Serie A,2018,15/11/18,Internacional,America MG,2,0,H,1.35,4.81,10.75,1.39,4.9,10.76,1.35,4.58,9.24
+Brazil,Serie A,2018,14/11/18,Palmeiras,Fluminense,3,0,H,1.36,4.84,9.98,1.38,4.85,11,1.35,4.58,9.32
+Brazil,Serie A,2018,14/11/18,Parana,Atletico-MG,0,1,A,7.16,4.05,1.53,7.25,4.05,1.56,6.76,3.86,1.52
+Brazil,Serie A,2018,15/11/18,Sao Paulo,Gremio,1,1,D,2.91,2.91,2.91,2.98,2.96,2.92,2.81,2.87,2.77
+Brazil,Serie A,2018,14/11/18,Sport Recife,Vitoria,0,0,D,2.04,3.39,4.05,2.07,3.41,4.05,1.99,3.31,3.83
+Brazil,Serie A,2018,14/11/18,Vasco,Atletico-PR,1,1,D,3.07,3.05,2.65,3.07,3.13,2.7,2.92,3.04,2.55
+Brazil,Serie A,2018,17/11/18,Corinthians,Vasco,1,0,H,1.76,3.5,5.47,1.82,3.5,5.52,1.74,3.35,5.18
+Brazil,Serie A,2018,17/11/18,Vitoria,Atletico-PR,1,2,A,2.78,3.38,2.67,2.83,3.4,2.67,2.73,3.22,2.57
+Brazil,Serie A,2018,17/11/18,Atletico-MG,Bahia,1,0,H,1.72,3.63,5.58,1.75,3.75,5.58,1.71,3.56,5.08
+Brazil,Serie A,2018,18/11/18,America MG,Santos,2,1,H,3.37,3.08,2.44,3.5,3.11,2.44,3.34,3.01,2.31
+Brazil,Serie A,2018,18/11/18,Botafogo RJ,Internacional,1,0,H,3.04,2.94,2.77,3.04,3,2.82,2.9,2.89,2.68
+Brazil,Serie A,2018,18/11/18,Parana,Palmeiras,1,1,D,17.68,6.97,1.15,29,8.6,1.17,20.23,6.98,1.15
+Brazil,Serie A,2018,18/11/18,Sport Recife,Flamengo RJ,0,1,A,3.42,3.32,2.29,3.6,3.33,2.29,3.38,3.21,2.19
+Brazil,Serie A,2018,18/11/18,Gremio,Chapecoense-SC,2,0,H,1.49,4.07,8.08,1.5,4.4,9,1.46,4.04,7.59
+Brazil,Serie A,2018,18/11/18,Sao Paulo,Cruzeiro,1,0,H,2.01,2.97,5.02,2.04,3.25,5.02,1.94,3.05,4.5
+Brazil,Serie A,2018,19/11/18,Fluminense,Ceara,0,0,D,1.98,3.18,4.69,2.05,3.25,4.69,1.96,3.13,4.32
+Brazil,Serie A,2018,21/11/18,Internacional,Atletico-MG,1,2,A,1.86,3.5,4.75,1.87,3.6,5,1.81,3.4,4.58
+Brazil,Serie A,2018,21/11/18,Santos,Botafogo RJ,1,1,D,1.95,3.18,4.84,1.97,3.4,5.25,1.91,3.18,4.41
+Brazil,Serie A,2018,21/11/18,Atletico-PR,Corinthians,1,0,H,1.47,4.38,7.76,1.49,4.4,8.5,1.45,4.11,7.4
+Brazil,Serie A,2018,21/11/18,Cruzeiro,Vitoria,3,0,H,1.73,3.84,5.09,1.73,4,5.5,1.68,3.64,5.09
+Brazil,Serie A,2018,21/11/18,Flamengo RJ,Gremio,2,0,H,2.2,3.05,4,2.21,3.11,4.03,2.14,3.02,3.75
+Brazil,Serie A,2018,21/11/18,Palmeiras,America MG,4,0,H,1.28,5.38,13.05,1.31,5.45,16,1.28,5.07,11.43
+Brazil,Serie A,2018,22/11/18,Vasco,Sao Paulo,2,0,H,2.51,3.13,3.2,2.58,3.13,3.27,2.43,3.01,3.08
+Brazil,Serie A,2018,22/11/18,Bahia,Fluminense,2,0,H,1.62,3.82,6.29,1.65,3.82,6.8,1.59,3.67,6.02
+Brazil,Serie A,2018,22/11/18,Ceara,Parana,1,0,H,1.34,5.03,10.38,1.36,5.25,11,1.33,4.78,9.7
+Brazil,Serie A,2018,22/11/18,Chapecoense-SC,Sport Recife,2,1,H,1.86,3.37,4.99,1.89,3.37,5.15,1.83,3.23,4.78
+Brazil,Serie A,2018,24/11/18,Santos,Atletico-MG,3,2,H,2.44,3.18,3.2,2.51,3.26,3.2,2.4,3.08,3.06
+Brazil,Serie A,2018,25/11/18,Atletico-PR,Ceara,2,2,D,1.89,3.26,4.84,1.9,3.38,5,1.86,3.23,4.57
+Brazil,Serie A,2018,25/11/18,Cruzeiro,Flamengo RJ,0,2,A,2.7,3.03,2.97,2.8,3.1,3.02,2.63,2.97,2.87
+Brazil,Serie A,2018,25/11/18,Vasco,Palmeiras,0,1,A,4.04,3.14,2.12,4.15,3.32,2.12,3.84,3.15,2.05
+Brazil,Serie A,2018,25/11/18,Vitoria,Gremio,0,0,D,4.37,3.7,1.85,4.7,3.7,1.87,4.35,3.51,1.82
+Brazil,Serie A,2018,25/11/18,America MG,Bahia,1,0,H,2.09,3.04,4.32,2.11,3.14,4.5,2.03,3.02,4.15
+Brazil,Serie A,2018,25/11/18,Corinthians,Chapecoense-SC,0,0,D,2.04,2.99,4.64,2.1,3.1,4.66,2.02,2.95,4.3
+Brazil,Serie A,2018,25/11/18,Internacional,Fluminense,2,0,H,1.44,4.45,7.71,1.48,4.45,9.5,1.44,4.22,7.45
+Brazil,Serie A,2018,26/11/18,Botafogo RJ,Parana,2,1,H,1.28,5.37,11.43,1.33,5.48,12.5,1.3,5.02,10.26
+Brazil,Serie A,2018,26/11/18,Sao Paulo,Sport Recife,0,0,D,1.37,4.8,8.83,1.45,4.8,9.2,1.4,4.42,8.09
+Brazil,Serie A,2018,01/12/18,Atletico-MG,Botafogo RJ,1,0,H,1.32,5.32,9.3,1.36,5.45,10.5,1.33,4.92,9.15
+Brazil,Serie A,2018,01/12/18,Flamengo RJ,Atletico-PR,1,2,A,1.45,4.67,6.98,1.5,4.7,8.5,1.43,4.47,6.97
+Brazil,Serie A,2018,02/12/18,Bahia,Cruzeiro,0,0,D,1.92,3.55,4.21,1.98,3.6,4.33,1.92,3.41,4.02
+Brazil,Serie A,2018,02/12/18,Ceara,Vasco,0,0,D,2.41,2.92,3.58,2.42,3,3.62,2.33,2.9,3.43
+Brazil,Serie A,2018,02/12/18,Chapecoense-SC,Sao Paulo,1,0,H,2.31,3.24,3.39,2.33,3.25,3.46,2.26,3.11,3.31
+Brazil,Serie A,2018,02/12/18,Fluminense,America MG,1,0,H,2.18,3.29,3.63,2.26,3.3,3.8,2.16,3.16,3.53
+Brazil,Serie A,2018,02/12/18,Gremio,Corinthians,1,0,H,1.3,5.11,11.32,1.34,5.25,13,1.31,4.81,10.64
+Brazil,Serie A,2018,02/12/18,Palmeiras,Vitoria,3,2,H,1.19,7.39,13.16,1.2,7.8,21,1.17,7.15,14.77
+Brazil,Serie A,2018,02/12/18,Parana,Internacional,1,1,D,5.14,3.4,1.81,5.3,3.5,1.83,4.85,3.36,1.78
+Brazil,Serie A,2018,02/12/18,Sport Recife,Santos,2,1,H,1.64,3.79,5.87,1.66,3.85,6.65,1.61,3.7,5.75
