@@ -1,5 +1,6 @@
 import requests
 import logging
+import json
 
 from services.matchesParamsPrepare import *
 from config.defs import *
@@ -12,10 +13,18 @@ logging.basicConfig(filename='logs.txt', level=logging.DEBUG, format='%(asctime)
 matchesDataset = matchesParamsPrepare()
 output = []
 
+def exportToJson():
+  global output
+  with open('br-league.json', 'w') as f:
+    json.dump(output, f, indent=2, sort_keys=True)
+
 def fetch_url(m):
   global output
   res = requests.get(BASE_URL.format(m["home"], m["away"], m["date"]))
-  output.append(scraper().getResponseInfo(m, res.json()))
+  try:
+    output.append(scraper().getResponseInfo(m, res.json()))
+  except ValueError:
+    logging.debug('Erro ao consultar os dados da partida: {} x {} ocorrida em {}'.format(m["home"], m["away"], m["date"]))
 
 if __name__ == "__main__":
   pool = ThreadPool(processes=8)
@@ -23,4 +32,4 @@ if __name__ == "__main__":
   pool.close()
   pool.join()
 
-print (output)
+exportToJson()
