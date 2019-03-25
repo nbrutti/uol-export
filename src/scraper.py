@@ -40,60 +40,103 @@ class scraper(object):
       minuto = int(res["placar"]["eventos"][column][index]["minuto"]) + self.getPeriodo(res, column, index)
     return minuto
 
-  def addSubstitutions(self, M, res):
-    for i in range(len(res["placar"]["eventos"]["substituicoes"])):
-      if (str(res["placar"]["eventos"]["substituicoes"][i]["periodo"]) == 'intervalo-de-jogo'):
-        self.__data["substitution_{}_time".format(i)] = 'INTERVALO'
-      else:
-        self.__data["substitution_{}_time".format(i)] = str(self.getMinuto(res, i, "substituicoes"))
-      self.__data["substitution_{}_team_id".format(i)] = res["placar"]["eventos"]["substituicoes"][i]["id-equipe"]
-      
-      # Incluir hiperparâmetro relacionado aos scouts do jogador
+  def getPlayerPosById(self, res, pid):
+    for id in res["placar"]["escalacao"]["jogadores-geral"]:
+      if (id == pid):
+        return res["placar"]["escalacao"]["jogadores-geral"][id]["posicao"]
+    return None
 
-      s = Substitution.create(time=self.__data["substitution_{}_time".format(i)])
-      s.save()
+  def getSubTactialType(self, res, substitution):
+    player_in_pos = self.getPlayerPosById(res, substitution["id_player_in"])
+    player_out_pos = self.getPlayerPosById(res, substitution["id_player_out"])
+    if (player_in_pos is None or player_out_pos is None):
+      raise("Não foi possível extrair as posições do jogador")
+      return
+    if (player_in_pos == player_out_pos):
+      return "NA"
+    elif (player_in_pos in ['Meia', 'Meia-atacante', 'Atacante']):
+      if (player_out_pos in ['Lateral-direito', 'Zagueiro', 'Lateral-esquerdo', 'Volante']):
+        return "OFF"
+      elif (player_out_pos in ['Atacante']):
+        if (player_in_pos not in ['Atacante', 'Meia-atacante']):
+          return "DEF"
+      else:
+        return "NA"
+    else:
+      return "DEF"
+
+  def addSubstitutions(self, M, res):
+    self.__data["substitutions"] = []
+    
+    for i in range(len(res["placar"]["eventos"]["substituicoes"])):
+      substitution = {}
+      if (str(res["placar"]["eventos"]["substituicoes"][i]["periodo"]) == 'intervalo-de-jogo'):
+        substitution["time"] = 'INTERVALO'
+      else:
+        substitution["time"] = str(self.getMinuto(res, i, "substituicoes"))
+      substitution["team_id".format(i)] = res["placar"]["eventos"]["substituicoes"][i]["id-equipe"]
+      
+      substitution["id_player_out"] = res["placar"]["eventos"]["substituicoes"][i]["id-jogador"]
+      substitution["id_player_in"] = res["placar"]["eventos"]["substituicoes"][i]["id-jogador-substituto"]
+      substitution["tactical_type"] = self.getSubTactialType(res, substitution)
+
+      s = Substitution.create(time=substitution["time"], tactical_type=self.getSubTactialType(res, substitution)).save()
       MatchSubstitution.create(match=M, substitution=s).save()
+      self.__data["substitutions"].append(substitution)
 
   def addPenalty(self, M, res):
+    self.__data["penaltys"] = []
+
     for i in range(len(res["placar"]["eventos"]["penaltis"])):
-      self.__data["penalty_{}_time".format(i)] = str(self.getMinuto(res, i, "penaltis"))
-      self.__data["penalty_{}_team_id".format(i)] = res["placar"]["eventos"]["penaltis"][i]["id-equipe"]
-      p = Penalty.create(time=self.__data["penalty_{}_time".format(i)])
-      p.save()
+      penalty = {}
+      penalty["time"] = str(self.getMinuto(res, i, "penaltis"))
+      penalty["team_id"] = res["placar"]["eventos"]["penaltis"][i]["id-equipe"]
+      p = Penalty.create(time=penalty["time"]).save()
       MatchPenalty.create(match=M, penalty=p).save()
+      self.__data["penaltys"].append(penalty)
 
   def addYellowCards(self, M, res):
+    self.__data["yellowcards"] = []
+
     for i in range(len(res["placar"]["eventos"]["cartoes-amarelos"])):
-      self.__data["yellowcard_{}_time".format(i)] = str(self.getMinuto(res, i, "cartoes-amarelos"))
-      self.__data["yellowcard_{}_team_id".format(i)] = res["placar"]["eventos"]["cartoes-amarelos"][i]["id-equipe"]
-      self.__data["yellowcard_{}_player_id".format(i)] = res["placar"]["eventos"]["cartoes-amarelos"][i]["id-jogador"]
-      y = YellowCard.create(time=self.__data["yellowcard_{}_time".format(i)], player_id=self.__data["yellowcard_{}_player_id".format(i)])
-      y.save()
+      yellowcard = {}
+      yellowcard["time"] = str(self.getMinuto(res, i, "cartoes-amarelos"))
+      yellowcard["team_id"] = res["placar"]["eventos"]["cartoes-amarelos"][i]["id-equipe"]
+      yellowcard["player_id"] = res["placar"]["eventos"]["cartoes-amarelos"][i]["id-jogador"]
+      y = YellowCard.create(time=yellowcard["time"], player_id=yellowcard["player_id"]).save()
       MatchYcard.create(match=M, y_card=y).save()
+      self.__data["yellowcards"].append(yellowcard)
 
   def addRedCards(self, M, res):
+    self.__data["redcards"] = []
+
     for i in range(len(res["placar"]["eventos"]["cartoes-vermelhos"])):
-      self.__data["redcard_{}_time".format(i)] = str(self.getMinuto(res, i, "cartoes-vermelhos"))
-      self.__data["redcard_{}_team_id".format(i)] = res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-equipe"]
-      self.__data["redcard_{}_player_id".format(i)] = res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-jogador"]
-      r = RedCard.create(time=self.__data["redcard_{}_time".format(i)], player_id=self.__data["redcard_{}_player_id".format(i)])
-      r.save()
+      redcard = {}
+      redcard["time"] = str(self.getMinuto(res, i, "cartoes-vermelhos"))
+      redcard["team_id"] = res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-equipe"]
+      redcard["player_id"] = res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-jogador"]
+      r = RedCard.create(time=redcard["time"], player_id=redcard["player_id"]).save()
       MatchRcard.create(match=M, r_card=r).save()
+      self.__data["redcards"].append(redcard)
 
   def addGoalsAgainst(self, M, res):
+    self.__data["againstgoals"] = []
+
     for i in range(len(res["placar"]["eventos"]["gols-contra"])):
-      self.__data["goal_against_{}_time".format(i)] = str(self.getMinuto(res, i, "gols-contra"))
-      self.__data["goal_against_{}_team_id".format(i)] = res["placar"]["eventos"]["gols-contra"][i]["id-equipe"]
-      self.__data["goal_against_{}_player_id".format(i)] = res["placar"]["eventos"]["gols-contra"][i]["id-jogador"]
-      ga = GoalsAgainst.create(time=self.__data["goal_against_{}_time".format(i)], player_id=self.__data["goal_against_{}_player_id".format(i)])
-      ga.save()
+      againstgoal = {}
+      againstgoal["time"] = str(self.getMinuto(res, i, "gols-contra"))
+      againstgoal["team_id"] = res["placar"]["eventos"]["gols-contra"][i]["id-equipe"]
+      againstgoal["player_id"] = res["placar"]["eventos"]["gols-contra"][i]["id-jogador"]
+      ga = GoalsAgainst.create(time=againstgoal["time"], player_id=againstgoal["player_id"]).save()
       MatchAgainstGoal.create(match=M, against_goal=ga).save()
 
   def addGoals(self, M, res):
+    self.__data["goals"] = []
+
     for i in range(len(res["placar"]["eventos"]["gols"])):
-      self.__data["goal_{}_time".format(i)] = str(self.getMinuto(res, i, "gols"))
-      self.__data["goal_{}_team_id".format(i)] = res["placar"]["eventos"]["gols"][i]["id-equipe"]
-      self.__data["goal_{}_player_id".format(i)] = res["placar"]["eventos"]["gols"][i]["id-jogador"]
-      g = Goal.create(time=self.__data["goal_{}_time".format(i)], player_id=self.__data["goal_{}_player_id".format(i)])
-      g.save()
+      goal = {}
+      goal["time"] = str(self.getMinuto(res, i, "gols"))
+      goal["team_id"] = res["placar"]["eventos"]["gols"][i]["id-equipe"]
+      goal["player_id"] = res["placar"]["eventos"]["gols"][i]["id-jogador"]
+      g = Goal.create(time=goal["time"], player_id=goal["player_id"]).save()
       MatchGoal.create(match=M, goal=g).save()

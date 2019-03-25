@@ -20,6 +20,7 @@ class Match(BaseModel):
 class Substitution(BaseModel):
   # Pode ser INTERVALO
   time = peewee.CharField()
+  tactical_type = peewee.CharField(null=True)
 
   class Meta:
     db_table = 'substitutions'
