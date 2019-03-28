@@ -15,7 +15,7 @@ output = []
 
 def exportToJson():
   global output
-  with open('br-league.json', 'w') as f:
+  with open('output/br-league.json', 'w+') as f:
     json.dump(output, f, indent=2, sort_keys=True)
 
 def fetch_url(m):
