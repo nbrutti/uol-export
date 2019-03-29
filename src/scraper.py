@@ -1,4 +1,5 @@
 from models.Models import *
+from services.matchesParamsPrepare import *
 
 class scraper(object):
 
@@ -18,6 +19,7 @@ class scraper(object):
     self.addPenalty(M, res)
     self.addSubstitutions(M, res)
     self.addYellowCards(M, res)
+    self.addRedCards(M, res)
     self.addGoalsAgainst(M, res)
     self.addGoals(M, res)
 
@@ -74,7 +76,7 @@ class scraper(object):
         substitution["time"] = 'INTERVALO'
       else:
         substitution["time"] = str(self.getMinuto(res, i, "substituicoes"))
-      substitution["team_id".format(i)] = res["placar"]["eventos"]["substituicoes"][i]["id-equipe"]
+      substitution["team"] = matchesParamsPrepare()._teamConverter(res["placar"]["eventos"]["substituicoes"][i]["nome-equipe"])
       
       substitution["id_player_out"] = res["placar"]["eventos"]["substituicoes"][i]["id-jogador"]
       substitution["id_player_in"] = res["placar"]["eventos"]["substituicoes"][i]["id-jogador-substituto"]
@@ -90,7 +92,7 @@ class scraper(object):
     for i in range(len(res["placar"]["eventos"]["penaltis"])):
       penalty = {}
       penalty["time"] = str(self.getMinuto(res, i, "penaltis"))
-      penalty["team_id"] = res["placar"]["eventos"]["penaltis"][i]["id-equipe"]
+      penalty["team"] = matchesParamsPrepare()._teamConverter(res["placar"]["eventos"]["penaltis"][i]["nome-equipe"])
       p = Penalty.create(time=penalty["time"]).save()
       MatchPenalty.create(match=M, penalty=p).save()
       self.__data["penaltys"].append(penalty)
@@ -101,7 +103,7 @@ class scraper(object):
     for i in range(len(res["placar"]["eventos"]["cartoes-amarelos"])):
       yellowcard = {}
       yellowcard["time"] = str(self.getMinuto(res, i, "cartoes-amarelos"))
-      yellowcard["team_id"] = res["placar"]["eventos"]["cartoes-amarelos"][i]["id-equipe"]
+      yellowcard["team"] = matchesParamsPrepare()._teamConverter(res["placar"]["eventos"]["cartoes-amarelos"][i]["nome-equipe"])
       yellowcard["player_id"] = res["placar"]["eventos"]["cartoes-amarelos"][i]["id-jogador"]
       y = YellowCard.create(time=yellowcard["time"], player_id=yellowcard["player_id"]).save()
       MatchYcard.create(match=M, y_card=y).save()
@@ -113,7 +115,7 @@ class scraper(object):
     for i in range(len(res["placar"]["eventos"]["cartoes-vermelhos"])):
       redcard = {}
       redcard["time"] = str(self.getMinuto(res, i, "cartoes-vermelhos"))
-      redcard["team_id"] = res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-equipe"]
+      redcard["team"] = matchesParamsPrepare()._teamConverter(res["placar"]["eventos"]["cartoes-vermelhos"][i]["nome-equipe"])
       redcard["player_id"] = res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-jogador"]
       r = RedCard.create(time=redcard["time"], player_id=redcard["player_id"]).save()
       MatchRcard.create(match=M, r_card=r).save()
@@ -125,7 +127,7 @@ class scraper(object):
     for i in range(len(res["placar"]["eventos"]["gols-contra"])):
       againstgoal = {}
       againstgoal["time"] = str(self.getMinuto(res, i, "gols-contra"))
-      againstgoal["team_id"] = res["placar"]["eventos"]["gols-contra"][i]["id-equipe"]
+      againstgoal["team"] = matchesParamsPrepare()._teamConverter(res["placar"]["eventos"]["gols-contra"][i]["nome-equipe"])
       againstgoal["player_id"] = res["placar"]["eventos"]["gols-contra"][i]["id-jogador"]
       ga = GoalsAgainst.create(time=againstgoal["time"], player_id=againstgoal["player_id"]).save()
       MatchAgainstGoal.create(match=M, against_goal=ga).save()
@@ -136,7 +138,8 @@ class scraper(object):
     for i in range(len(res["placar"]["eventos"]["gols"])):
       goal = {}
       goal["time"] = str(self.getMinuto(res, i, "gols"))
-      goal["team_id"] = res["placar"]["eventos"]["gols"][i]["id-equipe"]
+      goal["team"] = matchesParamsPrepare()._teamConverter(res["placar"]["eventos"]["gols"][i]["nome-equipe"])
       goal["player_id"] = res["placar"]["eventos"]["gols"][i]["id-jogador"]
       g = Goal.create(time=goal["time"], player_id=goal["player_id"]).save()
       MatchGoal.create(match=M, goal=g).save()
+      self.__data["goals"].append(goal)
