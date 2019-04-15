@@ -13,7 +13,7 @@ class scraper(object):
       "away": m["away"],
     }
     
-    M = Match.create(team_home_id=self.home_id, team_away_id=self.away_id, team_home=m["home"], team_away=m["away"], date=m["date"])
+    M = Match.create(team_home_id=self.home_id, team_away_id=self.away_id, team_home=m["home"], team_away=m["away"], date=m["date"], home_win=self.addHomeWin(res))
     M.save()
 
     self.addPenalty(M, res)
@@ -22,6 +22,7 @@ class scraper(object):
     self.addRedCards(M, res)
     self.addGoalsAgainst(M, res)
     self.addGoals(M, res)
+    self.getOrCreateTeams()
 
     print (self.__data)
     return self.__data
@@ -143,3 +144,18 @@ class scraper(object):
       g = Goal.create(time=goal["time"], player_id=goal["player_id"]).save()
       MatchGoal.create(match=M, goal=g).save()
       self.__data["goals"].append(goal)
+
+  def addHomeWin(self, res):
+    winner = 0
+    if (res["placar"]["partida"]["fim"]["saldo-gols"][0] > res["placar"]["partida"]["fim"]["saldo-gols"][1]):
+      winner = 1
+    elif (res["placar"]["partida"]["fim"]["saldo-gols"][0] < res["placar"]["partida"]["fim"]["saldo-gols"][1]):
+      winner = -1
+    else:
+      winner = 0
+    self.__data["home_win"] = winner
+    return winner
+
+  def getOrCreateTeams(self):
+    Team.get_or_create(api_id=self.__data["home_id"], name=self.__data["home"])
+    Team.get_or_create(api_id=self.__data["away_id"], name=self.__data["away"])

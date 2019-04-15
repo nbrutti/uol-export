@@ -13,6 +13,7 @@ class Match(BaseModel):
   team_home = peewee.CharField()
   team_away = peewee.CharField()
   date = peewee.DateField()
+  home_win = peewee.IntegerField()
 
   class Meta:
     db_table = 'matches'
@@ -59,6 +60,13 @@ class Goal(BaseModel):
   class Meta:
     db_table = 'goals'
 
+class Team(BaseModel):
+  api_id = peewee.IntegerField()
+  name = peewee.CharField()
+
+  class Meta:
+    db_table = "teams"
+
 ### Relationships ###
 
 class MatchSubstitution(BaseModel):
@@ -103,5 +111,5 @@ class MatchGoal(BaseModel):
   class Meta:
     db_table = 'match_goals'
 
-db.create_tables([Match, Substitution, Penalty, YellowCard, RedCard, GoalsAgainst, Goal])
+db.create_tables([Match, Substitution, Penalty, YellowCard, RedCard, GoalsAgainst, Goal, Team])
 db.create_tables([MatchSubstitution, MatchPenalty, MatchYcard, MatchRcard, MatchAgainstGoal, MatchGoal])
