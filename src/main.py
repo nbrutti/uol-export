@@ -27,7 +27,7 @@ def fetch_url(m):
     logging.debug('Erro ao consultar os dados da partida: {} x {} ocorrida em {}'.format(m["home"], m["away"], m["date"]))
 
 if __name__ == "__main__":
-  pool = ThreadPool(processes=8)
+  pool = ThreadPool(processes=4)
   results = pool.map(fetch_url, matchesDataset.matches)
   pool.close()
   pool.join()
