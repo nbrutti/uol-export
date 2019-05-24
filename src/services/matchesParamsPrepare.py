@@ -26,6 +26,17 @@ class matchesParamsPrepare(object):
         match["home"] = self._teamConverter(row["Home"])
         match["away"] = self._teamConverter(row["Away"])
         match["date"] = self._dateConverter(row["Date"])
+        match["HG"] = row["HG"]
+        match["AG"] = row["AG"]
+        match["PH"] = row["PH"]
+        match["PD"] = row["PD"]
+        match["PA"] = row["PA"]
+        match["MaxH"] = row["MaxH"]
+        match["MaxD"] = row["MaxD"]
+        match["MaxA"] = row["MaxA"]
+        match["AvgH"] = row["AvgH"]
+        match["AvgD"] = row["AvgD"]
+        match["AvgA"] = row["AvgA"]
         self.matches.append(match)
 
         

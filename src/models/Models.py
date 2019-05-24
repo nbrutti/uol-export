@@ -14,6 +14,17 @@ class Match(BaseModel):
   team_away = peewee.CharField()
   date = peewee.DateField()
   home_win = peewee.IntegerField()
+  hg = peewee.FloatField()
+  ag = peewee.FloatField()
+  ph = peewee.FloatField()
+  pd = peewee.FloatField()
+  pa = peewee.FloatField()
+  max_h = peewee.FloatField()
+  max_d = peewee.FloatField()
+  max_a = peewee.FloatField()
+  avg_h = peewee.FloatField()
+  avg_d = peewee.FloatField()
+  avg_a = peewee.FloatField()
 
   class Meta:
     db_table = 'matches'
@@ -63,7 +74,6 @@ class Goal(BaseModel):
 class Team(BaseModel):
   api_id = peewee.IntegerField()
   name = peewee.CharField()
-
   class Meta:
     db_table = "teams"
 

@@ -11,9 +11,21 @@ class scraper(object):
       "date": m["date"],
       "home": m["home"],
       "away": m["away"],
+      "HG": m["HG"],
+      "AG": m["AG"],
+      "PH": m["PH"],
+      "PD": m["PD"],
+      "PA": m["PA"],
+      "MaxH": m["MaxH"],
+      "MaxD": m["MaxD"],
+      "MaxA": m["MaxA"],
+      "AvgH": m["AvgH"],
+      "AvgD": m["AvgD"],
+      "AvgA": m["AvgA"]
     }
     
-    M = Match.create(team_home_id=self.home_id, team_away_id=self.away_id, team_home=m["home"], team_away=m["away"], date=m["date"], home_win=self.addHomeWin(res))
+    M = Match.create(team_home_id=self.home_id, team_away_id=self.away_id, team_home=m["home"], team_away=m["away"], date=m["date"], home_win=self.addHomeWin(res), \
+                     hg=m["HG"], ag=m["AG"], ph=m["PH"], pd=m["PD"], pa=m["PA"], max_h=m["MaxH"], max_d=m["MaxD"], max_a=m["MaxA"], avg_h=m["AvgH"], avg_d=m["AvgD"], avg_a=m["AvgA"])
     M.save()
     self.addGoals(M, res)
     self.addPenalty(M, res)
@@ -68,7 +80,6 @@ class scraper(object):
 
   def getMinuto(self, res, index, column):
     minuto = 0
-    if (res["placar"]["eventos"][column][index]["periodo"] == 'intervalo-de-jogo')
     if (res["placar"]["eventos"][column][index]["minuto"] != ''):
       minuto = int(res["placar"]["eventos"][column][index]["minuto"]) + self.getPeriodo(res, column, index)
     return minuto
@@ -249,5 +260,6 @@ class scraper(object):
     return winner
 
   def getOrCreateTeams(self):
-    Team.get_or_create(api_id=self.__data["home_id"], name=self.__data["home"])
-    Team.get_or_create(api_id=self.__data["away_id"], name=self.__data["away"])
+    t1 = Team.get_or_create(api_id=self.__data["home_id"], name=self.__data["home"])
+    t2 = Team.get_or_create(api_id=self.__data["away_id"], name=self.__data["away"])
+    #Team.update([t1, t2], fields=[Team.goals_scored, Team.goals_conceded, Team.win_matches, Team.lost_matches])
