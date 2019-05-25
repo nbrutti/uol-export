@@ -41,7 +41,7 @@ class scraper(object):
     return self.__data
 
   def getMinutes(self, goal):
-    t = (45 if goal["id-periodo"] else 0) + int(goal['minuto'])
+    t = (45 if (goal["id-periodo"] == '2') else 0) + int(goal['minuto'])
     return t
 
   def getScoreWhenReplaced(self, M, res, substitution):
