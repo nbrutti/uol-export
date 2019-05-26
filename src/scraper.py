@@ -150,8 +150,8 @@ class scraper(object):
       y = 45 if y == 'INTERVALO' else y
 
       favorable_goals = self.findGoalsInterval(x, y, team)
-      opponents_goals = self.findGoalsInterval(x, y, self.__data["away"] if team == self.__data["home"] else self.__data["away"])
-
+      opponents_goals = self.findGoalsInterval(x, y, self.__data["away"] if team == self.__data["home"] else self.__data["home"])
+      
       if (favorable_goals):
         this_substitutions[i]["effectiveness"] = 1
       elif (not opponents_goals and team != self.__data["home"] and this_substitutions[i]['tactical_type'] in ['NA', 'DEF']):
