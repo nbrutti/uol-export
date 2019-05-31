@@ -6,7 +6,7 @@ import json
 
 
 # Importação do dataset
-file_src = '../output/br-league.json'
+file_src = 'output/br-league.json'
 
 class TeamStrength(object):
   def __init__(self):

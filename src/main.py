@@ -2,6 +2,7 @@ import requests
 import logging
 import json
 
+from hyperparameters.TeamStrength import TeamStrength
 from services.matchesParamsPrepare import *
 from config.defs import *
 from scraper import *
@@ -12,6 +13,12 @@ logging.basicConfig(filename='logs.txt', level=logging.DEBUG, format='%(asctime)
 
 matchesDataset = matchesParamsPrepare()
 output = []
+
+def addTeamStrength():
+  global output
+  for m in output:
+    m["away_team_strength"] = TeamStrength().buildParam(m["away"], m["date"][:4])
+    m["home_team_strength"] = TeamStrength().buildParam(m["home"], m["date"][:4])
 
 def exportToJson():
   global output
@@ -32,4 +39,6 @@ if __name__ == "__main__":
   pool.close()
   pool.join()
 
+exportToJson()
+addTeamStrength()
 exportToJson()
