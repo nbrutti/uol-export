@@ -90,24 +90,40 @@ class scraper(object):
         return res["placar"]["escalacao"]["jogadores-geral"][id]["posicao"]
     return None
 
+  def getIndexOfSub(self, pos):
+    if (pos == 'Goleiro'):
+      return 0
+    elif (pos == 'Zagueiro'):
+      return 1
+    elif (pos == 'Lateral-direito' or pos == 'Lateral-esquerdo'):
+      return 2
+    elif (pos == 'Volante'):
+      return 3
+    elif (pos == 'Meia'):
+      return 4
+    elif (pos == 'Meia-atacante'):
+      return 5
+    elif (pos == 'Atacante'):
+      return 6
+    else:
+      return -1
+
   def getSubTactialType(self, res, substitution):
     player_in_pos = self.getPlayerPosById(res, substitution["id_player_in"])
     player_out_pos = self.getPlayerPosById(res, substitution["id_player_out"])
-    if (player_in_pos is None or player_out_pos is None):
-      raise("Não foi possível extrair as posições do jogador")
-      return
-    if (player_in_pos == player_out_pos):
-      return "NA"
-    elif (player_in_pos in ['Meia', 'Meia-atacante', 'Atacante']):
-      if (player_out_pos in ['Lateral-direito', 'Zagueiro', 'Lateral-esquerdo', 'Volante']):
-        return "OFF"
-      elif (player_out_pos in ['Atacante']):
-        if (player_in_pos not in ['Atacante', 'Meia-atacante']):
-          return "DEF"
-      else:
-        return "NA"
-    else:
+
+    index_in = self.getIndexOfSub(player_in_pos)
+    index_out = self.getIndexOfSub(player_out_pos)
+
+    if (index_in == -1 or index_out == -1):
+      return None
+
+    if (index_in > index_out):
+      return "OFF"
+    elif (index_in < index_out):
       return "DEF"
+    else:
+      return "NA"
 
   def findGoalsInterval(self, x, y, team_goal):
     goalsofteam = []
