@@ -30,7 +30,7 @@ def fetch_url(m):
   res = requests.get(BASE_URL.format(m["home"], m["away"], m["date"]))
   try:
     output.append(scraper().getResponseInfo(m, res.json()))
-  except ValueError:
+  except:
     logging.debug('Erro ao consultar os dados da partida: {} x {} ocorrida em {}'.format(m["home"], m["away"], m["date"]))
 
 if __name__ == "__main__":

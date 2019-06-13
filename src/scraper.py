@@ -1,5 +1,8 @@
+import logging
 from models.Models import *
 from services.matchesParamsPrepare import *
+
+logging.basicConfig(filename='logs.txt', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class scraper(object):
 
@@ -24,14 +27,14 @@ class scraper(object):
       "AvgA": m["AvgA"]
     }
     
-    M = Match.create(team_home_id=self.home_id, team_away_id=self.away_id, team_home=m["home"], team_away=m["away"], date=m["date"], home_win=self.addHomeWin(res), \
-                     hg=m["HG"], ag=m["AG"], ph=m["PH"], pd=m["PD"], pa=m["PA"], max_h=m["MaxH"], max_d=m["MaxD"], max_a=m["MaxA"], avg_h=m["AvgH"], avg_d=m["AvgD"], avg_a=m["AvgA"])
+    M = Partida.create(id_time_casa=self.home_id, id_time_visitante=self.away_id, time_casa=m["home"], time_visitante=m["away"], data=m["date"], time_da_casa_venceu=self.addHomeWin(res), \
+                     HG=m["HG"], AG=m["AG"], PH=m["PH"], PD=m["PD"], PA=m["PA"], MAX_H=m["MaxH"], MAX_D=m["MaxD"], MAX_A=m["MaxA"], AVG_H=m["AvgH"], AVG_D=m["AvgD"], AVG_A=m["AvgA"])
     M.save()
     self.addGoals(M, res)
     self.addPenalty(M, res)
     self.addSubstitutions(M, res)
-    self.addSubstitutionsEffect(M, res, self.__data["home"])
-    self.addSubstitutionsEffect(M, res, self.__data["away"])
+    #self.addSubstitutionsEffect(M, res, self.__data["home"])
+    #self.addSubstitutionsEffect(M, res, self.__data["away"])
     self.addYellowCards(M, res)
     self.addRedCards(M, res)
     self.getOrCreateTeams()
@@ -116,6 +119,7 @@ class scraper(object):
     index_out = self.getIndexOfSub(player_out_pos)
 
     if (index_in == -1 or index_out == -1):
+      logging.info("Não foi possível extrair o tipo da substituição do jogo {} x {}".format(self.__data["home"], self.__data["away"]))
       return None
 
     if (index_in > index_out):
@@ -133,7 +137,7 @@ class scraper(object):
           goalsofteam.append(g)
     return goalsofteam
 
-  def addSubstitutionsEffect(self, res, M, team):
+  def addSubstitutionsEffect(self, this_substitution, team):
     '''
       Verifica se a substituição foi efetiva, com base nas seguintes situações:
       Se a equipe mandante estiver ganhando e após a substituição ela venha a
@@ -145,37 +149,36 @@ class scraper(object):
       derada positiva(1), caso contrário (0).
 
     '''
-    this_substitutions = [s if team == s["team"] else None for s in self.__data["substitutions"]]
-    for i in range(len(this_substitutions)):
-      if (this_substitutions[i] is None):
-        continue
-      time = 45 if this_substitutions[i]["time"] == 'INTERVALO' else this_substitutions[i]["time"]
-      x = int(time)
+    #this_substitutions = [s if team == s["team"] else None for s in self.__data["substitutions"]]
+    time = 45 if this_substitution["time"] == 'INTERVALO' else this_substitution["time"]
+    x = int(time)
 
-      try:
-        count = 1
-        while (True):
-          if (this_substitutions[i + count] is not None):
-            y = int(this_substitutions[i + count]["time"])
-            break
-          else:
-            count += 1
-      except:
-        y = 90
+    '''try:
+      count = 1
+      while (True):
+        if (this_substitutions[i + count] is not None):
+          y = int(this_substitutions[i + count]["time"])
+          break
+        else:
+          count += 1
+    except:
+      y = 90'''
 
-      y = 45 if y == 'INTERVALO' else y
+    y = 90
 
-      favorable_goals = self.findGoalsInterval(x, y, team)
-      opponents_goals = self.findGoalsInterval(x, y, self.__data["away"] if team == self.__data["home"] else self.__data["home"])
-      
-      if (favorable_goals):
-        this_substitutions[i]["effectiveness"] = 1
-      elif (not opponents_goals and team != self.__data["home"] and this_substitutions[i]['tactical_type'] in ['NA', 'DEF']):
-        this_substitutions[i]["effectiveness"] = 1
-      elif (not opponents_goals and team == self.__data["home"] and this_substitutions[i]['tactical_type'] in ['DEF']):
-        this_substitutions[i]["effectiveness"] = 1
-      else:
-        this_substitutions[i]["effectiveness"] = 0
+    favorable_goals = self.findGoalsInterval(x, y, team)
+    opponents_goals = self.findGoalsInterval(x, y, self.__data["away"] if team == self.__data["home"] else self.__data["home"])
+    effectiveness   = 0
+
+    if (favorable_goals):
+      effectiveness = 1
+    elif (not opponents_goals and team != self.__data["home"] and this_substitution['tactical_type'] in ['NA', 'DEF']):
+      effectiveness = 1
+    elif (not opponents_goals and team == self.__data["home"] and this_substitution['tactical_type'] in ['DEF']):
+      effectiveness = 1
+    else:
+      effectiveness = 0
+    return effectiveness
 
   def addSubstitutions(self, M, res):
     number_sub_home = 0
@@ -200,9 +203,10 @@ class scraper(object):
       substitution["tactical_type"] = self.getSubTactialType(res, substitution)
       substitution["score_home"], substitution["score_away"] = self.getScoreWhenReplaced(M, res, substitution)
       substitution["number_of_sub"] = number_sub_home if substitution["team"] == self.__data["home"] else number_sub_away
+      substitution["effectiveness"] = self.addSubstitutionsEffect(substitution, self.__data["away"])
 
-      # s = Substitution.create(time=substitution["time"], tactical_type=self.getSubTactialType(res, substitution)).save()
-      # MatchSubstitution.create(match=M, substitution=s).save()
+      s = Substituicao.create(tempo=substitution["time"], tipo_tatico=substitution["tactical_type"], efetividade=substitution["effectiveness"]).save()
+      PartidasSubstituicoes.create(partida=M, substituicao=s).save()
       self.__data["substitutions"].append(substitution)
 
   def addPenalty(self, M, res):
@@ -212,8 +216,8 @@ class scraper(object):
       penalty = {}
       penalty["time"] = str(self.getMinuto(res, i, "penaltis"))
       penalty["team"] = self.__data["home"] if self.getTeamsIds(res)[0] == res["placar"]["eventos"]["penaltis"][i]["id-equipe"] else self.__data["away"]
-      p = Penalty.create(time=penalty["time"]).save()
-      MatchPenalty.create(match=M, penalty=p).save()
+      p = Penalti.create(tempo=penalty["time"]).save()
+      PartidasPenaltis.create(partida=M, penalti=p).save()
       self.__data["penaltys"].append(penalty)
 
   def addYellowCards(self, M, res):
@@ -224,8 +228,8 @@ class scraper(object):
       yellowcard["time"] = str(self.getMinuto(res, i, "cartoes-amarelos"))
       yellowcard["team"] = self.__data["home"] if self.getTeamsIds(res)[0] == res["placar"]["eventos"]["cartoes-amarelos"][i]["id-equipe"] else self.__data["away"]
       yellowcard["player_id"] = res["placar"]["eventos"]["cartoes-amarelos"][i]["id-jogador"]
-      y = YellowCard.create(time=yellowcard["time"], player_id=yellowcard["player_id"]).save()
-      MatchYcard.create(match=M, y_card=y).save()
+      y = CartaoAmarelo.create(tempo=yellowcard["time"], id_jogador=yellowcard["player_id"]).save()
+      PartidasCartoesAmarelos.create(partida=M, cartoes_amarelos=y).save()
       self.__data["yellowcards"].append(yellowcard)
 
   def addRedCards(self, M, res):
@@ -236,8 +240,8 @@ class scraper(object):
       redcard["time"] = str(self.getMinuto(res, i, "cartoes-vermelhos"))
       redcard["team"] = self.__data["home"] if self.getTeamsIds(res)[0] == res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-equipe"] else self.__data["away"]
       redcard["player_id"] = res["placar"]["eventos"]["cartoes-vermelhos"][i]["id-jogador"]
-      r = RedCard.create(time=redcard["time"], player_id=redcard["player_id"]).save()
-      MatchRcard.create(match=M, r_card=r).save()
+      r = CartaoVermelho.create(tempo=redcard["time"], id_jogador=redcard["player_id"]).save()
+      PartidasCartoesVermelhos.create(partida=M, cartoes_vermelhos=r).save()
       self.__data["redcards"].append(redcard)
 
   def addGoalsAgainst(self, M, res):
@@ -248,8 +252,8 @@ class scraper(object):
       againstgoal["time"] = str(self.getMinuto(res, i, "gols-contra"))
       againstgoal["team"] = self.__data["home"] if self.getTeamsIds(res)[0] == res["placar"]["eventos"]["gols-contra"][i]["id-equipe"] else self.__data["away"]
       againstgoal["player_id"] = res["placar"]["eventos"]["gols-contra"][i]["id-jogador"]
-      ga = GoalsAgainst.create(time=againstgoal["time"], player_id=againstgoal["player_id"]).save()
-      MatchAgainstGoal.create(match=M, against_goal=ga).save()
+      ga = GolContra.create(tempo=againstgoal["time"], id_jogador=againstgoal["player_id"]).save()
+      PartidasGolsContra.create(partida=M, gols_contra=ga).save()
       self.__data["againstgoals"].append(againstgoal)
 
   def addGoals(self, M, res):
@@ -260,8 +264,8 @@ class scraper(object):
       goal["time"] = str(self.getMinuto(res, i, "gols"))
       goal["team"] = self.__data["home"] if self.getTeamsIds(res)[0] == res["placar"]["eventos"]["gols"][i]["id-equipe"] else self.__data["away"]
       goal["player_id"] = res["placar"]["eventos"]["gols"][i]["id-jogador"]
-      g = Goal.create(time=goal["time"], player_id=goal["player_id"]).save()
-      MatchGoal.create(match=M, goal=g).save()
+      g = Gol.create(tempo=goal["time"], id_jogador=goal["player_id"]).save()
+      PartidasGols.create(partida=M, gols=g).save()
       self.__data["goals"].append(goal)
 
   def addHomeWin(self, res):
@@ -276,6 +280,6 @@ class scraper(object):
     return winner
 
   def getOrCreateTeams(self):
-    t1 = Team.get_or_create(api_id=self.__data["home_id"], name=self.__data["home"])
-    t2 = Team.get_or_create(api_id=self.__data["away_id"], name=self.__data["away"])
-    #Team.update([t1, t2], fields=[Team.goals_scored, Team.goals_conceded, Team.win_matches, Team.lost_matches])
+    t1 = Time.get_or_create(api_id=0 if self.__data["home_id"] == '' else self.__data["home_id"], nome=self.__data["home"])
+    t2 = Time.get_or_create(api_id=0 if self.__data["away_id"] == '' else self.__data["home_id"], nome=self.__data["away"])
+    #Time.update([t1, t2], fields=[Time.goals_scored, Time.goals_conceded, Time.win_matches, Time.lost_matches])

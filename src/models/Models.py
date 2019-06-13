@@ -7,119 +7,120 @@ class BaseModel(peewee.Model):
   class Meta:
     database = db
 
-class Match(BaseModel):
-  team_home_id = peewee.CharField()
-  team_away_id = peewee.CharField()
-  team_home = peewee.CharField()
-  team_away = peewee.CharField()
-  date = peewee.DateField()
-  home_win = peewee.IntegerField()
-  hg = peewee.FloatField()
-  ag = peewee.FloatField()
-  ph = peewee.FloatField()
-  pd = peewee.FloatField()
-  pa = peewee.FloatField()
-  max_h = peewee.FloatField()
-  max_d = peewee.FloatField()
-  max_a = peewee.FloatField()
-  avg_h = peewee.FloatField()
-  avg_d = peewee.FloatField()
-  avg_a = peewee.FloatField()
+class Partida(BaseModel):
+  id_time_casa = peewee.CharField()
+  id_time_visitante = peewee.CharField()
+  time_casa = peewee.CharField()
+  time_visitante = peewee.CharField()
+  data = peewee.DateField()
+  time_da_casa_venceu = peewee.IntegerField()
+  HG = peewee.FloatField()
+  AG = peewee.FloatField()
+  PH = peewee.FloatField()
+  PD = peewee.FloatField()
+  PA = peewee.FloatField()
+  MAX_H = peewee.FloatField()
+  MAX_D = peewee.FloatField()
+  MAX_A = peewee.FloatField()
+  AVG_H = peewee.FloatField()
+  AVG_D = peewee.FloatField()
+  AVG_A = peewee.FloatField()
 
   class Meta:
-    db_table = 'matches'
+    db_table = 'partidas'
 
-class Substitution(BaseModel):
+class Substituicao(BaseModel):
   # Pode ser INTERVALO
-  time = peewee.CharField()
-  tactical_type = peewee.CharField(null=True)
+  tempo = peewee.CharField()
+  tipo_tatico = peewee.CharField(null=True)
+  efetividade = peewee.IntegerField()
 
   class Meta:
-    db_table = 'substitutions'
+    db_table = 'substituicoes'
 
-class Penalty(BaseModel):
-  time = peewee.CharField()
-
-  class Meta:
-    db_table = 'penaltys'
-
-class YellowCard(BaseModel):
-  time = peewee.CharField()
-  player_id = peewee.CharField()
+class Penalti(BaseModel):
+  tempo = peewee.CharField()
 
   class Meta:
-    db_table = 'ycards'
+    db_table = 'penaltis'
 
-class RedCard(BaseModel):
-  time = peewee.CharField()
-  player_id = peewee.CharField()
-
-  class Meta:
-    db_table = 'rcards'
-
-class GoalsAgainst(BaseModel):
-  time = peewee.CharField()
-  player_id = peewee.CharField()
+class CartaoAmarelo(BaseModel):
+  tempo = peewee.CharField()
+  id_jogador = peewee.CharField()
 
   class Meta:
-    db_table = 'against_goals'
+    db_table = 'cartoes_amarelos'
 
-class Goal(BaseModel):
-  time = peewee.CharField()
-  player_id = peewee.CharField()
+class CartaoVermelho(BaseModel):
+  tempo = peewee.CharField()
+  id_jogador = peewee.CharField()
 
   class Meta:
-    db_table = 'goals'
+    db_table = 'cartoes_vermelhos'
 
-class Team(BaseModel):
+class GolContra(BaseModel):
+  tempo = peewee.CharField()
+  id_jogador = peewee.CharField()
+
+  class Meta:
+    db_table = 'gols_contra'
+
+class Gol(BaseModel):
+  tempo = peewee.CharField()
+  id_jogador = peewee.CharField()
+
+  class Meta:
+    db_table = 'gols'
+
+class Time(BaseModel):
   api_id = peewee.IntegerField()
-  name = peewee.CharField()
+  nome   = peewee.CharField()
   class Meta:
-    db_table = "teams"
+    db_table = "times"
 
-### Relationships ###
+### Relacionamentos ###
 
-class MatchSubstitution(BaseModel):
-  match = peewee.ForeignKeyField(Match)
-  substitution = peewee.ForeignKeyField(Substitution)
+class PartidasSubstituicoes(BaseModel):
+  partida = peewee.ForeignKeyField(Partida)
+  substituicao = peewee.ForeignKeyField(Substituicao)
   
   class Meta:
-    db_table = 'match_substitution'
+    db_table = 'partidas_substituicoes'
 
-class MatchPenalty(BaseModel):
-  match = peewee.ForeignKeyField(Match)
-  penalty = peewee.ForeignKeyField(Penalty)
-
-  class Meta:
-    db_table = 'match_penalty'
-
-class MatchYcard(BaseModel):
-  match = peewee.ForeignKeyField(Match)
-  y_card = peewee.ForeignKeyField(YellowCard)
+class PartidasPenaltis(BaseModel):
+  partida = peewee.ForeignKeyField(Partida)
+  penalti = peewee.ForeignKeyField(Penalti)
 
   class Meta:
-    db_table = 'match_ycards'
+    db_table = 'partidas_penaltis'
 
-class MatchRcard(BaseModel):
-  match = peewee.ForeignKeyField(Match)
-  r_card = peewee.ForeignKeyField(RedCard)
-
-  class Meta:
-    db_table = 'match_rcards'
-
-class MatchAgainstGoal(BaseModel):
-  match = peewee.ForeignKeyField(Match)
-  against_goal = peewee.ForeignKeyField(GoalsAgainst)
+class PartidasCartoesAmarelos(BaseModel):
+  partida = peewee.ForeignKeyField(Partida)
+  cartoes_amarelos = peewee.ForeignKeyField(CartaoAmarelo)
 
   class Meta:
-    db_table = 'match_against_goals'
+    db_table = 'partidas_cartoes_amarelos'
 
-class MatchGoal(BaseModel):
-  match = peewee.ForeignKeyField(Match)
-  goal = peewee.ForeignKeyField(Goal)
+class PartidasCartoesVermelhos(BaseModel):
+  partida = peewee.ForeignKeyField(Partida)
+  cartoes_vermelhos = peewee.ForeignKeyField(CartaoVermelho)
 
   class Meta:
-    db_table = 'match_goals'
+    db_table = 'partidas_cartoes_vermelhos'
 
-db.create_tables([Match, Substitution, Penalty, YellowCard, RedCard, GoalsAgainst, Goal, Team])
-db.create_tables([MatchSubstitution, MatchPenalty, MatchYcard, MatchRcard, MatchAgainstGoal, MatchGoal])
+class PartidasGolsContra(BaseModel):
+  partida = peewee.ForeignKeyField(Partida)
+  gols_contra = peewee.ForeignKeyField(GolContra)
+
+  class Meta:
+    db_table = 'partidas_gols_contra'
+
+class PartidasGols(BaseModel):
+  partida = peewee.ForeignKeyField(Partida)
+  gols = peewee.ForeignKeyField(Gol)
+
+  class Meta:
+    db_table = 'partidas_gols'
+
+db.create_tables([Partida, Substituicao, Penalti, CartaoAmarelo, CartaoVermelho, GolContra, Gol, Time])
+db.create_tables([PartidasSubstituicoes, PartidasPenaltis, PartidasCartoesAmarelos, PartidasCartoesVermelhos, PartidasGolsContra, PartidasGols])
