@@ -96,18 +96,16 @@ class scraper(object):
   def getIndexOfSub(self, pos):
     if (pos == 'Goleiro'):
       return 0
-    elif (pos == 'Zagueiro'):
+    elif (pos == 'Zagueiro' or pos == 'Lateral-direito' or pos == 'Lateral-esquerdo'):
       return 1
-    elif (pos == 'Lateral-direito' or pos == 'Lateral-esquerdo'):
-      return 2
     elif (pos == 'Volante'):
-      return 3
+      return 2
     elif (pos == 'Meia'):
-      return 4
+      return 3
     elif (pos == 'Meia-atacante'):
-      return 5
+      return 4
     elif (pos == 'Atacante'):
-      return 6
+      return 5
     else:
       return -1
 
