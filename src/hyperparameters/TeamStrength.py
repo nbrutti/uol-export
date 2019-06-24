@@ -43,8 +43,29 @@ class TeamStrength(object):
   def getTotalMatches(self, team, season):
     return [(d["home"] == team or d["away"] == team) and (season == d["date"][:4]) for d in self._dict].count(True)
 
-  '''def getDifferential(self, team):
-    return ((goals_scored_by(_dict, team) - goals_allowed(_dict, team)) / total_matches)'''
+  def getTotalGoalsAllowed(self, team):
+    count = 0
+    for d in self._dict:
+      if (d["away"] == team):
+        count += [g["team"] != team for g in d["goals"]].count(True)
+    return count
+
+  def getTotalGoalsScored(self, team):
+    count = 0
+    for d in self._dict:
+      if (d["away"] == team):
+        count += [g["team"] == team for g in d["goals"]].count(True)
+    return count
+
+  def buildFVO(self, team):
+    total_matches = [(d["home"] == team or d["away"] == team) for d in self._dict].count(True)
+    total_goals_scored = self.getTotalGoalsAllowed(team)
+    return total_goals_scored / total_matches
+
+  def buildFVD(self, team):
+    total_matches = [(d["home"] == team or d["away"] == team) for d in self._dict].count(True)
+    total_goals_scored = self.getTotalGoalsAllowed(team)
+    return total_goals_scored / total_matches
 
   def buildParam(self, team_home, season):
     total_matches = self.getTotalMatches(team_home, season)
