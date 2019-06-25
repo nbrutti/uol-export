@@ -20,7 +20,9 @@ def addTeamStrength():
     m["away_team_strength"] = TeamStrength().buildParam(m["away"], m["date"][:4])
     m["home_team_strength"] = TeamStrength().buildParam(m["home"], m["date"][:4])
     m["FVO"] = TeamStrength().buildFVO(m["away"])
-    m["FVD"] = TeamStrength().buildFVD(m["home"])
+    m["FVD"] = TeamStrength().buildFVD(m["away"])
+    m["FCO"] = TeamStrength().buildFVO(m["home"])
+    m["FCD"] = TeamStrength().buildFVD(m["home"])
 
 def exportToJson():
   global output
