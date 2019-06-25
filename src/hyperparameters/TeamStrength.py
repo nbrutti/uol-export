@@ -59,13 +59,13 @@ class TeamStrength(object):
 
   def buildFVO(self, team):
     total_matches = [(d["home"] == team or d["away"] == team) for d in self._dict].count(True)
-    total_goals_scored = self.getTotalGoalsAllowed(team)
+    total_goals_scored = self.getTotalGoalsScored(team)
     return total_goals_scored / total_matches
 
   def buildFVD(self, team):
     total_matches = [(d["home"] == team or d["away"] == team) for d in self._dict].count(True)
-    total_goals_scored = self.getTotalGoalsAllowed(team)
-    return total_goals_scored / total_matches
+    total_goals_allowed = self.getTotalGoalsAllowed(team)
+    return total_goals_allowed / total_matches
 
   def buildParam(self, team_home, season):
     total_matches = self.getTotalMatches(team_home, season)
