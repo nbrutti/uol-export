@@ -43,29 +43,72 @@ class TeamStrength(object):
   def getTotalMatches(self, team, season):
     return [(d["home"] == team or d["away"] == team) and (season == d["date"][:4]) for d in self._dict].count(True)
 
-  def getTotalGoalsAllowed(self, team):
+  def getTotalGoalsAllowed(self, team, season):
+    count = 0
+    for d in self._dict:
+      if (d["away"] == team and d["date"][:4] == season):
+        count += [g["team"] != team for g in d["goals"]].count(True)
+    return count
+
+  def getTotalGoalsAllowedd(self, team):
     count = 0
     for d in self._dict:
       if (d["away"] == team):
         count += [g["team"] != team for g in d["goals"]].count(True)
     return count
 
-  def getTotalGoalsScored(self, team):
+  def getTotalGoalsScoredd(self, team):
     count = 0
     for d in self._dict:
       if (d["away"] == team):
         count += [g["team"] == team for g in d["goals"]].count(True)
     return count
 
+  def getTotalGoalsScored(self, team, season):
+    count = 0
+    for d in self._dict:
+      if (d["away"] == team and d["date"][:4] == season):
+        count += [g["team"] == team for g in d["goals"]].count(True)
+    return count
+
   def buildFVO(self, team):
     total_matches = [(d["home"] == team or d["away"] == team) for d in self._dict].count(True)
-    total_goals_scored = self.getTotalGoalsScored(team)
+    total_goals_scored = self.getTotalGoalsScoredd(team)
     return total_goals_scored / total_matches
 
   def buildFVD(self, team):
     total_matches = [(d["home"] == team or d["away"] == team) for d in self._dict].count(True)
-    total_goals_allowed = self.getTotalGoalsAllowed(team)
+    total_goals_allowed = self.getTotalGoalsAllowedd(team)
     return total_goals_allowed / total_matches
+
+  def getHTA(self, date):
+    total_home_goals = 0
+    total_away_goals = 0
+    total_matches = 0
+
+    for d in self._dict:
+      if (d["date"][:4] == date):
+        for g in d["goals"]:
+          if (g["team"] == d["home"]):
+            total_home_goals += 1
+
+    for d in self._dict:
+      if (d["date"][:4] == date):
+        for g in d["goals"]:
+          if (g["team"] == d["away"]):
+            total_away_goals += 1
+
+    for d in self._dict:
+      total_matches += 1
+
+      return (total_home_goals - total_away_goals) / total_matches
+
+  def buildD(self, team, season):
+    scored = self.getTotalGoalsScored(team, season)
+    allowed = self.getTotalGoalsAllowed(team, season)
+    total_matches = self.getTotalMatches(team, season)
+
+    return (scored - allowed) / total_matches
 
   def buildParam(self, team_home, season):
     total_matches = self.getTotalMatches(team_home, season)

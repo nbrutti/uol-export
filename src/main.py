@@ -16,9 +16,12 @@ output = []
 
 def addTeamStrength():
   global output
+  # Recupera o HTA do ano respectivo
   for m in output:
-    m["away_team_strength"] = TeamStrength().buildParam(m["away"], m["date"][:4])
-    m["home_team_strength"] = TeamStrength().buildParam(m["home"], m["date"][:4])
+    HTA = TeamStrength().getHTA(m["date"][:4])
+    Dj = TeamStrength().buildD(m["home"], m["date"][:4])
+    Dk = TeamStrength().buildD(m["away"], m["date"][:4])
+    m["Z"] = 1 if (Dj - Dk + HTA >= 0) else 0
     m["FVO"] = TeamStrength().buildFVO(m["away"])
     m["FVD"] = TeamStrength().buildFVD(m["away"])
     m["FCO"] = TeamStrength().buildFVO(m["home"])
