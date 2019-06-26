@@ -101,7 +101,7 @@ class TeamStrength(object):
     for d in self._dict:
       total_matches += 1
 
-      return (total_home_goals - total_away_goals) / total_matches
+    return (total_home_goals - total_away_goals) / total_matches
 
   def buildD(self, team, season):
     scored = self.getTotalGoalsScored(team, season)
