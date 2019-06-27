@@ -46,7 +46,7 @@ class TeamStrength(object):
   def getTotalGoalsAllowed(self, team, season):
     count = 0
     for d in self._dict:
-      if (d["away"] == team and d["date"][:4] == season):
+      if ((d["away"] == team or d["home"] == team) and d["date"][:4] == season):
         count += [g["team"] != team for g in d["goals"]].count(True)
     return count
 
@@ -67,7 +67,7 @@ class TeamStrength(object):
   def getTotalGoalsScored(self, team, season):
     count = 0
     for d in self._dict:
-      if (d["away"] == team and d["date"][:4] == season):
+      if ((d["away"] == team or d["home"] == team) and d["date"][:4] == season):
         count += [g["team"] == team for g in d["goals"]].count(True)
     return count
 
